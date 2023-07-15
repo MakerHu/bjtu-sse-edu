@@ -10,7 +10,7 @@ const commonRouter =
     children: [
         {
             path: '',
-            redirect: '/learn'
+            redirect: '/home'
         },
     ]
 

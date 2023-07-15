@@ -10,7 +10,7 @@ const headerRouter =
     children: [
         {
             path: '',
-            redirect: '/learn'
+            redirect: '/home'
         },
         {
             path: 'tools',
