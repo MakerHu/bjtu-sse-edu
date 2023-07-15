@@ -13,7 +13,6 @@
 import { ref } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { useStore } from 'vuex'
-import { useRoute } from 'vue-router'
 
 const store = useStore()
 const route = useRoute()
