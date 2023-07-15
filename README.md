@@ -20,11 +20,12 @@ git commit -m 'deploy'
 git subtree push --prefix dist origin gh-pages
 ```
 
-### 第一次部署
+### 后期部署
+
+在Bash窗口中运行:
 
 ```sh
-npm run build
-git add -f dist
-git commit -m 'deploy'
-git push origin `git subtree split --prefix dist master`:gh-pages --force
+bash deploy
 ```
+
+如果有问题，可以尝试删除dist后重新执行命令

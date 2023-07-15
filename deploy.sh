@@ -15,6 +15,6 @@ git add -A
 git commit -m 'deploy'
 
 # 提交到 https://github.com:nusr/resume-vue 项目的 gh-pages 分支
-git push -f https://github.com/MakerHu/bjtu-sse-edu.git main:gh-pages
+git push -f https://github.com/MakerHu/bjtu-sse-edu.git master:gh-pages
 
 cd -
