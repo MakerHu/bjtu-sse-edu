@@ -1,6 +1,6 @@
 // 此文件专门负责项目的路由
 
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHistory, createWebHashHistory  } from 'vue-router'
 import commonRouter from './commonRouter'
 import headerRouter from './headerRouter'
 
@@ -8,11 +8,18 @@ import headerRouter from './headerRouter'
 // import Tool from '@/views/Tool.vue'
 // const Tool = ()=> import('@/views/Tool.vue')
 
+import Test from '@/views/Test.vue'
+
 const routes = [
     // 不带导航栏的公共部分
     commonRouter,
     // 带有头部导航栏的路由
     headerRouter,
+    {
+        path: '/asd',
+        meta: { title: '测试页面2' },
+        component: Test,
+    }
     // // 管理端
     // manageRouter,
     // manageNavRouter,
@@ -25,7 +32,8 @@ const routes = [
 // 创建并暴露一个路由器
 const router = createRouter({
     // mode: 'history',    // 路由模式，该模式不会在地址中显示井号#
-    history: createWebHistory('/bjtu-sse-edu/'),    // 路由模式，该模式不会在地址中显示井号#
+    // history: createWebHistory('/bjtu-sse-edu/'),    // 路由模式，该模式不会在地址中显示井号#
+    history: createWebHashHistory('/bjtu-sse-edu/'),    // 路由模式，该模式不会在地址中显示井号#
     routes,
 })
 
