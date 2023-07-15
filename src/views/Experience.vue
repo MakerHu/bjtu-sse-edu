@@ -3,7 +3,7 @@
 </template>
 
 <script setup>
-import { ref, reactive, onMounted } from 'vue'
+import { ref, reactive, onMounted, computed } from 'vue'
 import { useStore } from 'vuex'
 import { useRoute, useRouter } from 'vue-router'
 
@@ -11,8 +11,17 @@ const store = useStore()
 const route = useRoute()
 const router = useRouter()
 
-onMounted(() => {
+const activePage = computed({
+    get() {
+        return store.getters['common/getActivePage']
+    },
+    set(value) {
+        store.dispatch('common/asyncUpdateActivePage', value)
+    }
+})
 
+onMounted(() => {
+    activePage.value = 'experience'
 })
 </script>
 

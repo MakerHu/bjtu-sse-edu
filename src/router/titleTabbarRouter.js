@@ -15,17 +15,17 @@ const titleTabbarRouter =
         },
         {
             path: 'learn',
-            meta: { title: '学习' },
+            meta: { title: '课程学习' },
             component: () => import('@/views/Learn.vue')
         },
         {
             path: 'expand',
-            meta: { title: '拓展' },
+            meta: { title: '知识拓展' },
             component: () => import('@/views/Expand.vue')
         },
         {
             path: 'experience',
-            meta: { title: '经验' },
+            meta: { title: '经验学习' },
             component: () => import('@/views/Experience.vue')
         },
     ]
