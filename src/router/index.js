@@ -3,30 +3,22 @@
 import { createRouter, createWebHistory, createWebHashHistory  } from 'vue-router'
 import commonRouter from './commonRouter'
 import headerRouter from './headerRouter'
+import headerTabbarRouter from './headerTabbarRouter'
+import titleTabbarRouter from './titleTabbarRouter'
 
 // 引入组件
 // import Tool from '@/views/Tool.vue'
 // const Tool = ()=> import('@/views/Tool.vue')
-
-import Test from '@/views/Test.vue'
 
 const routes = [
     // 不带导航栏的公共部分
     commonRouter,
     // 带有头部导航栏的路由
     headerRouter,
-    {
-        path: '/asd',
-        meta: { title: '测试页面2' },
-        component: Test,
-    }
-    // // 管理端
-    // manageRouter,
-    // manageNavRouter,
-
-    // // 客户端
-    // clientRouter,
-    // clientNavRouter,
+    // 带有返回、标题和底部导航栏的路由
+    headerTabbarRouter,
+    // 带有标题和底部导航栏的路由
+    titleTabbarRouter,
 ]
 
 // 创建并暴露一个路由器

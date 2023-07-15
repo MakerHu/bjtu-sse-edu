@@ -10,12 +10,7 @@ const commonRouter =
     children: [
         {
             path: '',
-            redirect: '/tools'
-        },
-        {
-            path: 'test',
-            meta: { title: '测试页面' },
-            component: () => import('@/views/Test.vue')
+            redirect: '/learn'
         },
     ]
 

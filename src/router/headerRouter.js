@@ -10,12 +10,12 @@ const headerRouter =
     children: [
         {
             path: '',
-            redirect: '/tools'
+            redirect: '/learn'
         },
         {
             path: 'tools',
             meta: { title: '可微工具箱', requiresAuth: false },
-            component: () => import('@/views/ToolCards.vue')
+            component: () => import('@/views/Test.vue')
         },
         {
             path: 'tools/:toolId',

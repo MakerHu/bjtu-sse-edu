@@ -1,5 +1,5 @@
 <template>
-    这是一个测试页面
+    这是拓展页面
 </template>
 
 <script setup>
