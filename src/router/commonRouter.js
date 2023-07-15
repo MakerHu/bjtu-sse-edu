@@ -17,16 +17,6 @@ const commonRouter =
             meta: { title: '测试页面' },
             component: () => import('@/views/Test.vue')
         },
-        {
-            path: 'login',
-            meta: { title: '登录 | 可微工具箱', requiresAuth: false },
-            component: () => import('@/views/Login.vue')
-        },
-        {
-            path: 'register',
-            meta: { title: '注册 | 可微工具箱', requiresAuth: false },
-            component: () => import('@/views/Register.vue')
-        },
     ]
 
 }

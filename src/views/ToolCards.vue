@@ -29,7 +29,6 @@ import { useStore } from 'vuex'
 import { useRouter } from 'vue-router'
 import emitter from '@/bus/eventBus'
 import { ElMessage } from 'element-plus'
-import { getToolsPage } from '@/apis/ToolApi'
 
 import KeWeiPagination from '@/components/KeWeiPagination.vue'
 
@@ -55,10 +54,7 @@ const keyword = computed(() => {
 
 const handleCurrentChange = () => {
     pageParams.keywords = keyword.value
-    getToolsPage(pageParams).then((res) => {
-        state.myToolsPage = res
-    }).catch((err) => {
-    })
+    
 }
 
 const search = (keywordStr) => {

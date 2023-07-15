@@ -13,7 +13,7 @@
         <div class="right">
             <div class="avatar pointer">
                 <div class="username my-shadow text-none-select" @click="onAvatarClick()">
-                    {{ username }}
+                    <!-- {{ username }} -->
                 </div>
             </div>
             <div class="more my-shadow" v-show="showMore">
@@ -32,7 +32,6 @@
 import { ref, computed, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { useStore } from 'vuex'
-import { pinyin } from 'pinyin-pro'
 import emitter from '@/bus/eventBus'
 import KeWeiSearch from '@/components/KeWeiSearch.vue'
 import KeWeiButton from '@/components/KeWeiButton.vue'
@@ -50,31 +49,12 @@ defineProps({
     }
 })
 
-const username = computed(() => {
-    let uname = store.getters['authority/getUser'].uname
-    // 获取数组形式不带声调的拼音
-    let unamePinyin = pinyin(uname, { toneType: 'none', type: 'array' });
-    uname = ''
-    if (unamePinyin[0]) {
-        uname += unamePinyin[0].charAt(0)
-    }
-
-    if (unamePinyin[1]) {
-        uname += unamePinyin[1].charAt(0)
-    }
-
-    if (unamePinyin[2]) {
-        uname += unamePinyin[2].charAt(0)
-    }
-    return uname.toUpperCase()
-})
-
 const keywordStroe = computed(() => {
     return store.getters['common/getKeyword']
 })
 
 const onLogoClick = () => {
-    router.push('/tools')
+    router.push('/test')
 }
 
 const onAvatarClick = () => {
@@ -82,11 +62,11 @@ const onAvatarClick = () => {
 }
 
 const onLoginClick = () => {
-    router.push('/login')
+    router.push('/test')
 }
 
 const onProfileClick = () => {
-    router.push('/user/profile')
+    router.push('/test')
 }
 
 const onSearch = () => {
