@@ -1,5 +1,5 @@
 <template>
-    这是一个测试页面
+    这是一个测试页面呀
 </template>
 
 <script setup>
