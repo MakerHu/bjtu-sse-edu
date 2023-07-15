@@ -1,0 +1,1 @@
+import{e as a,u as o,a as c,h as r,f as n}from"./index-7c8fba1a.js";const i={__name:"Experience",setup(u){const e=a();o(),c();const s=r({get(){return e.getters["common/getActivePage"]},set(t){e.dispatch("common/asyncUpdateActivePage",t)}});return n(()=>{s.value="experience"}),(t,p)=>" 这是经验页面 "}};export{i as default};
