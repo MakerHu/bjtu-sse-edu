@@ -13,7 +13,7 @@ const headerRouter =
             redirect: '/home'
         },
         {
-            path: 'tools',
+            path: 'test',
             meta: { title: '可微工具箱', requiresAuth: false },
             component: () => import('@/views/Test.vue')
         },
