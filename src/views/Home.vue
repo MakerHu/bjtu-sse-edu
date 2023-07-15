@@ -1,14 +1,7 @@
 <template>
     <van-swipe class="my-swipe" :autoplay="3000" indicator-color="white">
-        <van-swipe-item>
-            <van-image class="swipe-img" src="/bjtu-sse-edu/src/assets/swipe1.jpeg">
-                <template v-slot:loading>
-                    <van-loading type="spinner" size="20" />
-                </template>
-            </van-image>
-        </van-swipe-item>
-        <van-swipe-item>
-            <van-image class="swipe-img" src="/bjtu-sse-edu/src/assets/swipe2.jpg">
+        <van-swipe-item v-for="item,index in swipeImages">
+            <van-image class="swipe-img" :src="item">
                 <template v-slot:loading>
                     <van-loading type="spinner" size="20" />
                 </template>
@@ -22,6 +15,9 @@ import { ref, reactive, onMounted, computed } from 'vue'
 import { useStore } from 'vuex'
 import { useRoute, useRouter } from 'vue-router'
 
+import swipe1 from '@/assets/swipe1.jpeg'
+import swipe2 from '@/assets/swipe2.jpg'
+
 const store = useStore()
 const route = useRoute()
 const router = useRouter()
@@ -34,6 +30,12 @@ const activePage = computed({
         store.dispatch('common/asyncUpdateActivePage', value)
     }
 })
+
+const swipeImages = [
+    swipe1,
+    swipe2,
+    'https://bjtu.edu.cn/images/img2019/logo_01.png'
+]
 
 onMounted(() => {
     activePage.value = 'home'
