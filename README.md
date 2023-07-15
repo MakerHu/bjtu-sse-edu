@@ -14,6 +14,6 @@ npm run build
 npm run build
 git checkout -b gh-pages
 git add -f dist
-git commit -m 'first commit'
+git commit -m 'deploy'
 git subtree push --prefix dist origin gh-pages
 ```
