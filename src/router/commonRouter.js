@@ -17,6 +17,11 @@ const commonRouter =
             meta: { title: '课程' },
             component: () => import('@/views/Course.vue')
         },
+        {
+            path: 'documentary',
+            meta: { title: '课程' },
+            component: () => import('@/views/DiversityVideo.vue')
+        },
     ]
 
 }

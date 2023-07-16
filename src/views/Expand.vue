@@ -2,7 +2,7 @@
     <van-tabs v-model:active="activeName">
         <div class="placeholder"></div>
         <van-tab v-for="item, index in expandData" :title="item.tagName" :name="item.tag">
-            {{ item.content }}
+            <ExpandCardsList v-model="item.tag"></ExpandCardsList>
         </van-tab>
     </van-tabs>
 </template>
@@ -11,6 +11,8 @@
 import { ref, reactive, onMounted, computed } from 'vue'
 import { useStore } from 'vuex'
 import { useRoute, useRouter } from 'vue-router'
+
+import ExpandCardsList from '@/views/ExpandCardsList.vue';
 
 const store = useStore()
 const route = useRoute()

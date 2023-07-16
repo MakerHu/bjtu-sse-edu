@@ -5,8 +5,14 @@
     </van-dropdown-menu>
     <div class="placeholder"></div>
     <van-list v-model:loading="loading" :finished="finished" finished-text="没有更多了" @load="onLoad">
-        <van-card v-for="item, index in data.courseMsg.records" :title="item.title" :thumb="item.img"
+        <van-card v-for="item, index in data.courseMsg.records" :thumb="item.img"
             @click="onCardClick(item)">
+            <template #title>
+                <div class="title">
+                    <van-icon color="#1989fa" name="video-o" />
+                    <span>{{ item.title }}</span>
+                </div>
+            </template>
             <template #desc>
                 <div class="desc-container">
                     <p class="desc-content">{{ item.desc }}</p>
@@ -144,12 +150,16 @@ const onLoad = () => {
         // 数据全部加载完成
         finished.value = true;
     })
-};
+}
 
 const onCardClick = (item) => {
     router.push({
         path: "/course",
         query: {
+            courseName: data.courseMsg.courseName,
+            courseDesc: data.courseMsg.courseDesc,
+            title: item.title,
+            desc: item.desc,
             url: item.url
         }
     })
@@ -177,6 +187,10 @@ onMounted(() => {
     margin: 10px;
     border-radius: 10px;
     box-shadow: 2px 2px 4px rgba(201, 201, 201, 0.3);
+}
+
+.title {
+    font-weight: bold;
 }
 
 .desc-container {
