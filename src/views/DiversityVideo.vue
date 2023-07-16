@@ -17,7 +17,7 @@
         <pre class="course-desc">{{ currentVideo.desc }}</pre>
     </div>
 
-    <van-floating-panel>
+    <van-floating-panel v-model:height="height" :anchors="anchors">
         <van-picker :columns="currentVideo.episode" :columns-field-names="customFieldName" @change="onChange">
             <template #toolbar>
                 选集
@@ -34,6 +34,12 @@ import { useStore } from 'vuex'
 const route = useRoute()
 const router = useRouter()
 const store = useStore()
+
+const height = ref(0)
+const anchors = [
+      60,
+      Math.round(0.6 * window.innerHeight),
+    ];
 
 const data = reactive({
     baseMsg: {}
