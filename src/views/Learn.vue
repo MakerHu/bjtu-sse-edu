@@ -3,12 +3,16 @@
         <van-dropdown-item v-model="grade" :options="option1" />
         <van-dropdown-item v-model="suject" :options="option2[grade]" />
     </van-dropdown-menu>
+
+    {{ data.primary }}
 </template>
 
 <script setup>
 import { ref, reactive, onMounted, computed } from 'vue'
 import { useStore } from 'vuex'
 import { useRoute, useRouter } from 'vue-router'
+import commonUtil from '@/utils/commonUtil.js'
+import axios from 'axios'
 
 const store = useStore()
 const route = useRoute()
@@ -101,8 +105,25 @@ const option2 = reactive({
     ],
 })
 
+const fileData = ref('')
+const data = reactive({
+    primary: {}
+})
+
+const requestJson = (url) => {
+  axios.get(url).then((res) => {
+    console.log('res.data = ', res.data)
+    data.primary = res.data
+  })
+  .catch(()=>{
+  })
+  
+}
+
 onMounted(() => {
     activePage.value = 'learn'
+    fileData.value = commonUtil.getAssetsFile('primary.json')
+    requestJson(fileData.value)
 })
 </script>
 
