@@ -1,7 +1,11 @@
 <template>
     <van-nav-bar :title="route.meta.title" left-text="返回" left-arrow @click-left="goBack" />
     <div class="placeholder"></div>
-    <router-view></router-view>
+    
+    <div class="video-container">
+        <iframe class="video" :src="route.query.url" scrolling="no" border="0" frameborder="no" framespacing="0"
+            allowfullscreen="true"> </iframe>
+    </div>
 </template>
 
 <script setup>
@@ -11,7 +15,7 @@ const route = useRoute()
 const router = useRouter()
 
 const goBack = () => {
-    router.back()
+    router.push('/learn')
 }
 </script>
 
@@ -26,5 +30,15 @@ const goBack = () => {
 /* 占位元素，防止顶部固定元素遮挡 */
 .placeholder {
     height: 46px;
+}
+
+.video-container {
+  aspect-ratio: 16/9; /* 设置视频的宽高比为16:9 */
+  width: 100%; /* 设置容器宽度为100% */
+}
+
+.video {
+    width: 100%;
+    height: 100%;
 }
 </style>

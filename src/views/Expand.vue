@@ -1,6 +1,7 @@
 <template>
     <van-tabs v-model:active="activeName">
-        <van-tab v-for="item,index in expandData" :title="item.tagName" :name="item.tag">
+        <div class="placeholder"></div>
+        <van-tab v-for="item, index in expandData" :title="item.tagName" :name="item.tag">
             {{ item.content }}
         </van-tab>
     </van-tabs>
@@ -44,4 +45,15 @@ onMounted(() => {
 })
 </script>
 
-<style scoped></style>
+<style scoped>
+:deep(.van-tabs__wrap) {
+    z-index: 2999;
+    position: fixed;
+    top: 46;
+    width: 100%;
+}
+
+.placeholder {
+    height: 46px;
+}
+</style>

@@ -12,6 +12,11 @@ const commonRouter =
             path: '',
             redirect: '/home'
         },
+        {
+            path: 'course',
+            meta: { title: '课程' },
+            component: () => import('@/views/Course.vue')
+        },
     ]
 
 }

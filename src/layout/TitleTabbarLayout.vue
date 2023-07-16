@@ -1,5 +1,6 @@
 <template>
     <van-nav-bar :title="route.meta.title" />
+    <div class="placeholder"></div>
     <router-view></router-view>
     <van-tabbar v-model="activePage">
         <van-tabbar-item name="home" icon="wap-home-o" to="/home">首页</van-tabbar-item>
@@ -28,4 +29,16 @@ const activePage = computed({
 })
 </script>
 
-<style scoped></style>
+<style scoped>
+.van-nav-bar {
+    z-index: 3000;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+/* 占位元素，防止顶部固定元素遮挡 */
+.placeholder {
+    height: 46px;
+}
+</style>
