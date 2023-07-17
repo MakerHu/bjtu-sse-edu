@@ -7,15 +7,19 @@
             framespacing="0" allowfullscreen="true"> </iframe>
     </div>
 
-    <div class="msg-container">
-        <div class="course-title"><van-icon name="orders-o" />{{ currentVideo.episode[selectedValue].title }}</div>
-        <p class="course-desc">{{ currentVideo.episode[selectedValue].desc }}</p>
-    </div>
+    <van-list v-model:loading="loading" :finished="finished" finished-text="没有更多了" @load="onLoad">
+        <div class="msg-panel">
+            <div class="course-title"><van-icon name="orders-o" />{{ currentVideo.episode[selectedValue].title }}</div>
+            <p class="course-desc">{{ currentVideo.episode[selectedValue].desc }}</p>
+        </div>
 
-    <div class="msg-container">
-        <div class="course-title"><van-icon name="orders-o" />{{ currentVideo.title }}</div>
-        <pre class="course-desc">{{ currentVideo.desc }}</pre>
-    </div>
+        <div class="msg-panel">
+            <div class="course-title"><van-icon name="orders-o" />{{ currentVideo.title }}</div>
+            <pre class="course-desc">{{ currentVideo.desc }}</pre>
+        </div>
+    </van-list>
+    
+    <div class="placeholder2"></div>
 
     <van-floating-panel v-model:height="height" :anchors="anchors">
         <van-picker :columns="currentVideo.episode" :columns-field-names="customFieldName" @change="onChange">
@@ -35,11 +39,15 @@ const route = useRoute()
 const router = useRouter()
 const store = useStore()
 
+
+const loading = ref(false);
+const finished = ref(true);
+
 const height = ref(0)
 const anchors = [
-      60,
-      Math.round(0.6 * window.innerHeight),
-    ];
+    60,
+    Math.round(0.6 * window.innerHeight),
+];
 
 const data = reactive({
     baseMsg: {}
@@ -52,6 +60,15 @@ const customFieldName = {
 
 const selectedValue = ref(0)
 
+const activePage = computed({
+    get() {
+        return store.getters['common/getActivePage']
+    },
+    set(value) {
+        store.dispatch('common/asyncUpdateActivePage', value)
+    }
+})
+
 const currentVideo = computed({
     get() {
         return store.getters['common/getCurrentVideo']
@@ -62,7 +79,7 @@ const currentVideo = computed({
 })
 
 const goBack = () => {
-    router.push('/expand')
+    router.push('/' + activePage.value)
 }
 
 const onChange = ({ selectedValues }) => {
@@ -72,7 +89,7 @@ const onChange = ({ selectedValues }) => {
 onMounted(() => {
     currentVideo.value.episode.forEach((item, index) => {
         item['index'] = index
-    });
+    })
 })
 </script>
 
@@ -89,6 +106,11 @@ onMounted(() => {
     height: 46px;
 }
 
+/* 占位元素，防止顶部固定元素遮挡 */
+.placeholder2 {
+    height: 70px;
+}
+
 .video-container {
     aspect-ratio: 16/9;
     /* 设置视频的宽高比为16:9 */
@@ -101,7 +123,7 @@ onMounted(() => {
     height: 100%;
 }
 
-.msg-container {
+.msg-panel {
     margin: 10px;
     margin-bottom: 15px;
     padding: 10px;
@@ -111,7 +133,7 @@ onMounted(() => {
 }
 
 .course-title {
-    font-weight:bold;
+    font-weight: bold;
 }
 
 .course-desc {

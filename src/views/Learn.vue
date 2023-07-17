@@ -5,8 +5,8 @@
     </van-dropdown-menu>
     <div class="placeholder"></div>
     <van-list v-model:loading="loading" :finished="finished" finished-text="没有更多了" @load="onLoad">
-        <van-card v-for="item, index in data.courseMsg.records" :thumb="item.img"
-            @click="onCardClick(item)">
+        <van-card v-for="item, index in data.courseMsg.episode" :thumb="item.img"
+            @click="onCardClick(index)">
             <template #title>
                 <div class="title">
                     <van-icon color="#1989fa" name="video-o" />
@@ -45,6 +45,15 @@ const activePage = computed({
     },
     set(value) {
         store.dispatch('common/asyncUpdateActivePage', value)
+    }
+})
+
+const currentVideo = computed({
+    get() {
+        return store.getters['common/getCurrentVideo']
+    },
+    set(value) {
+        store.dispatch('common/asyncCurrentVideo', value)
     }
 })
 
@@ -152,15 +161,12 @@ const onLoad = () => {
     })
 }
 
-const onCardClick = (item) => {
+const onCardClick = (index) => {
+    currentVideo.value = data.courseMsg
     router.push({
         path: "/course",
         query: {
-            courseName: data.courseMsg.courseName,
-            courseDesc: data.courseMsg.courseDesc,
-            title: item.title,
-            desc: item.desc,
-            url: item.url
+            episode_num: index
         }
     })
 }

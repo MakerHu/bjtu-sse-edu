@@ -44,10 +44,9 @@ onMounted(() => {
 
 <style scoped>
 .my-swipe .van-swipe-item {
+    aspect-ratio: 16/9;
     color: #fff;
     font-size: 20px;
-    /* line-height: 200px; */
-    height: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -55,7 +54,7 @@ onMounted(() => {
 }
 
 .swipe-img {
-    height: 200px;
+    aspect-ratio: 16/9;
     width: 100%;
 }
 </style>
