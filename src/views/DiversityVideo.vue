@@ -10,20 +10,18 @@
         </div>
 
         <van-list v-model:loading="loading" :finished="finished" finished-text="没有更多了" @load="onLoad">
-        <div class="msg-panel">
-            <div class="course-title"><van-icon name="orders-o" />{{ currentVideo.episode[selectedValue].title }}</div>
-            <p class="course-desc">{{ currentVideo.episode[selectedValue].desc }}</p>
-        </div>
+            <div class="msg-panel">
+                <div class="course-title"><van-icon name="orders-o" />{{ currentVideo.episode[selectedValue].title }}</div>
+                <p class="course-desc">{{ currentVideo.episode[selectedValue].desc }}</p>
+            </div>
 
-        <div class="msg-panel">
-            <div class="course-title"><van-icon name="orders-o" />{{ currentVideo.title }}</div>
-            <pre class="course-desc">{{ currentVideo.desc }}</pre>
-        </div>
-    </van-list>
+            <div class="msg-panel">
+                <div class="course-title"><van-icon name="orders-o" />{{ currentVideo.title }}</div>
+                <pre class="course-desc">{{ currentVideo.desc }}</pre>
+            </div>
+        </van-list>
 
     </div>
-
-    <div class="placeholder2"></div>
 
     <van-floating-panel v-model:height="height" :anchors="anchors">
         <van-picker :columns="currentVideo.episode" :columns-field-names="customFieldName" @change="onChange">
@@ -107,16 +105,6 @@ onMounted(() => {
     height: calc(100% - 106px);
     /* 显示垂直滚动条 */
     overflow-y: auto;
-}
-
-/* 占位元素，防止顶部固定元素遮挡 */
-.placeholder {
-    height: 46px;
-}
-
-/* 占位元素，防止顶部固定元素遮挡 */
-.placeholder2 {
-    height: 70px;
 }
 
 .video-container {

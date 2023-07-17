@@ -73,7 +73,7 @@ const onLoad = () => {
 
 const onCardClick = (item) => {
     currentVideo.value = item
-    router.push('/documentary')
+    router.push('/video')
 }
 
 onMounted(() => {
@@ -91,10 +91,10 @@ onMounted(() => {
 
 .m-card {
     margin: 5px;
-    background-color: #f7f8fa;
+    background-color: #ffffff;
     border-radius: 10px;
     width: 45%;
-    box-shadow: 2px 2px 4px rgba(201, 201, 201, 0.3);
+    box-shadow: var(--edu-box-shadow);
 }
 
 .card-img {

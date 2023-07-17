@@ -1,31 +1,33 @@
 <template>
-    <van-dropdown-menu>
-        <van-dropdown-item v-model="grade" :options="option1" @change="onGradeChange" />
-        <van-dropdown-item v-model="subject" :options="option2[grade]" @change="onLoad" />
-    </van-dropdown-menu>
-    <div class="placeholder"></div>
-    <van-list v-model:loading="loading" :finished="finished" finished-text="没有更多了" @load="onLoad">
-        <van-card v-for="item, index in data.courseMsg.episode" :thumb="item.img"
-            @click="onCardClick(index)">
-            <template #title>
-                <div class="title">
-                    <van-icon color="#1989fa" name="video-o" />
-                    <span>{{ item.title }}</span>
-                </div>
-            </template>
-            <template #desc>
-                <div class="desc-container">
-                    <p class="desc-content">{{ item.desc }}</p>
-                </div>
-            </template>
-            <template #price>
-                <div class="duration">
-                    <van-icon name="clock-o" />
-                    <span>{{ item.duration }}</span>
-                </div>
-            </template>
-        </van-card>
-    </van-list>
+    <div class="learn-header">
+        <van-dropdown-menu>
+            <van-dropdown-item v-model="grade" :options="option1" @change="onGradeChange" />
+            <van-dropdown-item v-model="subject" :options="option2[grade]" @change="onLoad" />
+        </van-dropdown-menu>
+    </div>
+    <div class="learn-container">
+        <van-list v-model:loading="loading" :finished="finished" finished-text="没有更多了" @load="onLoad">
+            <van-card v-for="item, index in data.courseMsg.episode" :thumb="item.img" @click="onCardClick(index)">
+                <template #title>
+                    <div class="title">
+                        <van-icon color="#1989fa" name="video-o" />
+                        <span>{{ item.title }}</span>
+                    </div>
+                </template>
+                <template #desc>
+                    <div class="desc-container">
+                        <p class="desc-content">{{ item.desc }}</p>
+                    </div>
+                </template>
+                <template #price>
+                    <div class="duration">
+                        <van-icon name="clock-o" />
+                        <span>{{ item.duration }}</span>
+                    </div>
+                </template>
+            </van-card>
+        </van-list>
+    </div>
 </template>
 
 <script setup>
@@ -177,22 +179,24 @@ onMounted(() => {
 </script>
 
 <style scoped>
-.van-dropdown-menu {
-    z-index: 2999;
-    position: fixed;
-    top: 46;
-    width: 100%;
+.learn-header {
+    /* z-index: 3000; */
+    height: 46px;
 }
 
-.placeholder {
-    height: 48px;
+.learn-container {
+    /* 100px是头部和底部的高度之和，用于让中间内容占据剩余高度 */
+    height: calc(100% - 96px);
+    /* 显示垂直滚动条 */
+    overflow-y: auto;
 }
 
 .van-card {
     /* margin-top: 0px; */
+    background-color: white;
     margin: 10px;
     border-radius: 10px;
-    box-shadow: 2px 2px 4px rgba(201, 201, 201, 0.3);
+    box-shadow: var(--edu-box-shadow);
 }
 
 .title {

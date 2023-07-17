@@ -36,6 +36,11 @@
   --section-gap: 160px;
 }
 
+:root {
+  --edu-color-background: #f7f8fa;
+  --edu-box-shadow:  2px 2px 4px rgba(201, 201, 201, 0.3);
+}
+
 /* @media (prefers-color-scheme: dark) {
   :root {
     --color-background: var(--vt-c-black);

@@ -18,8 +18,8 @@ const commonRouter =
             component: () => import('@/views/DiversityVideo.vue')
         },
         {
-            path: 'documentary',
-            meta: { title: '课程' },
+            path: 'video',
+            meta: { title: '视频内容' },
             component: () => import('@/views/DiversityVideo.vue')
         },
     ]

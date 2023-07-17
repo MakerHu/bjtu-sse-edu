@@ -1,8 +1,9 @@
 <template>
     <van-tabs v-model:active="activeName">
-        <div class="placeholder"></div>
         <van-tab v-for="item, index in expandData" :title="item.tagName" :name="item.tag">
-            <ExpandCardsList v-model="item.tag"></ExpandCardsList>
+            <div class="expand-container">
+                <ExpandCardsList v-model="item.tag"></ExpandCardsList>
+            </div>
         </van-tab>
     </van-tabs>
 </template>
@@ -48,14 +49,10 @@ onMounted(() => {
 </script>
 
 <style scoped>
-:deep(.van-tabs__wrap) {
-    z-index: 2999;
-    position: fixed;
-    top: 46;
-    width: 100%;
-}
-
-.placeholder {
-    height: 46px;
+.expand-container {
+    /* 100px是头部和底部的高度之和，用于让中间内容占据剩余高度 */
+    height: calc(100vh - 140px);
+    /* 显示垂直滚动条 */
+    overflow-y: auto;
 }
 </style>
