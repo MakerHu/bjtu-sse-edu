@@ -25,7 +25,7 @@ const titleTabbarRouter =
         },
         {
             path: 'experience',
-            meta: { title: '经验学习' },
+            meta: { title: '经验分享' },
             component: () => import('@/views/Experience.vue')
         },
     ]

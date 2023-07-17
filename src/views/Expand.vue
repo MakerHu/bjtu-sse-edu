@@ -1,8 +1,8 @@
 <template>
-    <van-tabs v-model:active="activeName">
+    <van-tabs v-model:active="expandActiveTag">
         <van-tab v-for="item, index in expandData" :title="item.tagName" :name="item.tag">
             <div class="expand-container">
-                <ExpandCardsList v-model="item.tag"></ExpandCardsList>
+                <CardsList :dataSource="'expand-'+item.tag"></CardsList>
             </div>
         </van-tab>
     </van-tabs>
@@ -13,7 +13,7 @@ import { ref, reactive, onMounted, computed } from 'vue'
 import { useStore } from 'vuex'
 import { useRoute, useRouter } from 'vue-router'
 
-import ExpandCardsList from '@/views/ExpandCardsList.vue';
+import CardsList from '@/views/CardsList.vue';
 
 const store = useStore()
 const route = useRoute()
@@ -28,7 +28,14 @@ const activePage = computed({
     }
 })
 
-const activeName = ref('a');
+const expandActiveTag = computed({
+    get() {
+        return store.getters['common/getExpandActiveTag']
+    },
+    set(value) {
+        store.dispatch('common/asyncExpandActiveTag', value)
+    }
+})
 
 const expandData = reactive([
     {

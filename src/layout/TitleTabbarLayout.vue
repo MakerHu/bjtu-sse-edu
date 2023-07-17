@@ -48,6 +48,5 @@ const activePage = computed({
     height: calc(100% - 96px);
     /* 显示垂直滚动条 */
     overflow-y: auto;
-    background-color: var(--edu-color-background);
 }
 </style>

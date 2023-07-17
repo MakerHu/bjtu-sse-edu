@@ -17,6 +17,7 @@ import { useStore } from 'vuex'
 
 const store = useStore()
 const route = useRoute()
+const router = useRouter()
 
 const activePage = computed({
     get() {

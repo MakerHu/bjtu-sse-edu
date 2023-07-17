@@ -35,6 +35,5 @@ const goBack = () => {
     /* 100px是头部和底部的高度之和，用于让中间内容占据剩余高度 */
     overflow-y: auto;
     /* 显示垂直滚动条 */
-    background-color: var(--edu-color-background);
 }
 </style>

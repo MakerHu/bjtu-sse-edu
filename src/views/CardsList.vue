@@ -30,8 +30,8 @@ const store = useStore()
 const route = useRoute()
 const router = useRouter()
 
-const props = defineProps(['modelValue'])
-const emit = defineEmits(['update:modelValue'])
+const props = defineProps(['dataSource'])
+const emit = defineEmits(['update:dataSource'])
 
 const loading = ref(false)
 const finished = ref(false)
@@ -49,17 +49,17 @@ const currentVideo = computed({
     }
 })
 
-const category = computed({
+const mDataSource = computed({
     get() {
-        return props.modelValue
+        return props.dataSource
     },
     set(value) {
-        emit('update:modelValue', value)
+        emit('update:dataSource', value)
     }
 })
 
 const onLoad = () => {
-    fileData.value = commonUtil.getAssetsFile('expand-' + category.value + '.json')
+    fileData.value = commonUtil.getAssetsFile(mDataSource.value + '.json')
     // 异步更新数据
     getJson(fileData.value).then(res => {
         data.msg = res

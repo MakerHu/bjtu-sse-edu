@@ -10,7 +10,7 @@
             <van-card v-for="item, index in data.courseMsg.episode" :thumb="item.img" @click="onCardClick(index)">
                 <template #title>
                     <div class="title">
-                        <van-icon color="#1989fa" name="video-o" />
+                        <van-icon color="#1989fa" name="video-o"/>
                         <span>{{ item.title }}</span>
                     </div>
                 </template>
@@ -59,8 +59,24 @@ const currentVideo = computed({
     }
 })
 
-const grade = ref('grade1')
-const subject = ref('chinese')
+const grade = computed({
+    get() {
+        return store.getters['common/getGrade']
+    },
+    set(value) {
+        store.dispatch('common/asyncGrade', value)
+    }
+})
+
+const subject = computed({
+    get() {
+        return store.getters['common/getSubject']
+    },
+    set(value) {
+        store.dispatch('common/asyncSubject', value)
+    }
+})
+
 const option1 = reactive([
     { text: '一年级', value: 'grade1' },
     { text: '二年级', value: 'grade2' },
@@ -186,7 +202,7 @@ onMounted(() => {
 
 .learn-container {
     /* 100px是头部和底部的高度之和，用于让中间内容占据剩余高度 */
-    height: calc(100% - 96px);
+    height: calc(100% - 50px);
     /* 显示垂直滚动条 */
     overflow-y: auto;
 }
@@ -200,6 +216,7 @@ onMounted(() => {
 }
 
 .title {
+    font-size: 15px;
     font-weight: bold;
 }
 
