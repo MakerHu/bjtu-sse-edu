@@ -214,7 +214,6 @@ onMounted(() => {
 
 .menu-desc {
     color: #888888;
-    font-weight: lighter;
     font-size: 12px;
 }
 
