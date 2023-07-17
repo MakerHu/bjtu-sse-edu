@@ -1,8 +1,8 @@
 <template>
     <div class="learn-header">
-        <van-dropdown-menu>
-            <van-dropdown-item v-model="grade" :options="option1" @change="onGradeChange" />
-            <van-dropdown-item v-model="subject" :options="option2[grade]" @change="onLoad" />
+        <van-dropdown-menu v-if="showSelection">
+            <van-dropdown-item v-model="grade" :options="data.selection.grade" @change="onGradeChange" />
+            <van-dropdown-item v-model="subject" :options="data.selection.subject[grade]" @change="onLoad" />
         </van-dropdown-menu>
     </div>
     <div class="learn-container">
@@ -77,88 +77,16 @@ const subject = computed({
     }
 })
 
-const option1 = reactive([
-    { text: '一年级', value: 'grade1' },
-    { text: '二年级', value: 'grade2' },
-    { text: '三年级', value: 'grade3' },
-    { text: '四年级', value: 'grade4' },
-    { text: '五年级', value: 'grade5' },
-    { text: '六年级', value: 'grade6' },
-    { text: '初一', value: 'grade7' },
-    { text: '初二', value: 'grade8' },
-    { text: '初三', value: 'grade9' },
-    { text: '高一', value: 'grade10' },
-    { text: '高二', value: 'grade11' },
-    { text: '高三', value: 'grade12' },
-])
-
-const option2 = reactive({
-    'grade1': [
-        { text: '语文', value: 'chinese' },
-        { text: '数学', value: 'math' },
-    ],
-    'grade2': [
-        { text: '语文', value: 'chinese' },
-        { text: '数学', value: 'math' },
-    ],
-    'grade3': [
-        { text: '语文', value: 'chinese' },
-        { text: '数学', value: 'math' },
-        { text: '英语', value: 'engligh' },
-    ],
-    'grade4': [
-        { text: '语文', value: 'chinese' },
-        { text: '数学', value: 'math' },
-        { text: '英语', value: 'engligh' },
-    ],
-    'grade5': [
-        { text: '语文', value: 'chinese' },
-        { text: '数学', value: 'math' },
-        { text: '英语', value: 'engligh' },
-    ],
-    'grade6': [
-        { text: '语文', value: 'chinese' },
-        { text: '数学', value: 'math' },
-        { text: '英语', value: 'engligh' },
-    ],
-    'grade7': [
-        { text: '语文', value: 'chinese' },
-        { text: '数学', value: 'math' },
-        { text: '英语', value: 'engligh' },
-    ],
-    'grade8': [
-        { text: '语文', value: 'chinese' },
-        { text: '数学', value: 'math' },
-        { text: '英语', value: 'engligh' },
-    ],
-    'grade9': [
-        { text: '语文', value: 'chinese' },
-        { text: '数学', value: 'math' },
-        { text: '英语', value: 'engligh' },
-    ],
-    'grade10': [
-        { text: '语文', value: 'chinese' },
-        { text: '数学', value: 'math' },
-        { text: '英语', value: 'engligh' },
-    ],
-    'grade11': [
-        { text: '语文', value: 'chinese' },
-        { text: '数学', value: 'math' },
-        { text: '英语', value: 'engligh' },
-    ],
-    'grade12': [
-        { text: '语文', value: 'chinese' },
-        { text: '数学', value: 'math' },
-        { text: '英语', value: 'engligh' },
-    ],
-})
+const selectionDataUrl = ref('')
+const showSelection = ref(false)
 
 const loading = ref(false)
 const finished = ref(false)
 
 const fileData = ref('')
 const data = reactive({
-    courseMsg: {}
+    courseMsg: {},
+    selection: {}
 })
 
 const onGradeChange = () => {
@@ -175,7 +103,7 @@ const onLoad = () => {
         // 加载状态结束
         loading.value = false
         // 数据全部加载完成
-        finished.value = true;
+        finished.value = true
     })
 }
 
@@ -191,6 +119,11 @@ const onCardClick = (index) => {
 
 onMounted(() => {
     activePage.value = 'learn'
+    selectionDataUrl.value = commonUtil.getAssetsFile('learn-selection.json')
+    getJson(selectionDataUrl.value).then(res => {
+        data.selection = res
+        showSelection.value = true
+    })
 })
 </script>
 

@@ -25,7 +25,7 @@ git subtree push --prefix dist origin gh-pages
 在Bash窗口中运行:
 
 ```sh
-bash deploy
+bash deploy.sh
 ```
 
 如果有问题，可以尝试删除dist后重新执行命令
