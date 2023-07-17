@@ -1,13 +1,15 @@
 <template>
-    <van-nav-bar :title="currentVideo.title" left-arrow @click-left="goBack" />
-    <div class="placeholder"></div>
-
-    <div class="video-container">
-        <iframe class="video" :src="currentVideo.episode[selectedValue].url" scrolling="no" border="0" frameborder="no"
-            framespacing="0" allowfullscreen="true"> </iframe>
+    <div class="video-page-header">
+        <van-nav-bar :title="currentVideo.title" left-arrow @click-left="goBack" />
     </div>
 
-    <van-list v-model:loading="loading" :finished="finished" finished-text="没有更多了" @load="onLoad">
+    <div class="video-page-container">
+        <div class="video-container">
+            <iframe class="video" :src="currentVideo.episode[selectedValue].url" scrolling="no" border="0" frameborder="no"
+                framespacing="0" allowfullscreen="true"> </iframe>
+        </div>
+
+        <van-list v-model:loading="loading" :finished="finished" finished-text="没有更多了" @load="onLoad">
         <div class="msg-panel">
             <div class="course-title"><van-icon name="orders-o" />{{ currentVideo.episode[selectedValue].title }}</div>
             <p class="course-desc">{{ currentVideo.episode[selectedValue].desc }}</p>
@@ -18,7 +20,9 @@
             <pre class="course-desc">{{ currentVideo.desc }}</pre>
         </div>
     </van-list>
-    
+
+    </div>
+
     <div class="placeholder2"></div>
 
     <van-floating-panel v-model:height="height" :anchors="anchors">
@@ -47,7 +51,7 @@ const height = ref(0)
 const anchors = [
     60,
     Math.round(0.6 * window.innerHeight),
-];
+]
 
 const data = reactive({
     baseMsg: {}
@@ -94,11 +98,15 @@ onMounted(() => {
 </script>
 
 <style scoped>
-.van-nav-bar {
-    z-index: 3000;
-    position: fixed;
-    top: 0;
-    width: 100%;
+.video-page-header {
+    height: 46px;
+}
+
+.video-page-container {
+    /* 100px是头部和底部的高度之和，用于让中间内容占据剩余高度 */
+    height: calc(100% - 106px);
+    /* 显示垂直滚动条 */
+    overflow-y: auto;
 }
 
 /* 占位元素，防止顶部固定元素遮挡 */

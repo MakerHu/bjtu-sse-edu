@@ -1,7 +1,9 @@
 <template>
     <van-nav-bar :title="route.meta.title" left-text="返回" left-arrow @click-left="goBack" />
     <div class="placeholder"></div>
-    <router-view></router-view>
+    <div class="container">
+        <router-view></router-view>
+    </div>
 </template>
 
 <script setup>
@@ -26,5 +28,12 @@ const goBack = () => {
 /* 占位元素，防止顶部固定元素遮挡 */
 .placeholder {
     height: 46px;
+}
+
+.container {
+    height: calc(100% - 100px);
+    /* 100px是头部和底部的高度之和，用于让中间内容占据剩余高度 */
+    overflow-y: auto;
+    /* 显示垂直滚动条 */
 }
 </style>
