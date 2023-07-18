@@ -37,8 +37,9 @@
 }
 
 :root {
-  --edu-color-background: #f7f8fa;
-  --edu-box-shadow:  2px 2px 4px rgba(201, 201, 201, 0.3);
+  --edu-color-background: #f7f7f7;
+  /* --edu-box-shadow:  2px 2px 4px rgba(201, 201, 201, 0.3); */
+  --edu-box-shadow:  2px 2px 15px #e9e9e9;
 }
 
 /* @media (prefers-color-scheme: dark) {

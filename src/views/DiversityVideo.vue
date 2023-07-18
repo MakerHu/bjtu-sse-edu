@@ -13,7 +13,7 @@
             <div class="msg-panel">
                 <div class="course-title"><van-icon name="orders-o" />
                     {{ currentVideo.title }}
-                    <van-divider v-if="currentVideo.episode[selectedValue].title" vertical :style="{ borderColor: '#1989fa' }" />
+                    <van-divider v-if="currentVideo.episode[selectedValue].title" vertical :style="{ borderColor: '#000000' }" />
                     {{ currentVideo.episode[selectedValue].title }}
                 </div>
                 <p class="course-desc">{{ currentVideo.episode[selectedValue].desc }}</p>

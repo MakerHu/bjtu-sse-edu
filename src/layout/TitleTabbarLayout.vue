@@ -1,21 +1,19 @@
 <template>
     <div class="ttl-header">
-    <van-nav-bar :title="route.meta.title" />
+        <van-nav-bar :title="route.meta.title" />
     </div>
     <div class="ttl-container">
         <router-view></router-view>
     </div>
     <div class="ttl-footer">
         <van-tabbar v-model="activePage">
-        <van-tabbar-item name="home" icon="wap-home-o" to="/home">首页</van-tabbar-item>
-        <van-tabbar-item name="learn" icon="orders-o" to="/learn">学习</van-tabbar-item>
-        <van-tabbar-item name="expand" icon="cluster-o" to="/expand">拓展</van-tabbar-item>
-        <van-tabbar-item name="experience" icon="bookmark-o" to="/experience">经验</van-tabbar-item>
-    </van-tabbar>
+            <van-tabbar-item name="home" icon="wap-home-o" to="/home">首页</van-tabbar-item>
+            <van-tabbar-item name="learn" icon="orders-o" to="/learn">学习</van-tabbar-item>
+            <van-tabbar-item name="expand" icon="cluster-o" to="/expand">拓展</van-tabbar-item>
+            <van-tabbar-item name="experience" icon="bookmark-o" to="/experience">经验</van-tabbar-item>
+        </van-tabbar>
     </div>
-    <!-- <div class="placeholder"></div> -->
-    
-    
+    <van-back-top target=".ttl-container" bottom="60px" />
 </template>
 
 <script setup>

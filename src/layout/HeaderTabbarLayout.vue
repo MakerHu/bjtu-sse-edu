@@ -1,5 +1,5 @@
 <template>
-    <van-nav-bar :title="route.meta.title" left-text="返回" left-arrow @click-left="goBack" />
+    <van-nav-bar :title="route.meta.title" left-arrow @click-left="goBack" />
     <div class="placeholder"></div>
     <router-view></router-view>
     <van-tabbar v-model="activePage">

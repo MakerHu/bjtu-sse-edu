@@ -17,6 +17,8 @@
             </div>
         </div>
     </van-list>
+    
+    <van-back-top target=".expand-container" bottom="60px" />
 </template>
 
 <script setup>

@@ -12,19 +12,19 @@
     </div>
 
     <div class="slogan">
-        <van-image class="home-logo" :src="homeLogo1">
+        <!-- <van-image class="home-logo" :src="homeLogo1">
             <template v-slot:loading>
                 <van-loading type="spinner" size="20" />
             </template>
-        </van-image>
+        </van-image> -->
         <span>
-            英雄上马的地方
+            积跬步至千里，积小流成江海
         </span>
-        <van-image class="home-logo" :src="emblem">
+        <!-- <van-image class="home-logo" :src="emblem">
             <template v-slot:loading>
                 <van-loading type="spinner" size="20" />
             </template>
-        </van-image>
+        </van-image> -->
     </div>
 
     <div class="menu-panel">
@@ -66,19 +66,20 @@
     <div class="dailyQuote" v-if="data.dailyPoetry.content">
         <div class="dailyQuote-title">今日诗词</div>
         <div class="dailyQuote-content">{{ data.dailyPoetry.content }}</div>
-        <div class="dailyQuote-from">{{ data.dailyPoetry.origin && data.dailyPoetry.origin.title? '——《'+data.dailyPoetry.origin.title+'》':'' }}</div>
+        <div class="dailyQuote-from">{{ data.dailyPoetry.origin && data.dailyPoetry.origin.title ?
+            '——《' + data.dailyPoetry.origin.title + '》' : '' }}</div>
     </div>
 
     <div class="dailyQuote" v-if="data.dailyQuote.hitokoto">
         <div class="dailyQuote-title">每日一句</div>
         <div class="dailyQuote-content">{{ data.dailyQuote.hitokoto }}</div>
-        <div class="dailyQuote-from">{{ data.dailyQuote.from? '——'+data.dailyQuote.from:'' }}</div>
+        <div class="dailyQuote-from">{{ data.dailyQuote.from ? '——' + data.dailyQuote.from : '' }}</div>
     </div>
 
     <div class="sys-desc">
-        <div class="sys-desc-title"><van-icon name="flag-o" size="20px" color="#5a96f8" />介绍</div>
+        <div class="sys-desc-title">关于我们</div>
         <p class="sys-desc-content">
-            介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容介绍内容
+
         </p>
     </div>
 </template>
@@ -139,7 +140,7 @@ onMounted(() => {
         console.log(result);
         data.dailyPoetry = result.data
     }, err => {
-      console.log(err);
+        console.log(err);
     })
 })
 </script>
@@ -148,14 +149,19 @@ onMounted(() => {
 .slogan {
     background-color: #ffffff;
     border-radius: 15px;
-    margin: 10px 20px;
+    margin: 0px 20px 10px 20px;
     box-shadow: var(--edu-box-shadow);
     padding: 5px 10px;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: 25px;
+    font-size: 24px;
+    /* font-weight: bold; */
+    /* 设置字体为行楷 */
+    font-family: "STXingkai", "KaiTi", cursive;
+    /* 兼容性备选字体 */
+    font-family: "STXingkai", "KaiTi", "楷体", "Microsoft YaHei", "微软雅黑", "SimSun", "宋体", sans-serif;
 }
 
 .home-logo {
@@ -194,7 +200,8 @@ onMounted(() => {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 5px 10px;
+    /* padding: 5px 10px; */
+    margin: 10px 15px;
 }
 
 .menu-header {
@@ -212,7 +219,7 @@ onMounted(() => {
 .menu {
     padding: 5px;
     aspect-ratio: 3/4;
-    margin: 5px;
+    margin: 0 5px;
     background-color: #ffffff;
     border-radius: 15px;
     width: 30%;
@@ -261,8 +268,8 @@ onMounted(() => {
 
 .sys-desc-title {
     font-weight: bold;
-    text-align: center;
-    color: #5a96f8;
+    /* text-align: center; */
+    /* color: #5a96f8; */
 }
 
 .sys-desc-content {
@@ -279,8 +286,8 @@ onMounted(() => {
 
 .dailyQuote-title {
     font-weight: bold;
-    text-align: center;
-    color: #5a96f8;
+    /* text-align: center; */
+    /* color: #5a96f8; */
 }
 
 /* .dailyQuote-content {

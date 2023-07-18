@@ -28,6 +28,7 @@
             </van-card>
         </van-list>
     </div>
+    <van-back-top target=".learn-container" bottom="60px" />
 </template>
 
 <script setup>
