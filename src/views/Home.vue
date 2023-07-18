@@ -63,13 +63,13 @@
         </div>
     </div>
 
-    <div class="dailyQuote">
+    <div class="dailyQuote" v-if="data.dailyPoetry.content">
         <div class="dailyQuote-title">今日诗词</div>
         <div class="dailyQuote-content">{{ data.dailyPoetry.content }}</div>
         <div class="dailyQuote-from">{{ data.dailyPoetry.origin && data.dailyPoetry.origin.title? '——《'+data.dailyPoetry.origin.title+'》':'' }}</div>
     </div>
 
-    <div class="dailyQuote">
+    <div class="dailyQuote" v-if="data.dailyQuote.hitokoto">
         <div class="dailyQuote-title">每日一句</div>
         <div class="dailyQuote-content">{{ data.dailyQuote.hitokoto }}</div>
         <div class="dailyQuote-from">{{ data.dailyQuote.from? '——'+data.dailyQuote.from:'' }}</div>
