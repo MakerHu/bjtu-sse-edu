@@ -18,9 +18,14 @@
                 <van-loading type="spinner" size="20" />
             </template>
         </van-image> -->
-            <span>
+            <!-- <span>
                 积跬步至千里，积小流成江海
-            </span>
+            </span> -->
+            <van-image class="card-img" :src="sloganImg">
+                    <template v-slot:loading>
+                        <van-loading type="spinner" size="20" />
+                    </template>
+                </van-image>
             <!-- <van-image class="home-logo" :src="emblem">
             <template v-slot:loading>
                 <van-loading type="spinner" size="20" />
@@ -94,6 +99,7 @@ import { getDailyQuote } from '@/api/dataApi.js'
 import jinrishici from '@/utils/jinrishici.js'
 
 import homeLogo1 from '@/assets/images/home-logo1.png'
+import sloganImg from '@/assets/images/slogan.png'
 import emblem from '@/assets/images/emblem.svg'
 import swipe1 from '@/assets/images/swipe1.jpeg'
 import swipe2 from '@/assets/images/swipe2.jpg'
@@ -161,12 +167,23 @@ onMounted(() => {
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: 24px;
-    /* font-weight: bold; */
-    /* 设置字体为行楷 */
+    font-size: 22px;
     font-family: "STXingkai", "KaiTi", cursive;
-    /* 兼容性备选字体 */
     font-family: "STXingkai", "KaiTi", "楷体", "Microsoft YaHei", "微软雅黑", "SimSun", "宋体", sans-serif;
+}
+
+.card-img {
+    width: 100%;
+    aspect-ratio: 15/2;
+    border-radius: 15px;
+}
+
+:deep(.card-img) img {
+    border-radius: 15px;
+}
+
+:deep(.van-image__loading) {
+    border-radius: 15px;
 }
 
 .home-logo {

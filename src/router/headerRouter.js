@@ -12,12 +12,6 @@ const headerRouter =
             path: '',
             redirect: '/home'
         },
-        {
-            path: 'tools/:toolId',
-            props: true,    // 将路径参数转换为组件props
-            meta: { title: '可微工具箱' },
-            component: () => import('@/views/Test.vue')
-        },
     ]
 
 }
