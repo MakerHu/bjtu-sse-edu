@@ -24,7 +24,10 @@ bash deploy.sh
 在Bash窗口中运行:
 
 ```sh
-bash deploy.sh
+#部署到 github
+bash deploy-github.sh
+#部署到 gitee
+bash deploy-gitee.sh
 ```
 
 如果有问题，可以尝试删除dist后重新执行命令
