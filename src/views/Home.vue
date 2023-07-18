@@ -63,6 +63,18 @@
         </div>
     </div>
 
+    <div class="dailyQuote">
+        <div class="dailyQuote-title">今日诗词</div>
+        <div class="dailyQuote-content">{{ data.dailyPoetry.content }}</div>
+        <div class="dailyQuote-from">{{ data.dailyPoetry.origin && data.dailyPoetry.origin.title? '——《'+data.dailyPoetry.origin.title+'》':'' }}</div>
+    </div>
+
+    <div class="dailyQuote">
+        <div class="dailyQuote-title">每日一句</div>
+        <div class="dailyQuote-content">{{ data.dailyQuote.hitokoto }}</div>
+        <div class="dailyQuote-from">{{ data.dailyQuote.from? '——'+data.dailyQuote.from:'' }}</div>
+    </div>
+
     <div class="sys-desc">
         <div class="sys-desc-title"><van-icon name="flag-o" size="20px" color="#5a96f8" />介绍</div>
         <p class="sys-desc-content">
@@ -75,6 +87,8 @@
 import { ref, reactive, onMounted, computed } from 'vue'
 import { useStore } from 'vuex'
 import { useRoute, useRouter } from 'vue-router'
+import { getDailyQuote } from '@/api/dataApi.js'
+import jinrishici from '@/utils/jinrishici.js'
 
 import homeLogo1 from '@/assets/images/home-logo1.png'
 import emblem from '@/assets/images/emblem.svg'
@@ -100,18 +114,38 @@ const swipeImages = [
     // 'https://bjtu.edu.cn/images/img2019/logo_01.png'
 ]
 
+const data = reactive({
+    dailyQuote: {},
+    dailyPoetry: {}
+})
+
 const onMenuClick = (to) => {
     router.push('/' + to)
 }
 
+const refreshDailyQuote = () => {
+    // 异步更新数据
+    getDailyQuote().then(res => {
+        data.dailyQuote = res
+    }).catch((err) => {
+
+    })
+}
+
 onMounted(() => {
     activePage.value = 'home'
+    refreshDailyQuote()
+    jinrishici.load(result => {
+        console.log(result);
+        data.dailyPoetry = result.data
+    }, err => {
+      console.log(err);
+    })
 })
 </script>
 
 <style scoped>
 .slogan {
-    /* width: 100%; */
     background-color: #ffffff;
     border-radius: 15px;
     margin: 10px 20px;
@@ -222,6 +256,7 @@ onMounted(() => {
     padding: 5px 10px;
     border-radius: 15px;
     background-color: #ffffff;
+    box-shadow: var(--edu-box-shadow);
 }
 
 .sys-desc-title {
@@ -232,5 +267,27 @@ onMounted(() => {
 
 .sys-desc-content {
     font-size: small;
+}
+
+.dailyQuote {
+    margin: 10px 20px;
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: var(--edu-box-shadow);
+}
+
+.dailyQuote-title {
+    font-weight: bold;
+    text-align: center;
+    color: #5a96f8;
+}
+
+/* .dailyQuote-content {
+    text-align: center;
+} */
+
+.dailyQuote-from {
+    text-align: right;
 }
 </style>
