@@ -96,8 +96,8 @@ const activePage = computed({
 
 const swipeImages = [
     swipe1,
-    swipe2,
-    'https://bjtu.edu.cn/images/img2019/logo_01.png'
+    // swipe2,
+    // 'https://bjtu.edu.cn/images/img2019/logo_01.png'
 ]
 
 const onMenuClick = (to) => {

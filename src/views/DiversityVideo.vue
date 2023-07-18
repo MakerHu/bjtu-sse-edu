@@ -11,25 +11,32 @@
 
         <van-list v-model:loading="loading" :finished="finished" finished-text="没有更多了" @load="onLoad">
             <div class="msg-panel">
-                <div class="course-title"><van-icon name="orders-o" />{{ currentVideo.episode[selectedValue].title }}</div>
+                <div class="course-title"><van-icon name="orders-o" />
+                    {{ currentVideo.title }}
+                    <van-divider v-if="currentVideo.episode[selectedValue].title" vertical :style="{ borderColor: '#1989fa' }" />
+                    {{ currentVideo.episode[selectedValue].title }}
+                </div>
                 <p class="course-desc">{{ currentVideo.episode[selectedValue].desc }}</p>
             </div>
 
-            <div class="msg-panel">
-                <div class="course-title"><van-icon name="orders-o" />{{ currentVideo.title }}</div>
-                <pre class="course-desc">{{ currentVideo.desc }}</pre>
+            <div class="msg-panel" v-if="currentVideo.episode.length > 1">
+                <van-picker :columns="currentVideo.episode" :columns-field-names="customFieldName" :visible-option-num="selectionSize" @change="onChange">
+                    <template #toolbar>
+                        选集
+                    </template>
+                </van-picker>
             </div>
         </van-list>
 
     </div>
 
-    <van-floating-panel v-model:height="height" :anchors="anchors">
+    <!-- <van-floating-panel v-model:height="height" :anchors="anchors">
         <van-picker :columns="currentVideo.episode" :columns-field-names="customFieldName" @change="onChange">
             <template #toolbar>
                 选集
             </template>
         </van-picker>
-    </van-floating-panel>
+    </van-floating-panel> -->
 </template>
 
 <script setup>
@@ -80,6 +87,10 @@ const currentVideo = computed({
     }
 })
 
+const selectionSize = computed(() => {
+    return currentVideo.value.episode.length < 5 ? currentVideo.value.episode.length:5
+})
+
 const goBack = () => {
     router.push('/' + activePage.value)
 }
@@ -102,7 +113,7 @@ onMounted(() => {
 
 .video-page-container {
     /* 100px是头部和底部的高度之和，用于让中间内容占据剩余高度 */
-    height: calc(100% - 106px);
+    height: calc(100% - 46px);
     /* 显示垂直滚动条 */
     overflow-y: auto;
 }
@@ -124,7 +135,7 @@ onMounted(() => {
     margin-bottom: 15px;
     padding: 10px;
     border-radius: 10px;
-    background-color: #f7f8fa;
+    background-color: #ffffff;
     box-shadow: 2px 2px 4px rgba(201, 201, 201, 0.3);
 }
 
