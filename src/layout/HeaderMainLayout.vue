@@ -4,7 +4,6 @@
     <div class="container">
         <router-view></router-view>
     </div>
-    <van-back-top target=".container" bottom="60px" />
 </template>
 
 <script setup>

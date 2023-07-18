@@ -17,8 +17,6 @@
             </div>
         </div>
     </van-list>
-    
-    <van-back-top target=".expand-container" bottom="60px" />
 </template>
 
 <script setup>
@@ -57,6 +55,15 @@ const mDataSource = computed({
     },
     set(value) {
         emit('update:dataSource', value)
+    }
+})
+
+const expandActiveTag = computed({
+    get() {
+        return store.getters['common/getExpandActiveTag']
+    },
+    set(value) {
+        store.dispatch('common/asyncExpandActiveTag', value)
     }
 })
 

@@ -13,7 +13,6 @@
             <van-tabbar-item name="experience" icon="bookmark-o" to="/experience">经验</van-tabbar-item>
         </van-tabbar>
     </div>
-    <van-back-top target=".ttl-container" bottom="60px" />
 </template>
 
 <script setup>

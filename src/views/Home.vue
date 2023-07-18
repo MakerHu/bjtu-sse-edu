@@ -1,87 +1,89 @@
 <template>
-    <div class="swipe-panel">
-        <van-swipe class="my-swipe" :autoplay="3000" indicator-color="white">
-            <van-swipe-item v-for="item, index in swipeImages">
-                <van-image class="swipe-img" :src="item">
-                    <template v-slot:loading>
-                        <van-loading type="spinner" size="20" />
-                    </template>
-                </van-image>
-            </van-swipe-item>
-        </van-swipe>
-    </div>
+    <van-list v-model:loading="loading" :finished="finished" finished-text="没有更多了">
+        <div class="swipe-panel">
+            <van-swipe class="my-swipe" :autoplay="3000" indicator-color="white">
+                <van-swipe-item v-for="item, index in swipeImages">
+                    <van-image class="swipe-img" :src="item">
+                        <template v-slot:loading>
+                            <van-loading type="spinner" size="20" />
+                        </template>
+                    </van-image>
+                </van-swipe-item>
+            </van-swipe>
+        </div>
 
-    <div class="slogan">
-        <!-- <van-image class="home-logo" :src="homeLogo1">
+        <div class="slogan">
+            <!-- <van-image class="home-logo" :src="homeLogo1">
             <template v-slot:loading>
                 <van-loading type="spinner" size="20" />
             </template>
         </van-image> -->
-        <span>
-            积跬步至千里，积小流成江海
-        </span>
-        <!-- <van-image class="home-logo" :src="emblem">
+            <span>
+                积跬步至千里，积小流成江海
+            </span>
+            <!-- <van-image class="home-logo" :src="emblem">
             <template v-slot:loading>
                 <van-loading type="spinner" size="20" />
             </template>
         </van-image> -->
-    </div>
+        </div>
 
-    <div class="menu-panel">
-        <div class="menu" @click="onMenuClick('learn')">
-            <div class="menu-header">
-                <div class="menu-icon menu-learn">
-                    <van-icon name="orders-o" color="#ffffff" size="25px" />
+        <div class="menu-panel">
+            <div class="menu" @click="onMenuClick('learn')">
+                <div class="menu-header">
+                    <div class="menu-icon menu-learn">
+                        <van-icon name="orders-o" color="#ffffff" size="25px" />
+                    </div>
+                </div>
+                <div class="menu-container">
+                    <div class="menu-title">课程学习</div>
+                    <div class="menu-desc">提供一年级到高三的高质量课程</div>
                 </div>
             </div>
-            <div class="menu-container">
-                <div class="menu-title">课程学习</div>
-                <div class="menu-desc">提供一年级到高三的高质量课程</div>
-            </div>
-        </div>
-        <div class="menu" @click="onMenuClick('expand')">
-            <div class="menu-header">
-                <div class="menu-icon menu-expand">
-                    <van-icon name="cluster-o" color="#ffffff" size="25px" />
+            <div class="menu" @click="onMenuClick('expand')">
+                <div class="menu-header">
+                    <div class="menu-icon menu-expand">
+                        <van-icon name="cluster-o" color="#ffffff" size="25px" />
+                    </div>
+                </div>
+                <div class="menu-container">
+                    <div class="menu-title">知识拓展</div>
+                    <div class="menu-desc">纪录片、趣味知识开拓你的视野</div>
                 </div>
             </div>
-            <div class="menu-container">
-                <div class="menu-title">知识拓展</div>
-                <div class="menu-desc">纪录片、趣味知识开拓你的视野</div>
-            </div>
-        </div>
-        <div class="menu" @click="onMenuClick('experience')">
-            <div class="menu-header">
-                <div class="menu-icon menu-experience">
-                    <van-icon name="bookmark-o" color="#ffffff" size="25px" />
+            <div class="menu" @click="onMenuClick('experience')">
+                <div class="menu-header">
+                    <div class="menu-icon menu-experience">
+                        <van-icon name="bookmark-o" color="#ffffff" size="25px" />
+                    </div>
+                </div>
+                <div class="menu-container">
+                    <div class="menu-title">经验分享</div>
+                    <div class="menu-desc">提供各科高效的学习经验</div>
                 </div>
             </div>
-            <div class="menu-container">
-                <div class="menu-title">经验分享</div>
-                <div class="menu-desc">提供各科高效的学习经验</div>
-            </div>
         </div>
-    </div>
 
-    <div class="dailyQuote" v-if="data.dailyPoetry.content">
-        <div class="dailyQuote-title">今日诗词</div>
-        <div class="dailyQuote-content">{{ data.dailyPoetry.content }}</div>
-        <div class="dailyQuote-from">{{ data.dailyPoetry.origin && data.dailyPoetry.origin.title ?
-            '——《' + data.dailyPoetry.origin.title + '》' : '' }}</div>
-    </div>
+        <div class="dailyQuote" v-if="data.dailyPoetry.content">
+            <div class="dailyQuote-title">今日诗词</div>
+            <div class="dailyQuote-content">{{ data.dailyPoetry.content }}</div>
+            <div class="dailyQuote-from">{{ data.dailyPoetry.origin && data.dailyPoetry.origin.title ?
+                '——《' + data.dailyPoetry.origin.title + '》' : '' }}</div>
+        </div>
 
-    <div class="dailyQuote" v-if="data.dailyQuote.hitokoto">
-        <div class="dailyQuote-title">每日一句</div>
-        <div class="dailyQuote-content">{{ data.dailyQuote.hitokoto }}</div>
-        <div class="dailyQuote-from">{{ data.dailyQuote.from ? '——' + data.dailyQuote.from : '' }}</div>
-    </div>
+        <div class="dailyQuote" v-if="data.dailyQuote.hitokoto">
+            <div class="dailyQuote-title">每日一句</div>
+            <div class="dailyQuote-content">{{ data.dailyQuote.hitokoto }}</div>
+            <div class="dailyQuote-from">{{ data.dailyQuote.from ? '——' + data.dailyQuote.from : '' }}</div>
+        </div>
 
-    <div class="sys-desc">
-        <div class="sys-desc-title">关于我们</div>
-        <p class="sys-desc-content">
+        <div class="sys-desc">
+            <div class="sys-desc-title">关于我们</div>
+            <p class="sys-desc-content">
 
-        </p>
-    </div>
+            </p>
+        </div>
+    </van-list>
 </template>
 
 <script setup>
@@ -99,6 +101,9 @@ import swipe2 from '@/assets/images/swipe2.jpg'
 const store = useStore()
 const route = useRoute()
 const router = useRouter()
+
+const loading = ref(false)
+const finished = ref(true)
 
 const activePage = computed({
     get() {

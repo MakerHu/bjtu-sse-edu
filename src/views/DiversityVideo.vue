@@ -9,7 +9,7 @@
                 framespacing="0" allowfullscreen="true"> </iframe>
         </div>
 
-        <van-list v-model:loading="loading" :finished="finished" finished-text="没有更多了" @load="onLoad">
+        <van-list v-model:loading="loading" :finished="finished" finished-text="没有更多了">
             <div class="msg-panel">
                 <div class="course-title"><van-icon name="orders-o" />
                     {{ currentVideo.title }}
@@ -49,8 +49,8 @@ const router = useRouter()
 const store = useStore()
 
 
-const loading = ref(false);
-const finished = ref(true);
+const loading = ref(false)
+const finished = ref(true)
 
 const height = ref(0)
 const anchors = [
