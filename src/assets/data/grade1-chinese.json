@@ -1,107 +1,1206 @@
 {
-    "title": "一年级 - 语文",
-    "desc": "",
-    "duration": "3:32:32",
-    "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-    "url": "https://www.bilibili.com/video/BV1ug4y1q7Y1/",
-    "episode": [
-        {
-            "title": "第一节：拼音",
-            "desc": "",
-            "duration": "1:25:56",
-            "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-            "url": "//player.bilibili.com/player.html?aid=838475147&bvid=BV1ug4y1q7Y1&cid=201097600&page=1"
-        },
-        {
-            "title": "这是标题1",
-            "desc": "",
-            "duration": "1:25:56",
-            "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-            "url": "//player.bilibili.com/player.html?aid=838475147&bvid=BV1ug4y1q7Y1&cid=201097600&page=1"
-        },
-        {
-            "title": "这是标题1",
-            "desc": "",
-            "duration": "1:25:56",
-            "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-            "url": "//player.bilibili.com/player.html?aid=838475147&bvid=BV1ug4y1q7Y1&cid=201097600&page=1"
-        },
-        {
-            "title": "这是标题1",
-            "desc": "这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述123",
-            "duration": "1:25:56",
-            "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-            "url": "//player.bilibili.com/player.html?aid=838475147&bvid=BV1ug4y1q7Y1&cid=201097600&page=1"
-        },
-        {
-            "title": "这是标题1",
-            "desc": "这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述123",
-            "duration": "1:25:56",
-            "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-            "url": "//player.bilibili.com/player.html?aid=838475147&bvid=BV1ug4y1q7Y1&cid=201097600&page=1"
-        },
-        {
-            "title": "这是标题1",
-            "desc": "这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述123",
-            "duration": "1:25:56",
-            "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-            "url": "//player.bilibili.com/player.html?aid=838475147&bvid=BV1ug4y1q7Y1&cid=201097600&page=1"
-        },
-        {
-            "title": "这是标题1",
-            "desc": "这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述123",
-            "duration": "1:25:56",
-            "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-            "url": "//player.bilibili.com/player.html?aid=838475147&bvid=BV1ug4y1q7Y1&cid=201097600&page=1"
-        },
-        {
-            "title": "这是标题1",
-            "desc": "这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述123",
-            "duration": "1:25:56",
-            "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-            "url": "//player.bilibili.com/player.html?aid=838475147&bvid=BV1ug4y1q7Y1&cid=201097600&page=1"
-        },
-        {
-            "title": "这是标题1",
-            "desc": "这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述123",
-            "duration": "1:25:56",
-            "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-            "url": "//player.bilibili.com/player.html?aid=838475147&bvid=BV1ug4y1q7Y1&cid=201097600&page=1"
-        },
-        {
-            "title": "这是标题1",
-            "desc": "这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述123",
-            "duration": "1:25:56",
-            "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-            "url": "//player.bilibili.com/player.html?aid=838475147&bvid=BV1ug4y1q7Y1&cid=201097600&page=1"
-        },
-        {
-            "title": "这是标题1",
-            "desc": "这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述123",
-            "duration": "1:25:56",
-            "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-            "url": "//player.bilibili.com/player.html?aid=838475147&bvid=BV1ug4y1q7Y1&cid=201097600&page=1"
-        },
-        {
-            "title": "这是标题1",
-            "desc": "这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述123",
-            "duration": "1:25:56",
-            "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-            "url": "//player.bilibili.com/player.html?aid=838475147&bvid=BV1ug4y1q7Y1&cid=201097600&page=1"
-        },
-        {
-            "title": "这是标题1",
-            "desc": "这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述123",
-            "duration": "1:25:56",
-            "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-            "url": "//player.bilibili.com/player.html?aid=838475147&bvid=BV1ug4y1q7Y1&cid=201097600&page=1"
-        },
-        {
-            "title": "这是标题1",
-            "desc": "这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述这是描述123",
-            "duration": "1:25:56",
-            "img": "https://i1.hdslb.com/bfs/archive/23026c90f41a1d65f277da13ecb14a2601c2a35c.jpg@672w_378h_1c_!web-search-common-cover.webp",
-            "url": "//player.bilibili.com/player.html?aid=838475147&bvid=BV1ug4y1q7Y1&cid=201097600&page=1"
-        }
-    ]
+   "title": "一年级 - 语文",
+   "desc": "",
+   "duration": "44:08:56",
+   "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+   "url": "https://www.bilibili.com/video/BV1X54y1y74c/",
+   "episode": [
+       {
+           "title": "上册 1《我是中国人》", 
+           "desc": "",
+           "duration": "14:50",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906290&page=1"
+       },
+       {
+           "title": "上册 2《我是小学生》", 
+           "desc": "",
+           "duration": "14:54",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906315&page=2"
+       },
+       {
+           "title": "上册 3《我爱学语文》", 
+           "desc": "",
+           "duration": "14:54",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906371&page=3"
+       },
+       {
+           "title": "上册 4 识字1《天地人》", 
+           "desc": "",
+           "duration": "15:11",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906419&page=4"
+       },
+       {
+           "title": "上册 5 识字2《金木水火土》", 
+           "desc": "",
+           "duration": "14:59",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906459&page=5"
+       },
+       {
+           "title": "上册 6 识字3《口耳目》", 
+           "desc": "",
+           "duration": "15:31",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906496&page=6"
+       },
+       {
+           "title": "上册 7 识字4《日月水火》", 
+           "desc": "",
+           "duration": "14:51",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906545&page=7"
+       },
+       {
+           "title": "上册 8 识字5《对韵歌》", 
+           "desc": "",
+           "duration": "15:01",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906603&page=8"
+       },
+       {
+           "title": "上册 9 第1单元 口语交际 我说你做", 
+           "desc": "",
+           "duration": "15:01",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906625&page=9"
+       },
+       {
+           "title": "上册 10 第1单元《语文园地一》", 
+           "desc": "",
+           "duration": "14:30",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906649&page=10"
+       },
+       {
+           "title": "上册 11 第1单元《快乐读书吧》", 
+           "desc": "",
+           "duration": "14:37",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906676&page=11"
+       },
+       {
+           "title": "上册 12 第1单元 复习拓展课", 
+           "desc": "",
+           "duration": "15:11",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906700&page=12"
+       },
+       {
+           "title": "上册 13 汉语拼音1《ɑ o e》第一课时", 
+           "desc": "",
+           "duration": "15:13",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906748&page=13"
+       },
+       {
+           "title": "上册 14 汉语拼音1《ɑ o e》第二课时", 
+           "desc": "",
+           "duration": "15:09",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906803&page=14"
+       },
+       {
+           "title": "上册 15 汉语拼音2《i u ü y w》第一课时", 
+           "desc": "",
+           "duration": "14:07",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906838&page=15"
+       },
+       {
+           "title": "上册 16 汉语拼音2《i u ü y w》第二课时", 
+           "desc": "",
+           "duration": "14:20",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906859&page=16"
+       },
+       {
+           "title": "上册 17 汉语拼音3《b p m f》第一课时", 
+           "desc": "",
+           "duration": "14:53",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906882&page=17"
+       },
+       {
+           "title": "上册 18 汉语拼音3《b p m f》第二课时", 
+           "desc": "",
+           "duration": "14:21",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239906911&page=18"
+       },
+       {
+           "title": "上册 19 汉语拼音4《d t n l》 第一课时", 
+           "desc": "",
+           "duration": "15:05",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239907128&page=19"
+       },
+       {
+           "title": "上册 20 汉语拼音4《d t n l》第二课时", 
+           "desc": "",
+           "duration": "15:12",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239907235&page=20"
+       },
+       {
+           "title": "上册 21 汉语拼音5《g k h》 第一课时", 
+           "desc": "",
+           "duration": "13:45",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239907327&page=21"
+       },
+       {
+           "title": "上册 22 汉语拼音5《g k h 》第二课时", 
+           "desc": "",
+           "duration": "14:23",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239907421&page=22"
+       },
+       {
+           "title": "上册 23 汉语拼音6《j q x》 第一课时", 
+           "desc": "",
+           "duration": "12:43",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239907525&page=23"
+       },
+       {
+           "title": "上册 24 汉语拼音6《j q x》 第二课时", 
+           "desc": "",
+           "duration": "13:15",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239907619&page=24"
+       },
+       {
+           "title": "上册 25 汉语拼音7《z c s》第一课时", 
+           "desc": "",
+           "duration": "15:25",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=239907708&page=25"
+       },
+       {
+           "title": "上册 26 汉语拼音7《z c s》第二课时", 
+           "desc": "",
+           "duration": "15:16",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=243946401&page=26"
+       },
+       {
+           "title": "上册 27 汉语拼音8《zh ch sh r》第一课时", 
+           "desc": "",
+           "duration": "15:07",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=243946500&page=27"
+       },
+       {
+           "title": "上册 28 汉语拼音8《zh ch sh r》第二课时", 
+           "desc": "",
+           "duration": "14:38",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=243946759&page=28"
+       },
+       {
+           "title": "上册 29《语文园地二》", 
+           "desc": "",
+           "duration": "15:01",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=243947037&page=29"
+       },
+       {
+           "title": "上册 30《拼音复习课（一）》", 
+           "desc": "",
+           "duration": "14:46",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=243947173&page=30"
+       },
+       {
+           "title": "上册 31 汉语拼音9《ɑi ei ui》第一课时", 
+           "desc": "",
+           "duration": "15:01",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=243947295&page=31"
+       },
+       {
+           "title": "上册 32  汉语拼音9《ɑi ei ui》第二课时", 
+           "desc": "",
+           "duration": "14:47",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=244793227&page=32"
+       },
+       {
+           "title": "上册 33 汉语拼音10《ɑo ou iu》第一课时", 
+           "desc": "",
+           "duration": "15:16",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=244793322&page=33"
+       },
+       {
+           "title": "上册 34 汉语拼音10《ɑo ou iu》第二课时", 
+           "desc": "",
+           "duration": "14:31",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=244793503&page=34"
+       },
+       {
+           "title": "上册 35 汉语拼音11《ie üe er 》第一课时", 
+           "desc": "",
+           "duration": "14:38",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=247259049&page=35"
+       },
+       {
+           "title": "上册 36 汉语拼音11《ie üe er 》第二课时", 
+           "desc": "",
+           "duration": "14:36",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=247259140&page=36"
+       },
+       {
+           "title": "上册 37 汉语拼音12《ɑn en in un ün 》第一课时", 
+           "desc": "",
+           "duration": "14:38",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=247259395&page=37"
+       },
+       {
+           "title": "上册 38 汉语拼音12《ɑn en in un ün 》第二课时", 
+           "desc": "",
+           "duration": "14:38",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=247259525&page=38"
+       },
+       {
+           "title": "上册 39 汉语拼音13《ɑng eng ing ong》第一课时", 
+           "desc": "",
+           "duration": "14:47",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=247259674&page=39"
+       },
+       {
+           "title": "上册 40 汉语拼音13《ɑng eng ing ong》第二课时", 
+           "desc": "",
+           "duration": "14:20",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=247259792&page=40"
+       },
+       {
+           "title": "上册 41《语文园地三》", 
+           "desc": "",
+           "duration": "14:47",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=247259861&page=41"
+       },
+       {
+           "title": "上册 42《拼音复习课（二）》", 
+           "desc": "",
+           "duration": "14:07",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=249638063&page=42"
+       },
+       {
+           "title": "上册 43 课文1《秋天》第一课时", 
+           "desc": "",
+           "duration": "15:26",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=249638134&page=43"
+       },
+       {
+           "title": "上册 44 课文1《秋天》第二课时", 
+           "desc": "",
+           "duration": "15:46",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=249638285&page=44"
+       },
+       {
+           "title": "上册 45 课文2《小小的船 》第一课时", 
+           "desc": "",
+           "duration": "15:01",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=249638397&page=45"
+       },
+       {
+           "title": "上册 46 课文2《小小的船 》第二课时", 
+           "desc": "",
+           "duration": "15:01",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=249638510&page=46"
+       },
+       {
+           "title": "上册 47 课文3《江南》第一课时", 
+           "desc": "",
+           "duration": "15:31",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=249638594&page=47"
+       },
+       {
+           "title": "上册 48 课文3《江南》第二课时", 
+           "desc": "",
+           "duration": "15:06",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=251841092&page=48"
+       },
+       {
+           "title": "上册 49 课文4《四季》第一课时", 
+           "desc": "",
+           "duration": "14:31",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=251841168&page=49"
+       },
+       {
+           "title": "上册 50 课文4《四季》第二课时", 
+           "desc": "",
+           "duration": "14:52",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=251841338&page=50"
+       },
+       {
+           "title": "上册 51 我们做朋友", 
+           "desc": "",
+           "duration": "14:21",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=251841440&page=51"
+       },
+       {
+           "title": "上册 52 语文园地四", 
+           "desc": "",
+           "duration": "15:15",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=251841540&page=52"
+       },
+       {
+           "title": "上册 53 第四单元复习课", 
+           "desc": "",
+           "duration": "15:06",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=251841637&page=53"
+       },
+       {
+           "title": "上册 54 和大人一起读", 
+           "desc": "",
+           "duration": "15:31",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=253977993&page=54"
+       },
+       {
+           "title": "上册 55 识字6《画》", 
+           "desc": "",
+           "duration": "14:14",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=253978042&page=55"
+       },
+       {
+           "title": "上册 56 识字7《大小多少》第1课时", 
+           "desc": "",
+           "duration": "14:36",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=253978127&page=56"
+       },
+       {
+           "title": "上册 57 识字7《大小多少》第2课时", 
+           "desc": "",
+           "duration": "14:11",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=253978185&page=57"
+       },
+       {
+           "title": "上册 58 识字8《小书包》第1课时", 
+           "desc": "",
+           "duration": "14:46",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=253978262&page=58"
+       },
+       {
+           "title": "上册 59 识字8《小书包》第2课时", 
+           "desc": "",
+           "duration": "15:31",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=253978296&page=59"
+       },
+       {
+           "title": "上册 60 识字9《日月明》第一课时", 
+           "desc": "",
+           "duration": "14:32",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=256388035&page=60"
+       },
+       {
+           "title": "上册 61 识字9《日月明》第二课时", 
+           "desc": "",
+           "duration": "14:59",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=256388131&page=61"
+       },
+       {
+           "title": "上册 62 识字10《升国旗》第一课时", 
+           "desc": "",
+           "duration": "14:34",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=256388355&page=62"
+       },
+       {
+           "title": "上册 63 识字10《升国旗》第二课时", 
+           "desc": "",
+           "duration": "14:07",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=256388451&page=63"
+       },
+       {
+           "title": "上册 64 语文园地五", 
+           "desc": "",
+           "duration": "14:58",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=256388623&page=64"
+       },
+       {
+           "title": "上册 65 第五单元复习拓展课", 
+           "desc": "",
+           "duration": "15:26",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=256388731&page=65"
+       },
+       {
+           "title": "上册 66 课文5《影子》第1课时", 
+           "desc": "",
+           "duration": "14:08",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=258830189&page=66"
+       },
+       {
+           "title": "上册 67 课文5《影子》第2课时", 
+           "desc": "",
+           "duration": "15:01",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=258830262&page=67"
+       },
+       {
+           "title": "上册 68 课文6《比尾巴》第1课时", 
+           "desc": "",
+           "duration": "15:22",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=258830461&page=68"
+       },
+       {
+           "title": "上册 69 课文6《比尾巴》第2课时", 
+           "desc": "",
+           "duration": "15:11",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=258830567&page=69"
+       },
+       {
+           "title": "上册 70 课文7《青蛙写诗》第1课时", 
+           "desc": "",
+           "duration": "15:26",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=258830663&page=70"
+       },
+       {
+           "title": "上册 71 课文7《青蛙写诗》第2课时", 
+           "desc": "",
+           "duration": "14:38",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=258830767&page=71"
+       },
+       {
+           "title": "上册 72 课文8《雨点儿》第1课时", 
+           "desc": "",
+           "duration": "14:54",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=261177905&page=72"
+       },
+       {
+           "title": "上册 73 课文8《雨点儿》第2课时", 
+           "desc": "",
+           "duration": "15:42",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=261177972&page=73"
+       },
+       {
+           "title": "上册 74 口语交际——用多大的声音", 
+           "desc": "",
+           "duration": "15:31",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=261178120&page=74"
+       },
+       {
+           "title": "上册 75 语文园地六", 
+           "desc": "",
+           "duration": "15:16",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=261178169&page=75"
+       },
+       {
+           "title": "上册 76 第6单元复习课", 
+           "desc": "",
+           "duration": "15:16",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=261178218&page=76"
+       },
+       {
+           "title": "上册 77 课文9《明天要远足》第1课时", 
+           "desc": "",
+           "duration": "15:31",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=261178269&page=77"
+       },
+       {
+           "title": "上册 78 课文9《明天要远足》第2课时", 
+           "desc": "",
+           "duration": "15:11",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=263865505&page=78"
+       },
+       {
+           "title": "上册 79 课文10《大还是小》第一课时", 
+           "desc": "",
+           "duration": "14:37",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=263865561&page=79"
+       },
+       {
+           "title": "上册 80 课文10《大还是小》第二课时", 
+           "desc": "",
+           "duration": "14:21",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=263865709&page=80"
+       },
+       {
+           "title": "上册 81 课文11《项链》第一课时", 
+           "desc": "",
+           "duration": "14:30",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=263865768&page=81"
+       },
+       {
+           "title": "上册 82 课文12《项链》第二课时", 
+           "desc": "",
+           "duration": "15:01",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=263865824&page=82"
+       },
+       {
+           "title": "上册 83 语文园地七 第一课时", 
+           "desc": "",
+           "duration": "14:46",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=263865901&page=83"
+       },
+       {
+           "title": "上册 84 语文园地七 第二课时", 
+           "desc": "",
+           "duration": "14:46",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=263865965&page=84"
+       },
+       {
+           "title": "上册 85 第七单元复习课", 
+           "desc": "",
+           "duration": "13:41",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=266392982&page=85"
+       },
+       {
+           "title": "上册 86 课文12 雪地里的小画家 第一课时", 
+           "desc": "",
+           "duration": "14:59",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=266393029&page=86"
+       },
+       {
+           "title": "上册 87 课文12 雪地里的小画家 第二课时", 
+           "desc": "",
+           "duration": "14:51",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=266393111&page=87"
+       },
+       {
+           "title": "上册 88 课文13《乌鸦喝水》第一课时", 
+           "desc": "",
+           "duration": "14:50",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=266393178&page=88"
+       },
+       {
+           "title": "上册 89 课文13《乌鸦喝水》第二课时", 
+           "desc": "",
+           "duration": "14:59",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=266393221&page=89"
+       },
+       {
+           "title": "上册 90 课文14《小蜗牛》第一课时", 
+           "desc": "",
+           "duration": "14:42",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=266393298&page=90"
+       },
+       {
+           "title": "上册 91 课文14《小蜗牛》第二课时", 
+           "desc": "",
+           "duration": "14:49",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=266393391&page=91"
+       },
+       {
+           "title": "上册 92 第8单元 口语交际：小兔运南瓜", 
+           "desc": "",
+           "duration": "14:49",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=269267309&page=92"
+       },
+       {
+           "title": "上册 93 第8单元 语文园地八", 
+           "desc": "",
+           "duration": "15:11",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=269267391&page=93"
+       },
+       {
+           "title": "上册 94 第8单元 复习课", 
+           "desc": "",
+           "duration": "15:11",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=269267587&page=94"
+       },
+       {
+           "title": "上册 95 识字复习课", 
+           "desc": "",
+           "duration": "15:11",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=269268613&page=95"
+       },
+       {
+           "title": "上册 96 阅读复习课", 
+           "desc": "",
+           "duration": "15:46",
+           "img": "https://i2.hdslb.com/bfs/archive/ba60760e68c6d03e05caefe3003fbeb95d959394.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=839667666&bvid=BV1X54y1y74c&cid=269268706&page=96"
+       },
+       {
+           "title": "下册 01.识字 春夏秋冬（第一课时）",
+           "desc": "",
+           "duration": "17:58",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853523186&page=1"
+       },
+       {
+           "title": "下册 02.识字 春夏秋冬（第二课时）",
+           "desc": "",
+           "duration": "15:27",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853522795&page=2"
+       },
+       {
+           "title": "下册 03.识字 姓氏歌（第一课时）",
+           "desc": "",
+           "duration": "19:44",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853523580&page=3"
+       },
+       {
+           "title": "下册 04.识字 姓氏歌（第二课时）",
+           "desc": "",
+           "duration": "19:46",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853523766&page=4"
+       },
+       {
+           "title": "下册 05.识字 小青蛙（第一课时）",
+           "desc": "",
+           "duration": "20:25",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853523761&page=5"
+       },
+       {
+           "title": "下册 06.识字 小青蛙（第二课时）",
+           "desc": "",
+           "duration": "14:26",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853523390&page=6"
+       },
+       {
+           "title": "下册 07.识字 猜字谜（第一课时）",
+           "desc": "",
+           "duration": "14:02",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853524610&page=7"
+       },
+       {
+           "title": "下册 08.识字 猜字谜（第二课时）",
+           "desc": "",
+           "duration": "11:40",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853524361&page=8"
+       },
+       {
+           "title": "下册 09.口语交际",
+           "desc": "",
+           "duration": "11:44",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853523654&page=9"
+       },
+       {
+           "title": "下册 10.语文园地一（第一课时）",
+           "desc": "",
+           "duration": "14:58",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853524427&page=10"
+       },
+       {
+           "title": "下册 11.语文园地一（第二课时）",
+           "desc": "",
+           "duration": "16:46",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853523897&page=11"
+       },
+       {
+           "title": "下册 12.快乐读书吧",
+           "desc": "",
+           "duration": "15:41",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853523945&page=12"
+       },
+       {
+           "title": "下册 13.第2单元 吃水不忘挖井人（第一课时）",
+           "desc": "",
+           "duration": "16:30",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853524125&page=13"
+       },
+       {
+           "title": "下册 14.第2单元 吃水不忘挖井人（第二课时）",
+           "desc": "",
+           "duration": "15:28",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853524219&page=14"
+       },
+       {
+           "title": "下册 15.第2单元 我多想去看看（第一课时）",
+           "desc": "",
+           "duration": "17:18",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853524237&page=15"
+       },
+       {
+           "title": "下册 16.第2单元 我多想去看看（第二课时）",
+           "desc": "",
+           "duration": "11:42",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853524501&page=16"
+       },
+       {
+           "title": "下册 17.第2单元 一个接一个（第一课时）",
+           "desc": "",
+           "duration": "15:13",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853525126&page=17"
+       },
+       {
+           "title": "下册 18.第2单元 一个接一个（第二课时）",
+           "desc": "",
+           "duration": "16:48",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853524903&page=18"
+       },
+       {
+           "title": "下册 19.第2单元 四个太阳（第一课时）",
+           "desc": "",
+           "duration": "19:24",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853524647&page=19"
+       },
+       {
+           "title": "下册 20.第2单元 四个太阳（第二课时）",
+           "desc": "",
+           "duration": "15:55",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853524771&page=20"
+       },
+       {
+           "title": "下册 21.第2单元 语文园地二（第一课时）",
+           "desc": "",
+           "duration": "18:02",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853525808&page=21"
+       },
+       {
+           "title": "下册 22.第2单元 语文园地二（第二课时）",
+           "desc": "",
+           "duration": "14:50",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853525395&page=22"
+       },
+       {
+           "title": "下册 23.第3单元 小公鸡和小鸭子（第一课时）",
+           "desc": "",
+           "duration": "14:56",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853525124&page=23"
+       },
+       {
+           "title": "下册 24.第3单元 小公鸡和小鸭子（第二课时）",
+           "desc": "",
+           "duration": "13:37",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853524884&page=24"
+       },
+       {
+           "title": "下册 25.第3单元 树和喜鹊（第一课时）",
+           "desc": "",
+           "duration": "20:38",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853525655&page=25"
+       },
+       {
+           "title": "下册 26.第3单元 树和喜鹊（第二课时）",
+           "desc": "",
+           "duration": "14:12",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853525216&page=26"
+       },
+       {
+           "title": "下册 27.第3单元 怎么都快乐（第一课时）",
+           "desc": "",
+           "duration": "21:27",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853525511&page=27"
+       },
+       {
+           "title": "下册 28.第3单元 怎么都快乐（第二课时）",
+           "desc": "",
+           "duration": "17:07",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853525295&page=28"
+       },
+       {
+           "title": "下册 29.第3单元 口语交际：请你帮个忙",
+           "desc": "",
+           "duration": "10:33",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853525575&page=29"
+       },
+       {
+           "title": "下册 30.第3单元 语文园地三（第一课时）",
+           "desc": "",
+           "duration": "16:00",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853525787&page=30"
+       },
+       {
+           "title": "下册 31.第3单元 语文园地三（第二课时）",
+           "desc": "",
+           "duration": "18:11",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853528018&page=31"
+       },
+       {
+           "title": "下册 32.第4单元 静夜思（第一课时）",
+           "desc": "",
+           "duration": "15:52",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853528063&page=32"
+       },
+       {
+           "title": "下册 33.第4单元 静夜思（第二课时）",
+           "desc": "",
+           "duration": "14:32",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853525915&page=33"
+       },
+       {
+           "title": "下册 34.第4单元 夜色（第一课时）",
+           "desc": "",
+           "duration": "19:14",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853526029&page=34"
+       },
+       {
+           "title": "下册 35.第4单元 夜色（第二课时）",
+           "desc": "",
+           "duration": "16:21",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853526094&page=35"
+       },
+       {
+           "title": "下册 36.第4单元 端午粽（第一课时）",
+           "desc": "",
+           "duration": "17:53",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853526255&page=36"
+       },
+       {
+           "title": "下册 37.第4单元 端午粽（第二课时）",
+           "desc": "",
+           "duration": "15:21",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853526330&page=37"
+       },
+       {
+           "title": "下册 38.第4单元 彩虹（第一课时）",
+           "desc": "",
+           "duration": "16:36",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853528571&page=38"
+       },
+       {
+           "title": "下册 39.第4单元 彩虹（第二课时）",
+           "desc": "",
+           "duration": "15:00",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853526428&page=39"
+       },
+       {
+           "title": "下册 40.第4单元 语文园地四（第一课时）",
+           "desc": "",
+           "duration": "11:41",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853526391&page=40"
+       },
+       {
+           "title": "下册 41.第4单元 语文园地四（第二课时）",
+           "desc": "",
+           "duration": "13:27",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853526467&page=41"
+       },
+       {
+           "title": "下册 42.第5单元 动物儿歌（第一课时）",
+           "desc": "",
+           "duration": "17:07",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853526539&page=42"
+       },
+       {
+           "title": "下册 43.第5单元 动物儿歌（第二课时）",
+           "desc": "",
+           "duration": "16:40",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853527482&page=43"
+       },
+       {
+           "title": "下册 44.第5单元 古对今（第一课时）",
+           "desc": "",
+           "duration": "12:31",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853526559&page=44"
+       },
+       {
+           "title": "下册 45.第5单元 古对今（第二课时）",
+           "desc": "",
+           "duration": "14:47",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853526763&page=45"
+       },
+       {
+           "title": "下册 46.第5单元 操场上",
+           "desc": "",
+           "duration": "12:51",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853527008&page=46"
+       },
+       {
+           "title": "下册 47.第5单元 人之初",
+           "desc": "",
+           "duration": "14:39",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853526878&page=47"
+       },
+       {
+           "title": "下册 48.第5单元 语文园地（第一课时）",
+           "desc": "",
+           "duration": "10:21",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853527202&page=48"
+       },
+       {
+           "title": "下册 49.第5单元 语文园地（第二课时）",
+           "desc": "",
+           "duration": "14:36",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853527127&page=49"
+       },
+       {
+           "title": "下册 50.第6单元 古诗二首（第一课时）",
+           "desc": "",
+           "duration": "17:15",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853527310&page=50"
+       },
+       {
+           "title": "下册 51.第6单元 古诗二首（第二课时）",
+           "desc": "",
+           "duration": "20:09",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853533249&page=51"
+       },
+       {
+           "title": "下册 52.第6单元 荷叶圆圆（第一课时）",
+           "desc": "",
+           "duration": "18:34",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853527574&page=52"
+       },
+       {
+           "title": "下册 53.第6单元 荷叶圆圆（第二课时）",
+           "desc": "",
+           "duration": "14:10",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853527768&page=53"
+       },
+       {
+           "title": "下册 54.第6单元 要下雨了（第一课时）",
+           "desc": "",
+           "duration": "17:12",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853528444&page=54"
+       },
+       {
+           "title": "下册 55.第6单元 要下雨了（第二课时）",
+           "desc": "",
+           "duration": "18:58",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853528343&page=55"
+       },
+       {
+           "title": "下册 56.第6单元 语文园地六（第一课时）",
+           "desc": "",
+           "duration": "16:36",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853528245&page=56"
+       },
+       {
+           "title": "下册 57.第6单元 语文园地六（第二课时）",
+           "desc": "",
+           "duration": "16:40",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853532834&page=57"
+       },
+       {
+           "title": "下册 58.第7单元 文具的家（第一课时）",
+           "desc": "",
+           "duration": "19:13",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853528707&page=58"
+       },
+       {
+           "title": "下册 59.第7单元 文具的家（第二课时）",
+           "desc": "",
+           "duration": "16:10",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853528296&page=59"
+       },
+       {
+           "title": "下册 60.第7单元 一分钟（第一课时）",
+           "desc": "",
+           "duration": "13:12",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853528661&page=60"
+       },
+       {
+           "title": "下册 61.第7单元 一分钟（第二课时）",
+           "desc": "",
+           "duration": "15:25",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853528811&page=61"
+       },
+       {
+           "title": "下册 62.第7单元 动物王国开大会（第一课时）",
+           "desc": "",
+           "duration": "21:59",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853528920&page=62"
+       },
+       {
+           "title": "下册 63.第7单元 动物王国开大会（第二课时）",
+           "desc": "",
+           "duration": "22:39",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853529273&page=63"
+       },
+       {
+           "title": "下册 64.第7单元 小猴子下山（第一课时）",
+           "desc": "",
+           "duration": "15:28",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853528876&page=64"
+       },
+       {
+           "title": "下册 65.第7单元 小猴子下山（第二课时）",
+           "desc": "",
+           "duration": "13:54",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853528984&page=65"
+       },
+       {
+           "title": "下册 66.第7单元 语文园地七（第一课时）",
+           "desc": "",
+           "duration": "19:05",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853528976&page=66"
+       },
+       {
+           "title": "下册 67.第7单元 语文园地七（第二课时）",
+           "desc": "",
+           "duration": "12:33",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853529197&page=67"
+       },
+       {
+           "title": "下册 68.第8单元 棉花姑娘（第一课时）",
+           "desc": "",
+           "duration": "21:20",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853529468&page=68"
+       },
+       {
+           "title": "下册 69.第8单元 棉花姑娘（第二课时）",
+           "desc": "",
+           "duration": "22:45",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853530262&page=69"
+       },
+       {
+           "title": "下册 70.第8单元 咕咚（第一课时）",
+           "desc": "",
+           "duration": "18:09",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853529554&page=70"
+       },
+       {
+           "title": "下册 71.第8单元 咕咚（第二课时）",
+           "desc": "",
+           "duration": "16:39",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853529734&page=71"
+       },
+       {
+           "title": "下册 72.第8单元 小壁虎借尾巴（第一课时）",
+           "desc": "",
+           "duration": "19:13",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853530034&page=72"
+       },
+       {
+           "title": "下册 73.第8单元 小壁虎借尾巴（第二课时）",
+           "desc": "",
+           "duration": "20:23",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853529952&page=73"
+       },
+       {
+           "title": "下册 74.第8单元 语文园地八（第一课时）",
+           "desc": "",
+           "duration": "12:16",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853530114&page=74"
+       },
+       {
+           "title": "下册 75.第8单元 语文园地八（第二课时）",
+           "desc": "",
+           "duration": "13:19",
+           "img": "https://i1.hdslb.com/bfs/archive/ea361c1e06fee94a5d9fbee66a64043ce425ced0.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=473753073&bvid=BV17T411P7ZK&cid=853530140&page=75"
+       }
+   ]
 }

@@ -16,61 +16,99 @@
     "subject": {
         "grade1": [
             { "text": "语文", "value": "chinese" },
-            { "text": "数学", "value": "math" }
+            { "text": "数学", "value": "math" },
+            { "text": "英语", "value": "english" }
         ],
         "grade2": [
             { "text": "语文", "value": "chinese" },
-            { "text": "数学", "value": "math" }
+            { "text": "数学", "value": "math" },
+            { "text": "英语", "value": "english" }
         ],
         "grade3": [
             { "text": "语文", "value": "chinese" },
             { "text": "数学", "value": "math" },
-            { "text": "英语", "value": "engligh" }
+            { "text": "英语", "value": "english" }
         ],
         "grade4": [
             { "text": "语文", "value": "chinese" },
             { "text": "数学", "value": "math" },
-            { "text": "英语", "value": "engligh" }
+            { "text": "英语", "value": "english" }
         ],
         "grade5": [
             { "text": "语文", "value": "chinese" },
             { "text": "数学", "value": "math" },
-            { "text": "英语", "value": "engligh" }
+            { "text": "英语", "value": "english" }
         ],
         "grade6": [
             { "text": "语文", "value": "chinese" },
             { "text": "数学", "value": "math" },
-            { "text": "英语", "value": "engligh" }
+            { "text": "英语", "value": "english" }
         ],
         "grade7": [
             { "text": "语文", "value": "chinese" },
             { "text": "数学", "value": "math" },
-            { "text": "英语", "value": "engligh" }
+            { "text": "英语", "value": "english" },
+            { "text": "物理", "value": "physics" },
+            { "text": "化学", "value": "chemical" },
+            { "text": "生物", "value": "biology" },
+            { "text": "政治", "value": "politics" },
+            { "text": "历史", "value": "history" },
+            { "text": "地理", "value": "geography" }
         ],
         "grade8": [
             { "text": "语文", "value": "chinese" },
             { "text": "数学", "value": "math" },
-            { "text": "英语", "value": "engligh" }
+            { "text": "英语", "value": "english" },
+            { "text": "物理", "value": "physics" },
+            { "text": "化学", "value": "chemical" },
+            { "text": "生物", "value": "biology" },
+            { "text": "政治", "value": "politics" },
+            { "text": "历史", "value": "history" },
+            { "text": "地理", "value": "geography" }
         ],
         "grade9": [
             { "text": "语文", "value": "chinese" },
             { "text": "数学", "value": "math" },
-            { "text": "英语", "value": "engligh" }
+            { "text": "英语", "value": "english" },
+            { "text": "物理", "value": "physics" },
+            { "text": "化学", "value": "chemical" },
+            { "text": "生物", "value": "biology" },
+            { "text": "政治", "value": "politics" },
+            { "text": "历史", "value": "history" },
+            { "text": "地理", "value": "geography" }
         ],
         "grade10": [
             { "text": "语文", "value": "chinese" },
             { "text": "数学", "value": "math" },
-            { "text": "英语", "value": "engligh" }
+            { "text": "英语", "value": "english" },
+            { "text": "物理", "value": "physics" },
+            { "text": "化学", "value": "chemical" },
+            { "text": "生物", "value": "biology" },
+            { "text": "政治", "value": "politics" },
+            { "text": "历史", "value": "history" },
+            { "text": "地理", "value": "geography" }
         ],
         "grade11": [
             { "text": "语文", "value": "chinese" },
             { "text": "数学", "value": "math" },
-            { "text": "英语", "value": "engligh" }
+            { "text": "英语", "value": "english" },
+            { "text": "物理", "value": "physics" },
+            { "text": "化学", "value": "chemical" },
+            { "text": "生物", "value": "biology" },
+            { "text": "政治", "value": "politics" },
+            { "text": "历史", "value": "history" },
+            { "text": "地理", "value": "geography" }
         ],
         "grade12": [
             { "text": "语文", "value": "chinese" },
             { "text": "数学", "value": "math" },
-            { "text": "英语", "value": "engligh" }
+            { "text": "英语", "value": "english" },
+            { "text": "物理", "value": "physics" },
+            { "text": "化学", "value": "chemical" },
+            { "text": "生物", "value": "biology" },
+            { "text": "政治", "value": "politics" },
+            { "text": "历史", "value": "history" },
+            { "text": "地理", "value": "geography" }
         ]
     }
 }
