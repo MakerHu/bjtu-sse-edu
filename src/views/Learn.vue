@@ -8,10 +8,16 @@
     <div class="learn-container">
         <van-list v-model:loading="loading" :finished="finished" finished-text="没有更多了" @load="onLoad">
             <van-card v-for="item, index in data.courseMsg.episode" :thumb="item.img" @click="onCardClick(index)">
+                <template #thumb>
+                    <van-image class="learn-img" :src="item.img">
+                        <template v-slot:loading>
+                            <van-loading type="spinner" size="20" />
+                        </template>
+                    </van-image>
+                </template>
                 <template #title>
                     <div class="title">
-                        <van-icon color="#1989fa" name="video-o"/>
-                        <span>{{ item.title }}</span>
+                        <span class="title-content"><van-icon color="#1989fa" name="video-o" />{{ item.title }}</span>
                     </div>
                 </template>
                 <template #desc>
@@ -144,8 +150,18 @@ onMounted(() => {
     /* margin-top: 0px; */
     background-color: white;
     margin: 10px;
+    padding: 8px;
     border-radius: 10px;
     box-shadow: var(--edu-box-shadow);
+}
+
+.learn-img {
+    aspect-ratio: 16/9;
+    height: 100%;
+}
+
+:deep(.van-card__thumb) {
+    width: auto;
 }
 
 .title {
@@ -153,9 +169,28 @@ onMounted(() => {
     font-weight: bold;
 }
 
+.title-content {
+    display: -webkit-box;
+    /* 使用WebKit的弹性盒模型 */
+    -webkit-box-orient: vertical;
+    /* 设置盒子内部元素垂直排列 */
+    -webkit-line-clamp: 2;
+    /* 最多显示两行文字 */
+    line-height: 1.2;
+    /* 设置行高 */
+    max-height: 2.4em;
+    /* 设置最多显示两行文字的高度 */
+    text-overflow: ellipsis;
+    /* 显示省略号 */
+    overflow: hidden;
+    /* 隐藏超出容器范围的内容 */
+    word-wrap: break-word;
+    /* 允许长单词换行 */
+}
+
 .desc-container {
     padding-top: 5px;
-    height: 52px;
+    max-height: 3em;
     /* 设置容器的高度为两行文字的高度 */
     overflow: hidden;
     /* 将超出范围的内容隐藏 */
@@ -166,11 +201,11 @@ onMounted(() => {
     /* 使用WebKit的弹性盒模型 */
     -webkit-box-orient: vertical;
     /* 设置盒子内部元素垂直排列 */
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 2;
     /* 最多显示两行文字 */
     line-height: 1.2;
     /* 设置行高 */
-    max-height: 3.6em;
+    max-height: 2.4em;
     /* 设置最多显示两行文字的高度 */
     text-overflow: ellipsis;
     /* 显示省略号 */

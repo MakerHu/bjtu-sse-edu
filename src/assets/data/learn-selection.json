@@ -48,8 +48,6 @@
             { "text": "语文", "value": "chinese" },
             { "text": "数学", "value": "math" },
             { "text": "英语", "value": "english" },
-            { "text": "物理", "value": "physics" },
-            { "text": "化学", "value": "chemical" },
             { "text": "生物", "value": "biology" },
             { "text": "政治", "value": "politics" },
             { "text": "历史", "value": "history" },
@@ -60,7 +58,6 @@
             { "text": "数学", "value": "math" },
             { "text": "英语", "value": "english" },
             { "text": "物理", "value": "physics" },
-            { "text": "化学", "value": "chemical" },
             { "text": "生物", "value": "biology" },
             { "text": "政治", "value": "politics" },
             { "text": "历史", "value": "history" },
@@ -74,8 +71,7 @@
             { "text": "化学", "value": "chemical" },
             { "text": "生物", "value": "biology" },
             { "text": "政治", "value": "politics" },
-            { "text": "历史", "value": "history" },
-            { "text": "地理", "value": "geography" }
+            { "text": "历史", "value": "history" }
         ],
         "grade10": [
             { "text": "语文", "value": "chinese" },

@@ -1,0 +1,576 @@
+{
+   "title": "初中三年级 - 化学",
+   "desc": "",
+   "duration": "25:04:38",
+   "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+   "url": "https://www.bilibili.com/video/BV14h411X7r6/",
+   "episode": [
+       {
+           "title": "上册 绪言 化学使世界变得更加绚丽多彩", 
+           "desc": "",
+           "duration": "21:42",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=237597590&page=1"
+       },
+       {
+           "title": "上册 1.1 物质的变化和性质", 
+           "desc": "",
+           "duration": "21:37",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=237597703&page=2"
+       },
+       {
+           "title": "上册 1.2 化学是一门以实验为基础的科学(第1课时)", 
+           "desc": "",
+           "duration": "22:07",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=237597838&page=3"
+       },
+       {
+           "title": "上册 1.2 化学是一门以实验为基础的科学(第2课时)", 
+           "desc": "",
+           "duration": "22:32",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=237597966&page=4"
+       },
+       {
+           "title": "上册 1.3 走进化学实验室", 
+           "desc": "",
+           "duration": "21:07",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=237598117&page=5"
+       },
+       {
+           "title": "上册 2.1 空气(第1课时)", 
+           "desc": "",
+           "duration": "23:57",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=237598499&page=6"
+       },
+       {
+           "title": "上册 2.1 空气(第2课时)", 
+           "desc": "",
+           "duration": "24:42",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=238143065&page=7"
+       },
+       {
+           "title": "上册 2.2 氧气", 
+           "desc": "",
+           "duration": "23:02",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=238867245&page=8"
+       },
+       {
+           "title": "上册 2.3 制取氧气(第1课时)", 
+           "desc": "",
+           "duration": "23:57",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=240428025&page=9"
+       },
+       {
+           "title": "上册 2.3 制取氧气(第2课时)", 
+           "desc": "",
+           "duration": "21:47",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=240428690&page=10"
+       },
+       {
+           "title": "上册 2.3 制取氧气(第3课时)", 
+           "desc": "",
+           "duration": "21:12",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=245559437&page=11"
+       },
+       {
+           "title": "上册 2.4 我们周围的空气 复习(第1课时)", 
+           "desc": "",
+           "duration": "22:37",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=245560733&page=12"
+       },
+       {
+           "title": "上册 2.4 我们周围的空气 复习(第2课时)", 
+           "desc": "",
+           "duration": "24:27",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=247956893&page=13"
+       },
+       {
+           "title": "上册 3.1 分子和原子", 
+           "desc": "",
+           "duration": "22:52",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=247958004&page=14"
+       },
+       {
+           "title": "上册 3.2 原子的结构(第1课时)", 
+           "desc": "",
+           "duration": "23:07",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=247959172&page=15"
+       },
+       {
+           "title": "上册 3.2 原子的结构(第2课时)", 
+           "desc": "",
+           "duration": "22:02",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=250307427&page=16"
+       },
+       {
+           "title": "上册 3.3 元素(第1课时)", 
+           "desc": "",
+           "duration": "21:12",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=250307609&page=17"
+       },
+       {
+           "title": "上册 3.3 元素(第2课时)", 
+           "desc": "",
+           "duration": "21:57",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=367295434&page=18"
+       },
+       {
+           "title": "上册 3.4 物质构成的奥秘（单元复习）", 
+           "desc": "",
+           "duration": "21:22",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=252481511&page=19"
+       },
+       {
+           "title": "上册 4.1 爱护水资源", 
+           "desc": "",
+           "duration": "22:10",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=252482144&page=20"
+       },
+       {
+           "title": "上册 4.2 水的净化", 
+           "desc": "",
+           "duration": "20:37",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=254591103&page=21"
+       },
+       {
+           "title": "上册 4.3 水的组成", 
+           "desc": "",
+           "duration": "21:22",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=254591662&page=22"
+       },
+       {
+           "title": "上册 4.4 化学式与化合价(第1课时)", 
+           "desc": "",
+           "duration": "20:02",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=254592454&page=23"
+       },
+       {
+           "title": "上册 4.4 化学式与化合价(第2课时)", 
+           "desc": "",
+           "duration": "21:37",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=257090819&page=24"
+       },
+       {
+           "title": "上册 4.5 自然界的水 复习", 
+           "desc": "",
+           "duration": "23:02",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=257091358&page=25"
+       },
+       {
+           "title": "上册 5.1 质量守恒定律(第1课时)", 
+           "desc": "",
+           "duration": "24:42",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=257091785&page=26"
+       },
+       {
+           "title": "上册 5.1 质量守恒定律(第2课时)", 
+           "desc": "",
+           "duration": "23:52",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=259515699&page=27"
+       },
+       {
+           "title": "上册 5.2 如何正确书写化学方程式（第1课时）", 
+           "desc": "",
+           "duration": "24:42",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=259517202&page=28"
+       },
+       {
+           "title": "上册 5.2 如何正确书写化学方程式（第2课时）", 
+           "desc": "",
+           "duration": "24:27",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=259518355&page=29"
+       },
+       {
+           "title": "上册 5.3 利用化学方程式的简单计算（第1课时）", 
+           "desc": "",
+           "duration": "20:02",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=261882163&page=30"
+       },
+       {
+           "title": "上册 5.3 利用化学方程式的简单计算（第2课时）", 
+           "desc": "",
+           "duration": "22:42",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=261882516&page=31"
+       },
+       {
+           "title": "上册 5.4 化学方程式 复习", 
+           "desc": "",
+           "duration": "22:52",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=261883204&page=32"
+       },
+       {
+           "title": "上册 6.1 金刚石、石墨和C60", 
+           "desc": "",
+           "duration": "22:02",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=264705914&page=33"
+       },
+       {
+           "title": "上册 6.2 二氧化碳制取的研究(第1课时)", 
+           "desc": "",
+           "duration": "20:27",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=264708604&page=34"
+       },
+       {
+           "title": "上册 6.2 二氧化碳制取的研究(第2课时)", 
+           "desc": "",
+           "duration": "21:42",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=264710348&page=35"
+       },
+       {
+           "title": "上册 6.3 二氧化碳和一氧化碳(第1课时)", 
+           "desc": "",
+           "duration": "22:37",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=267315318&page=36"
+       },
+       {
+           "title": "上册 6.3 二氧化碳和一氧化碳(第2课时)", 
+           "desc": "",
+           "duration": "22:47",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=267316885&page=37"
+       },
+       {
+           "title": "上册 6.4 碳和碳的氧化物 复习", 
+           "desc": "",
+           "duration": "21:22",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=267317745&page=38"
+       },
+       {
+           "title": "上册 7.1 燃烧和灭火(第1课时)", 
+           "desc": "",
+           "duration": "21:47",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=270085587&page=39"
+       },
+       {
+           "title": "上册 7.1 燃烧和灭火(第2课时)", 
+           "desc": "",
+           "duration": "23:57",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=270088522&page=40"
+       },
+       {
+           "title": "上册 7.2 燃料的合理利用与开发", 
+           "desc": "",
+           "duration": "20:42",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=270091351&page=41"
+       },
+       {
+           "title": "上册 7.3 燃料及其利用(单元复习)", 
+           "desc": "",
+           "duration": "22:07",
+           "img": "https://i0.hdslb.com/bfs/archive/13038aa4654fce7f53954d74144096018ab8ee58.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=202168684&bvid=BV14h411X7r6&cid=274702224&page=42"
+       },
+       {
+           "title": "下册 溶液的形成", 
+           "desc": "",
+           "duration": "31:07",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321528964&page=1"
+       },
+       {
+           "title": "下册 饱和溶液和不饱和溶液", 
+           "desc": "",
+           "duration": "32:17",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321529309&page=2"
+       },
+       {
+           "title": "下册 溶解度", 
+           "desc": "",
+           "duration": "30:01",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321529670&page=3"
+       },
+       {
+           "title": "下册 溶质的质量分数", 
+           "desc": "",
+           "duration": "30:20",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321529980&page=4"
+       },
+       {
+           "title": "下册 复分解反应（第1课时）", 
+           "desc": "",
+           "duration": "30:36",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321530277&page=5"
+       },
+       {
+           "title": "下册 复分解反应（第2课时）", 
+           "desc": "",
+           "duration": "35:17",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321530453&page=6"
+       },
+       {
+           "title": "下册 溶液习题课", 
+           "desc": "",
+           "duration": "29:22",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321530684&page=7"
+       },
+       {
+           "title": "下册 酸和碱复习", 
+           "desc": "",
+           "duration": "33:13",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321530863&page=8"
+       },
+       {
+           "title": "下册 我们周围的空气", 
+           "desc": "",
+           "duration": "31:43",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321532180&page=9"
+       },
+       {
+           "title": "下册 自然界的水", 
+           "desc": "",
+           "duration": "33:32",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321532595&page=10"
+       },
+       {
+           "title": "下册 物质构成的奥秘", 
+           "desc": "",
+           "duration": "32:04",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321533032&page=11"
+       },
+       {
+           "title": "下册 盐的性质", 
+           "desc": "",
+           "duration": "34:28",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321533489&page=12"
+       },
+       {
+           "title": "下册 化学肥料", 
+           "desc": "",
+           "duration": "33:02",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321533969&page=13"
+       },
+       {
+           "title": "下册 复分解反应", 
+           "desc": "",
+           "duration": "32:58",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321534754&page=14"
+       },
+       {
+           "title": "下册 碳和碳的化合物", 
+           "desc": "",
+           "duration": "28:54",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321535366&page=15"
+       },
+       {
+           "title": "下册 化学方程式", 
+           "desc": "",
+           "duration": "27:53",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321537734&page=16"
+       },
+       {
+           "title": "下册 化学与生活（一）", 
+           "desc": "",
+           "duration": "30:22",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321538658&page=17"
+       },
+       {
+           "title": "下册 化学与生活（二）", 
+           "desc": "",
+           "duration": "29:16",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321538909&page=18"
+       },
+       {
+           "title": "下册 酸碱盐的复习（一）", 
+           "desc": "",
+           "duration": "34:25",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321539249&page=19"
+       },
+       {
+           "title": "下册 酸碱盐的复习（二）", 
+           "desc": "",
+           "duration": "33:45",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321540384&page=20"
+       },
+       {
+           "title": "下册 燃料及其应用", 
+           "desc": "",
+           "duration": "31:17",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321541271&page=21"
+       },
+       {
+           "title": "下册 金属材料的利用", 
+           "desc": "",
+           "duration": "29:05",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321541649&page=22"
+       },
+       {
+           "title": "下册 溶解度曲线", 
+           "desc": "",
+           "duration": "33:38",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321542006&page=23"
+       },
+       {
+           "title": "下册 质量守恒定律", 
+           "desc": "",
+           "duration": "27:20",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321542511&page=24"
+       },
+       {
+           "title": "下册 气体的制取与性质", 
+           "desc": "",
+           "duration": "34:03",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321542870&page=25"
+       },
+       {
+           "title": "下册 化工流程题", 
+           "desc": "",
+           "duration": "28:58",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321543289&page=26"
+       },
+       {
+           "title": "下册 物质的分离与提纯", 
+           "desc": "",
+           "duration": "31:46",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321543674&page=27"
+       },
+       {
+           "title": "下册 化学计算", 
+           "desc": "",
+           "duration": "26:19",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321544342&page=28"
+       },
+       {
+           "title": "下册 能源", 
+           "desc": "",
+           "duration": "25:38",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321545193&page=29"
+       },
+       {
+           "title": "下册 新型材料的研发", 
+           "desc": "",
+           "duration": "33:09",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321545373&page=30"
+       },
+       {
+           "title": "下册 化学综合题", 
+           "desc": "",
+           "duration": "33:32",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321546016&page=31"
+       },
+       {
+           "title": "下册 科学探究题", 
+           "desc": "",
+           "duration": "35:00",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321546859&page=32"
+       },
+       {
+           "title": "下册 实验：金属钠在氯气中燃烧", 
+           "desc": "",
+           "duration": "01:09",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321547497&page=33"
+       },
+       {
+           "title": "下册 实验：酒精试验", 
+           "desc": "",
+           "duration": "01:01",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321547507&page=34"
+       },
+       {
+           "title": "下册 实验：乒乓球浮起", 
+           "desc": "",
+           "duration": "00:29",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321547578&page=35"
+       },
+       {
+           "title": "下册 实验：溶解时吸热或放热现象", 
+           "desc": "",
+           "duration": "02:00",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321547597&page=36"
+       },
+       {
+           "title": "下册 实验：溶解速度", 
+           "desc": "",
+           "duration": "00:34",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321547635&page=37"
+       },
+       {
+           "title": "下册 实验：溶质在溶剂中溶解性的比较", 
+           "desc": "",
+           "duration": "02:31",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321547672&page=38"
+       },
+       {
+           "title": "下册 实验：水与乙醇互溶", 
+           "desc": "",
+           "duration": "01:14",
+           "img": "https://i2.hdslb.com/bfs/archive/ce9d14601c02b2659e60b8a47e2f6417ca1d5b72.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=375020506&bvid=BV14Z4y1c7qk&cid=321547721&page=39"
+       }
+   ]
+}

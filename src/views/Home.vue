@@ -148,7 +148,6 @@ onMounted(() => {
     activePage.value = 'home'
     refreshDailyQuote()
     jinrishici.load(result => {
-        console.log(result);
         data.dailyPoetry = result.data
     }, err => {
         console.log(err);

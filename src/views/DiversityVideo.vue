@@ -13,16 +13,21 @@
             <div class="msg-panel">
                 <div class="course-title"><van-icon name="orders-o" />
                     {{ currentVideo.title }}
-                    <van-divider v-if="currentVideo.episode[selectedValue].title" vertical :style="{ borderColor: '#000000' }" />
+                    <van-divider v-if="currentVideo.episode[selectedValue].title" vertical
+                        :style="{ borderColor: '#000000' }" />
                     {{ currentVideo.episode[selectedValue].title }}
                 </div>
                 <p class="course-desc">{{ currentVideo.episode[selectedValue].desc }}</p>
             </div>
 
             <div class="msg-panel" v-if="currentVideo.episode.length > 1">
-                <van-picker :columns="currentVideo.episode" :columns-field-names="customFieldName" :visible-option-num="selectionSize" @change="onChange">
-                    <template #toolbar>
-                        选集
+                <van-picker :columns="currentVideo.episode" :columns-field-names="customFieldName" title="选集"
+                    :visible-option-num="selectionSize" @change="onChange" @confirm="onConfirm" @cancel="onCancel">
+                    <template #confirm>
+                        <van-icon v-show="isChange" name="success" />
+                    </template>
+                    <template #cancel>
+                        <van-icon v-show="isChange" name="cross" />
                     </template>
                 </van-picker>
             </div>
@@ -51,6 +56,8 @@ const store = useStore()
 
 const loading = ref(false)
 const finished = ref(true)
+
+const isChange = ref(false)
 
 const height = ref(0)
 const anchors = [
@@ -88,7 +95,7 @@ const currentVideo = computed({
 })
 
 const selectionSize = computed(() => {
-    return currentVideo.value.episode.length < 5 ? currentVideo.value.episode.length:5
+    return currentVideo.value.episode.length < 5 ? currentVideo.value.episode.length : 5
 })
 
 const goBack = () => {
@@ -96,8 +103,17 @@ const goBack = () => {
 }
 
 const onChange = ({ selectedValues }) => {
+    isChange.value = true
+}
+
+const onConfirm = ({ selectedValues }) => {
     selectedValue.value = selectedValues[0]
-};
+    isChange.value = false
+}
+
+const onCancel = () => {
+    isChange.value = false
+}
 
 onMounted(() => {
     currentVideo.value.episode.forEach((item, index) => {
@@ -147,9 +163,9 @@ onMounted(() => {
     white-space: pre-wrap;
 }
 
-:deep(.van-picker__toolbar) {
+/* :deep(.van-picker__toolbar) {
     display: block;
     text-align: center;
     font-weight: bold;
-}
+} */
 </style>
