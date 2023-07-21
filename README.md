@@ -16,7 +16,8 @@ npm run build
 npm run build
 git checkout -b gh-pages
 git push origin gh-pages
-bash deploy.sh
+# 或者 deploy-gitee.sh
+bash deploy-github.sh
 ```
 
 ### 后期部署
