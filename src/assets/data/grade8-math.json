@@ -1,0 +1,849 @@
+{
+   "title": "初二 - 数学",
+   "desc": "",
+   "duration": "41:20:11",
+   "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+   "url": "https://www.bilibili.com/video/BV1HV411m7LU/",
+   "episode": [
+       {
+           "title": "上册 1 三角形的边和三角形的稳定性", 
+           "desc": "",
+           "duration": "20:58",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=236424505&page=1"
+       },
+       {
+           "title": "上册 2 三角形的高、中线与角平分线", 
+           "desc": "",
+           "duration": "21:08",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=236424639&page=2"
+       },
+       {
+           "title": "上册 3 与三角形有关的线段的综合运用", 
+           "desc": "",
+           "duration": "22:55",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=236424787&page=3"
+       },
+       {
+           "title": "上册 4 三角形的内角（第一课时）", 
+           "desc": "",
+           "duration": "24:29",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=236424948&page=4"
+       },
+       {
+           "title": "上册 5 三角形的内角（第二课时）", 
+           "desc": "",
+           "duration": "22:28",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=236425131&page=5"
+       },
+       {
+           "title": "上册 6 三角形的外角", 
+           "desc": "",
+           "duration": "22:18",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=236425334&page=6"
+       },
+       {
+           "title": "上册 7 与三角形有关的角的综合运用", 
+           "desc": "",
+           "duration": "23:37",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=236425973&page=7"
+       },
+       {
+           "title": "上册 8 多边形", 
+           "desc": "",
+           "duration": "20:04",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=236426181&page=8"
+       },
+       {
+           "title": "上册 9 多边形的内角和", 
+           "desc": "",
+           "duration": "21:39",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=236426311&page=9"
+       },
+       {
+           "title": "上册 10 三角形全章复习（第一课时）", 
+           "desc": "",
+           "duration": "22:53",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=236426471&page=10"
+       },
+       {
+           "title": "上册 11 三角形全章复习（第二课时）", 
+           "desc": "",
+           "duration": "23:39",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=236426617&page=11"
+       },
+       {
+           "title": "上册 12 全等三角形", 
+           "desc": "",
+           "duration": "23:36",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=236426778&page=12"
+       },
+       {
+           "title": "上册 13 三角形全等的判定——SSS", 
+           "desc": "",
+           "duration": "22:07",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=236427096&page=13"
+       },
+       {
+           "title": "上册 14 三角形全等的判定——SAS", 
+           "desc": "",
+           "duration": "22:45",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=236427431&page=14"
+       },
+       {
+           "title": "上册 15 三角形全等的判定-ASA、AAS", 
+           "desc": "",
+           "duration": "22:34",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=237507215&page=15"
+       },
+       {
+           "title": "上册 16 三角形全等的判定——HL", 
+           "desc": "",
+           "duration": "22:37",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=238137241&page=16"
+       },
+       {
+           "title": "上册 17 再探三角形全等的条件", 
+           "desc": "",
+           "duration": "24:25",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=238138133&page=17"
+       },
+       {
+           "title": "上册 18 全等三角形的性质与判定的综合运用(第一课时)", 
+           "desc": "",
+           "duration": "24:48",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=238864668&page=18"
+       },
+       {
+           "title": "上册 19 全等三角形的性质与判定的综合运用(第二课时)", 
+           "desc": "",
+           "duration": "24:28",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=238865320&page=19"
+       },
+       {
+           "title": "上册 20 全等三角形的性质与判定的综合运用(第三课时)", 
+           "desc": "",
+           "duration": "22:39",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=240108940&page=20"
+       },
+       {
+           "title": "上册 21 角的平分线的性质(第一课时)", 
+           "desc": "",
+           "duration": "22:44",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=240109084&page=21"
+       },
+       {
+           "title": "上册 22 角的平分线的性质(第二课时)", 
+           "desc": "",
+           "duration": "24:34",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=240109420&page=22"
+       },
+       {
+           "title": "上册 23 角的平分线的性质(第三课时)", 
+           "desc": "",
+           "duration": "23:38",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=241991441&page=23"
+       },
+       {
+           "title": "上册 24 角的平分线的性质的综合运用", 
+           "desc": "",
+           "duration": "24:22",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=245222934&page=24"
+       },
+       {
+           "title": "上册 25 全等三角形全章复习(第一课时)", 
+           "desc": "",
+           "duration": "23:41",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=245223725&page=25"
+       },
+       {
+           "title": "上册 26 全等三角形全章复习(第二课时)", 
+           "desc": "",
+           "duration": "24:41",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=245224562&page=26"
+       },
+       {
+           "title": "上册 27 轴对称", 
+           "desc": "",
+           "duration": "23:23",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=245225519&page=27"
+       },
+       {
+           "title": "上册 28 线段的垂直平分线的性质(第一课时)", 
+           "desc": "",
+           "duration": "21:13",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=247585752&page=28"
+       },
+       {
+           "title": "上册 29 线段的垂直平分线的性质(第二课时)", 
+           "desc": "",
+           "duration": "21:52",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=247585904&page=29"
+       },
+       {
+           "title": "上册 30 线段的垂直平分线的性质(第三课时)", 
+           "desc": "",
+           "duration": "22:20",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=247586050&page=30"
+       },
+       {
+           "title": "上册 31 画轴对称图形", 
+           "desc": "",
+           "duration": "24:44",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=247586245&page=31"
+       },
+       {
+           "title": "上册 32 用坐标表示轴对称", 
+           "desc": "",
+           "duration": "22:18",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=247586555&page=32"
+       },
+       {
+           "title": "上册 33 等腰三角形(第一课时)", 
+           "desc": "",
+           "duration": "22:44",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=249961388&page=33"
+       },
+       {
+           "title": "上册 34 等腰三角形(第二课时)", 
+           "desc": "",
+           "duration": "20:33",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=249961607&page=34"
+       },
+       {
+           "title": "上册 35 等腰三角形(第三课时)", 
+           "desc": "",
+           "duration": "23:16",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=249961885&page=35"
+       },
+       {
+           "title": "上册 36 等边三角形(第一课时)", 
+           "desc": "",
+           "duration": "23:22",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=249962123&page=36"
+       },
+       {
+           "title": "上册 37 等边三角形(第二课时)", 
+           "desc": "",
+           "duration": "22:00",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=249962423&page=37"
+       },
+       {
+           "title": "上册 38 等腰三角形的综合运用(第一课时)", 
+           "desc": "",
+           "duration": "23:48",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=252152218&page=38"
+       },
+       {
+           "title": "上册 39 等腰三角形的综合运用(第二课时)", 
+           "desc": "",
+           "duration": "22:09",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=252153174&page=39"
+       },
+       {
+           "title": "上册 40 最短路径问题(第一课时)", 
+           "desc": "",
+           "duration": "20:09",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=252153950&page=40"
+       },
+       {
+           "title": "上册 41 最短路径问题(第二课时)", 
+           "desc": "",
+           "duration": "24:34",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=252154691&page=41"
+       },
+       {
+           "title": "上册 42 轴对称全章复习(第一课时)", 
+           "desc": "",
+           "duration": "20:55",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=252155201&page=42"
+       },
+       {
+           "title": "上册 43 轴对称全章复习(第二课时)", 
+           "desc": "",
+           "duration": "21:32",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=254399672&page=43"
+       },
+       {
+           "title": "上册 44 同底数幂的乘法", 
+           "desc": "",
+           "duration": "24:50",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=254399793&page=44"
+       },
+       {
+           "title": "上册 45 幂的乘方", 
+           "desc": "",
+           "duration": "24:41",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=254400155&page=45"
+       },
+       {
+           "title": "上册 46 积的乘方", 
+           "desc": "",
+           "duration": "24:21",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=254400529&page=46"
+       },
+       {
+           "title": "上册 47 整式的乘法(第一课时)", 
+           "desc": "",
+           "duration": "24:13",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=254401253&page=47"
+       },
+       {
+           "title": "上册 48 整式的乘法(第二课时)", 
+           "desc": "",
+           "duration": "24:13",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=256686591&page=48"
+       },
+       {
+           "title": "上册 49 整式的乘法(第三课时)", 
+           "desc": "",
+           "duration": "22:06",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=256686992&page=49"
+       },
+       {
+           "title": "上册 50 整式的乘法(第四课时)", 
+           "desc": "",
+           "duration": "21:49",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=256687376&page=50"
+       },
+       {
+           "title": "上册 51 平方差公式", 
+           "desc": "",
+           "duration": "20:18",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=256687909&page=51"
+       },
+       {
+           "title": "上册 52 完全平方公式(第一课时)", 
+           "desc": "",
+           "duration": "23:50",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=256688410&page=52"
+       },
+       {
+           "title": "上册 53 完全平方公式(第二课时)", 
+           "desc": "",
+           "duration": "21:54",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=259213309&page=53"
+       },
+       {
+           "title": "上册 54 因式分解—提公因式法", 
+           "desc": "",
+           "duration": "23:14",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=259213461&page=54"
+       },
+       {
+           "title": "上册 55 乘法公式的综合运用", 
+           "desc": "",
+           "duration": "24:36",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=259213672&page=55"
+       },
+       {
+           "title": "上册 56 因式分解——公式法(第一课时)", 
+           "desc": "",
+           "duration": "22:27",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=259213908&page=56"
+       },
+       {
+           "title": "上册 57 因式分解——公式法(第二课时)", 
+           "desc": "",
+           "duration": "22:30",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=259214432&page=57"
+       },
+       {
+           "title": "上册 58 因式分解——公式法(第三课时)", 
+           "desc": "",
+           "duration": "24:09",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=261544466&page=58"
+       },
+       {
+           "title": "上册 59 因式分解的综合运用", 
+           "desc": "",
+           "duration": "25:01",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=261544851&page=59"
+       },
+       {
+           "title": "上册 60 整式的乘法与因式分解全章复习(第一课时)", 
+           "desc": "",
+           "duration": "21:34",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=261545522&page=60"
+       },
+       {
+           "title": "上册 61 整式的乘法与因式分解全章复习(第二课时)", 
+           "desc": "",
+           "duration": "22:20",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=261546005&page=61"
+       },
+       {
+           "title": "上册 62 从分数到分式", 
+           "desc": "",
+           "duration": "24:23",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=261546356&page=62"
+       },
+       {
+           "title": "上册 63 分式的基本性质", 
+           "desc": "",
+           "duration": "24:20",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=264338766&page=63"
+       },
+       {
+           "title": "上册 64 分式的约分", 
+           "desc": "",
+           "duration": "22:02",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=264339516&page=64"
+       },
+       {
+           "title": "上册 65 分式的通分", 
+           "desc": "",
+           "duration": "24:05",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=264339884&page=65"
+       },
+       {
+           "title": "上册 66 分式的乘法", 
+           "desc": "",
+           "duration": "24:01",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=264340433&page=66"
+       },
+       {
+           "title": "上册 67 分式的除法", 
+           "desc": "",
+           "duration": "23:46",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=264341813&page=67"
+       },
+       {
+           "title": "上册 68 分式的乘方", 
+           "desc": "",
+           "duration": "23:06",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=266930720&page=68"
+       },
+       {
+           "title": "上册 69 分式的加法(第一课时)", 
+           "desc": "",
+           "duration": "24:11",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=266931211&page=69"
+       },
+       {
+           "title": "上册 70 分式的加法(第二课时)", 
+           "desc": "",
+           "duration": "21:28",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=266931529&page=70"
+       },
+       {
+           "title": "上册 71 分式的减法", 
+           "desc": "",
+           "duration": "23:38",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=266932088&page=71"
+       },
+       {
+           "title": "上册 72 分式的混合运算", 
+           "desc": "",
+           "duration": "24:01",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=266933828&page=72"
+       },
+       {
+           "title": "上册 73 整数指数幂", 
+           "desc": "",
+           "duration": "23:41",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=269465432&page=73"
+       },
+       {
+           "title": "上册 74 分式方程(第一课时)", 
+           "desc": "",
+           "duration": "21:44",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=269465665&page=74"
+       },
+       {
+           "title": "上册 75 分式方程(第二课时)", 
+           "desc": "",
+           "duration": "23:06",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=269465775&page=75"
+       },
+       {
+           "title": "上册 76 分式方程的应用(第一课时)", 
+           "desc": "",
+           "duration": "21:45",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=269465944&page=76"
+       },
+       {
+           "title": "上册 77 分式方程的应用(第二课时)", 
+           "desc": "",
+           "duration": "22:01",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=269466217&page=77"
+       },
+       {
+           "title": "上册 78 数学活动：探究比例的性质", 
+           "desc": "",
+           "duration": "24:46",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=274671983&page=78"
+       },
+       {
+           "title": "上册 79 分式全章复习(第一课时)", 
+           "desc": "",
+           "duration": "22:12",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=274672949&page=79"
+       },
+       {
+           "title": "上册 80 分式全章复习(第二课时)", 
+           "desc": "",
+           "duration": "22:28",
+           "img": "https://i1.hdslb.com/bfs/archive/cadbf5ed69e0d4ace305febbd526f07dc8910b3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=414556498&bvid=BV11K411K7fK&cid=274673493&page=80"
+       },
+       {
+           "title": "下册 16.1.1 二次根式的概念和性质", 
+           "desc": "",
+           "duration": "16:37",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165572664&page=1"
+       },
+       {
+           "title": "下册 16.2.1 二次根式的乘除（第一课时）", 
+           "desc": "",
+           "duration": "15:40",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165572768&page=2"
+       },
+       {
+           "title": "下册 16.2.2 二次根式的乘除（第二课时）", 
+           "desc": "",
+           "duration": "15:10",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165572906&page=3"
+       },
+       {
+           "title": "下册 16.3.1 二次根式的加减（第一课时）", 
+           "desc": "",
+           "duration": "15:26",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165573047&page=4"
+       },
+       {
+           "title": "下册 16.3.2 二次根式的加减（第二课时）", 
+           "desc": "",
+           "duration": "16:55",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165573178&page=5"
+       },
+       {
+           "title": "下册 17.1.1 勾股定理（第一课时）", 
+           "desc": "",
+           "duration": "17:28",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165573325&page=6"
+       },
+       {
+           "title": "下册 17.1.2 勾股定理（第二课时）", 
+           "desc": "",
+           "duration": "16:58",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165573443&page=7"
+       },
+       {
+           "title": "下册 17.1.3 勾股定理（第三课时）", 
+           "desc": "",
+           "duration": "13:37",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165573548&page=8"
+       },
+       {
+           "title": "下册 17.2.1 勾股定理的逆定理（第一课时）", 
+           "desc": "",
+           "duration": "15:58",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165573638&page=9"
+       },
+       {
+           "title": "下册 17.2.2 勾股定理的逆定理（第二课时）", 
+           "desc": "",
+           "duration": "15:03",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165573729&page=10"
+       },
+       {
+           "title": "下册 18.1.1 平行四边形（第1课时）", 
+           "desc": "",
+           "duration": "16:39",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165573819&page=11"
+       },
+       {
+           "title": "下册 18.1.2 平行四边形（第2课时）", 
+           "desc": "",
+           "duration": "12:16",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165573922&page=12"
+       },
+       {
+           "title": "下册 18.1.3 平行四边形（第3课时）", 
+           "desc": "",
+           "duration": "13:43",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165573976&page=13"
+       },
+       {
+           "title": "下册 18.1.4 平行四边形（第4课时）", 
+           "desc": "",
+           "duration": "11:23",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165574067&page=14"
+       },
+       {
+           "title": "下册 18.1.5 平行四边形（第5课时）", 
+           "desc": "",
+           "duration": "11:29",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165574138&page=15"
+       },
+       {
+           "title": "下册 18.2.1 特殊的平行四边形（第一课时）", 
+           "desc": "",
+           "duration": "15:37",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165574205&page=16"
+       },
+       {
+           "title": "下册 18.2.2 特殊的平行四边形（第二课时）", 
+           "desc": "",
+           "duration": "15:15",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165574310&page=17"
+       },
+       {
+           "title": "下册 18.2.3 特殊的平行四边形（第三课时）", 
+           "desc": "",
+           "duration": "21:29",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165574406&page=18"
+       },
+       {
+           "title": "下册 18.2.4 特殊的平行四边形（第四课时）", 
+           "desc": "",
+           "duration": "23:09",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165574531&page=19"
+       },
+       {
+           "title": "下册 18.2.5 特殊的平行四边形（第五课时）", 
+           "desc": "",
+           "duration": "17:13",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165574657&page=20"
+       },
+       {
+           "title": "下册 19.1.1 变量与函数", 
+           "desc": "",
+           "duration": "17:20",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165574751&page=21"
+       },
+       {
+           "title": "下册 19.1.2 函数的图象（第一课时）", 
+           "desc": "",
+           "duration": "15:33",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165574842&page=22"
+       },
+       {
+           "title": "下册 19.1.3 函数的图象（第二课时）", 
+           "desc": "",
+           "duration": "14:59",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165574943&page=23"
+       },
+       {
+           "title": "下册 19.2.1 正比例函数（第一课时）", 
+           "desc": "",
+           "duration": "13:04",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165575016&page=24"
+       },
+       {
+           "title": "下册 19.2.2 正比例函数（第二课时）", 
+           "desc": "",
+           "duration": "18:47",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=165575079&page=25"
+       },
+       {
+           "title": "下册 19.2.3 一次函数的定义", 
+           "desc": "",
+           "duration": "14:48",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=168327495&page=26"
+       },
+       {
+           "title": "下册 19.2.4 一次函数的图象和性质", 
+           "desc": "",
+           "duration": "14:10",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=168327554&page=27"
+       },
+       {
+           "title": "下册 19.2.5 待定系数法求一次函数的解析式", 
+           "desc": "",
+           "duration": "15:48",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=168327628&page=28"
+       },
+       {
+           "title": "下册 19.2.6 一次函数的应用", 
+           "desc": "",
+           "duration": "13:24",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=168327707&page=29"
+       },
+       {
+           "title": "下册 19.2.7 一次函数与方程、不等式", 
+           "desc": "",
+           "duration": "14:08",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=168327764&page=30"
+       },
+       {
+           "title": "下册 19.3.1 平均数（第1课时）", 
+           "desc": "",
+           "duration": "15:31",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=171490024&page=31"
+       },
+       {
+           "title": "下册 19.3.2 平均数（第2课时）", 
+           "desc": "",
+           "duration": "15:12",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=171490106&page=32"
+       },
+       {
+           "title": "下册 20.1.1 中位数与众数（第1课时）", 
+           "desc": "",
+           "duration": "20:49",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=171490181&page=33"
+       },
+       {
+           "title": "下册 20.1.2 中位数与众数（第2课时）", 
+           "desc": "",
+           "duration": "17:57",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=171490273&page=34"
+       },
+       {
+           "title": "下册 20.2.1 数据的波动", 
+           "desc": "",
+           "duration": "12:44",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=171490374&page=35"
+       },
+       {
+           "title": "下册 二次根式复习", 
+           "desc": "",
+           "duration": "15:28",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=173760714&page=36"
+       },
+       {
+           "title": "下册 勾股定理复习", 
+           "desc": "",
+           "duration": "20:19",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=173760764&page=37"
+       },
+       {
+           "title": "下册 平行四边形复习", 
+           "desc": "",
+           "duration": "23:33",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=173760842&page=38"
+       },
+       {
+           "title": "下册 数据的分析复习", 
+           "desc": "",
+           "duration": "17:00",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=173760932&page=39"
+       },
+       {
+           "title": "下册 一次函数复习", 
+           "desc": "",
+           "duration": "13:03",
+           "img": "https://i0.hdslb.com/bfs/archive/0c155e141bf8a299915e570921c497bfe2a8e292.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=96985198&bvid=BV1i7411m7st&cid=173760988&page=40"
+       }
+   ]
+}
