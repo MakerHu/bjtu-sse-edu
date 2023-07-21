@@ -8,10 +8,7 @@
         { "text": "六年级", "value": "grade6" },
         { "text": "初一", "value": "grade7" },
         { "text": "初二", "value": "grade8" },
-        { "text": "初三", "value": "grade9" },
-        { "text": "高一", "value": "grade10" },
-        { "text": "高二", "value": "grade11" },
-        { "text": "高三", "value": "grade12" }
+        { "text": "初三", "value": "grade9" }
     ],
     "subject": {
         "grade1": [
@@ -72,39 +69,6 @@
             { "text": "生物", "value": "biology" },
             { "text": "政治", "value": "politics" },
             { "text": "历史", "value": "history" }
-        ],
-        "grade10": [
-            { "text": "语文", "value": "chinese" },
-            { "text": "数学", "value": "math" },
-            { "text": "英语", "value": "english" },
-            { "text": "物理", "value": "physics" },
-            { "text": "化学", "value": "chemical" },
-            { "text": "生物", "value": "biology" },
-            { "text": "政治", "value": "politics" },
-            { "text": "历史", "value": "history" },
-            { "text": "地理", "value": "geography" }
-        ],
-        "grade11": [
-            { "text": "语文", "value": "chinese" },
-            { "text": "数学", "value": "math" },
-            { "text": "英语", "value": "english" },
-            { "text": "物理", "value": "physics" },
-            { "text": "化学", "value": "chemical" },
-            { "text": "生物", "value": "biology" },
-            { "text": "政治", "value": "politics" },
-            { "text": "历史", "value": "history" },
-            { "text": "地理", "value": "geography" }
-        ],
-        "grade12": [
-            { "text": "语文", "value": "chinese" },
-            { "text": "数学", "value": "math" },
-            { "text": "英语", "value": "english" },
-            { "text": "物理", "value": "physics" },
-            { "text": "化学", "value": "chemical" },
-            { "text": "生物", "value": "biology" },
-            { "text": "政治", "value": "politics" },
-            { "text": "历史", "value": "history" },
-            { "text": "地理", "value": "geography" }
         ]
     }
 }
