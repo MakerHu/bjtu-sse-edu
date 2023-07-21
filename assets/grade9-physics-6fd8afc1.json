@@ -1,0 +1,2340 @@
+{
+   "title": "初中三年级 - 物理",
+   "desc": "",
+   "duration": "96:23:10",
+   "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+   "url": "https://www.bilibili.com/video/BV1BL4y1w761/",
+   "episode": [
+       {
+           "title": "13.1.1物质的构成", 
+           "desc": "",
+           "duration": "19:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=760652702&page=1"
+       },
+       {
+           "title": "13.1.2分子热运动-1原理", 
+           "desc": "",
+           "duration": "17:11",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=760652703&page=2"
+       },
+       {
+           "title": "13.1.2分子热运动-2习题", 
+           "desc": "",
+           "duration": "17:40",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=760652534&page=3"
+       },
+       {
+           "title": "13.1.3分子间的作用力-1原理", 
+           "desc": "",
+           "duration": "13:33",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=762128574&page=4"
+       },
+       {
+           "title": "13.1.3分子间的作用力-2习题1", 
+           "desc": "",
+           "duration": "15:24",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=762128928&page=5"
+       },
+       {
+           "title": "13.1.3分子间的作用力-3习题2", 
+           "desc": "",
+           "duration": "14:05",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=762685842&page=6"
+       },
+       {
+           "title": "13.1.4综合一下", 
+           "desc": "",
+           "duration": "12:27",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=762705341&page=7"
+       },
+       {
+           "title": "13.2.1内能定义", 
+           "desc": "",
+           "duration": "14:00",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=763277694&page=8"
+       },
+       {
+           "title": "13.2.1内能影响因素", 
+           "desc": "",
+           "duration": "18:57",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=763297875&page=9"
+       },
+       {
+           "title": "13.2.2物体内能的改变-1原理", 
+           "desc": "",
+           "duration": "20:29",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=763594834&page=10"
+       },
+       {
+           "title": "13.2.2物体内能的改变-2习题1", 
+           "desc": "",
+           "duration": "16:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=763630568&page=11"
+       },
+       {
+           "title": "13.2.2物体内能的改变-3习题2", 
+           "desc": "",
+           "duration": "15:47",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=763831465&page=12"
+       },
+       {
+           "title": "13.2.3温度内能热量-1", 
+           "desc": "",
+           "duration": "17:10",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=764457957&page=13"
+       },
+       {
+           "title": "13.2.3温度内能热量-2", 
+           "desc": "",
+           "duration": "13:23",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=764488982&page=14"
+       },
+       {
+           "title": "13.3.1比较不同物质吸热的情况-1原理和基础题", 
+           "desc": "",
+           "duration": "36:23",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=765470114&page=15"
+       },
+       {
+           "title": "13.3.1比较不同物质吸热的情况-2一颗巨型实验题", 
+           "desc": "",
+           "duration": "15:47",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=765747714&page=16"
+       },
+       {
+           "title": "13.3.1比较不同物质吸热的情况-3再讲探究吸热实验", 
+           "desc": "",
+           "duration": "12:23",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=766060982&page=17"
+       },
+       {
+           "title": "13.3.2比热容-1再认识公式", 
+           "desc": "",
+           "duration": "11:20",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=766116753&page=18"
+       },
+       {
+           "title": "13.3.2比热容-2再认识比热容", 
+           "desc": "",
+           "duration": "16:28",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=766117014&page=19"
+       },
+       {
+           "title": "13.3.2比热容-3练一练", 
+           "desc": "",
+           "duration": "14:06",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=766559644&page=20"
+       },
+       {
+           "title": "13.3.3比热容计算1-1基础计算", 
+           "desc": "",
+           "duration": "20:43",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=767466023&page=21"
+       },
+       {
+           "title": "13.3.3比热容计算1-2比例计算", 
+           "desc": "",
+           "duration": "14:05",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=767466271&page=22"
+       },
+       {
+           "title": "13.3.3比热容计算1-3定性比较", 
+           "desc": "",
+           "duration": "18:13",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=767927498&page=23"
+       },
+       {
+           "title": "13.3.3比热容计算1-4实验计算-1", 
+           "desc": "",
+           "duration": "13:55",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=767973188&page=24"
+       },
+       {
+           "title": "13.3.3比热容计算1-4实验计算-2", 
+           "desc": "",
+           "duration": "10:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=768042247&page=25"
+       },
+       {
+           "title": "13.3.3比热容计算1-4实验计算-3", 
+           "desc": "",
+           "duration": "07:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=768042534&page=26"
+       },
+       {
+           "title": "13.3.4比热容计算2-1热传递计算-1", 
+           "desc": "",
+           "duration": "13:05",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=768463202&page=27"
+       },
+       {
+           "title": "13.3.4比热容计算2-1热传递计算-2", 
+           "desc": "",
+           "duration": "11:14",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=768813215&page=28"
+       },
+       {
+           "title": "13.3.4比热容计算2-1热传递计算-3", 
+           "desc": "",
+           "duration": "10:33",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=768813402&page=29"
+       },
+       {
+           "title": "13.3.4比热容计算2-2应用计算-1", 
+           "desc": "",
+           "duration": "13:56",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=769072835&page=30"
+       },
+       {
+           "title": "13.3.4比热容计算2-2应用计算-2", 
+           "desc": "",
+           "duration": "13:42",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=769750806&page=31"
+       },
+       {
+           "title": "13.3.4比热容计算2-2应用计算-3", 
+           "desc": "",
+           "duration": "17:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=771025149&page=32"
+       },
+       {
+           "title": "14.1.1热机", 
+           "desc": "",
+           "duration": "10:48",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=770448129&page=33"
+       },
+       {
+           "title": "14.1.2汽油机-1", 
+           "desc": "",
+           "duration": "18:51",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=771026742&page=34"
+       },
+       {
+           "title": "14.1.2汽油机-2", 
+           "desc": "",
+           "duration": "10:54",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=771388183&page=35"
+       },
+       {
+           "title": "14.1.2汽油机-3", 
+           "desc": "",
+           "duration": "08:44",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=771389204&page=36"
+       },
+       {
+           "title": "14.1.3四冲程计算", 
+           "desc": "",
+           "duration": "12:42",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=771674123&page=37"
+       },
+       {
+           "title": "14.1.4柴油机", 
+           "desc": "",
+           "duration": "07:40",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=771674225&page=38"
+       },
+       {
+           "title": "14.1.5番外篇~斯特林发动机", 
+           "desc": "",
+           "duration": "12:14",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=771674363&page=39"
+       },
+       {
+           "title": "14.2.1燃料的热值", 
+           "desc": "",
+           "duration": "16:32",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=772109782&page=40"
+       },
+       {
+           "title": "14.2.2热值计算-1", 
+           "desc": "",
+           "duration": "14:07",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=772773755&page=41"
+       },
+       {
+           "title": "14.2.2热值计算-2", 
+           "desc": "",
+           "duration": "14:44",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=774588462&page=42"
+       },
+       {
+           "title": "14.2.2热值计算-3", 
+           "desc": "",
+           "duration": "16:58",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=772775198&page=43"
+       },
+       {
+           "title": "14.2.3热值相关实验-1", 
+           "desc": "",
+           "duration": "11:27",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=773371311&page=44"
+       },
+       {
+           "title": "14.2.3热值相关实验-2", 
+           "desc": "",
+           "duration": "11:03",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=773372435&page=45"
+       },
+       {
+           "title": "14.2.4热机的效率", 
+           "desc": "",
+           "duration": "18:19",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=774028518&page=46"
+       },
+       {
+           "title": "14.2.5热机效率计算-1", 
+           "desc": "",
+           "duration": "10:18",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=774369192&page=47"
+       },
+       {
+           "title": "14.2.5热机效率计算-2", 
+           "desc": "",
+           "duration": "13:23",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=774588910&page=48"
+       },
+       {
+           "title": "14.2.5热机效率计算-3", 
+           "desc": "",
+           "duration": "18:58",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=774711376&page=49"
+       },
+       {
+           "title": "14.2.5热机效率计算-4", 
+           "desc": "",
+           "duration": "14:19",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=774960256&page=50"
+       },
+       {
+           "title": "14.3.1能量的转化-1原理", 
+           "desc": "",
+           "duration": "24:54",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=774960438&page=51"
+       },
+       {
+           "title": "14.3.1能量的转化-2习题1", 
+           "desc": "",
+           "duration": "10:35",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=775264485&page=52"
+       },
+       {
+           "title": "14.3.1能量的转化-2习题2", 
+           "desc": "",
+           "duration": "07:29",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=775264805&page=53"
+       },
+       {
+           "title": "14.3.1能量的转化-2习题3", 
+           "desc": "",
+           "duration": "09:36",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=775265718&page=54"
+       },
+       {
+           "title": "14.3.2能量守恒定律-1原理", 
+           "desc": "",
+           "duration": "09:23",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=775539640&page=55"
+       },
+       {
+           "title": "14.3.2能量守恒定律-2习题1", 
+           "desc": "",
+           "duration": "13:51",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=776394840&page=56"
+       },
+       {
+           "title": "14.3.2能量守恒定律-2习题2", 
+           "desc": "",
+           "duration": "14:50",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=776394792&page=57"
+       },
+       {
+           "title": "14.3.3番外篇~饮水鸟", 
+           "desc": "",
+           "duration": "10:36",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=776714431&page=58"
+       },
+       {
+           "title": "14.3.4赠送的练习", 
+           "desc": "",
+           "duration": "19:39",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=777778848&page=59"
+       },
+       {
+           "title": "15.0.0电学-引子", 
+           "desc": "",
+           "duration": "11:45",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=776902042&page=60"
+       },
+       {
+           "title": "15.1.1两种电荷-1原理", 
+           "desc": "",
+           "duration": "18:54",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=778315849&page=61"
+       },
+       {
+           "title": "15.1.1两种电荷-2习题1", 
+           "desc": "",
+           "duration": "13:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=777811688&page=62"
+       },
+       {
+           "title": "15.1.1两种电荷-3习题2", 
+           "desc": "",
+           "duration": "14:58",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=779486808&page=63"
+       },
+       {
+           "title": "15.1.1两种电荷-4习题3", 
+           "desc": "",
+           "duration": "13:23",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=779664163&page=64"
+       },
+       {
+           "title": "15.1.1两种电荷-5习题4", 
+           "desc": "",
+           "duration": "08:14",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=779686013&page=65"
+       },
+       {
+           "title": "15.1.2原子及其结构-1原理", 
+           "desc": "",
+           "duration": "13:01",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=780088563&page=66"
+       },
+       {
+           "title": "15.1.2原子及其结构-2习题", 
+           "desc": "",
+           "duration": "14:32",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=780088832&page=67"
+       },
+       {
+           "title": "15.1.3导体和绝缘体", 
+           "desc": "",
+           "duration": "13:07",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=780720583&page=68"
+       },
+       {
+           "title": "15.2.1电流-1原理", 
+           "desc": "",
+           "duration": "08:19",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=780813577&page=69"
+       },
+       {
+           "title": "15.2.1电流-2习题", 
+           "desc": "",
+           "duration": "09:07",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=780813833&page=70"
+       },
+       {
+           "title": "15.2.2番外~导体绝缘体相互转化", 
+           "desc": "",
+           "duration": "12:21",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=781454200&page=71"
+       },
+       {
+           "title": "15.2.3番外~正电荷能不能自由移动", 
+           "desc": "",
+           "duration": "13:11",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=781629807&page=72"
+       },
+       {
+           "title": "15.2.4电路的构成-1原理", 
+           "desc": "",
+           "duration": "10:20",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=781664572&page=73"
+       },
+       {
+           "title": "15.2.4电路的构成-2习题", 
+           "desc": "",
+           "duration": "10:04",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=781664693&page=74"
+       },
+       {
+           "title": "15.2.5电路图", 
+           "desc": "",
+           "duration": "17:37",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=782543130&page=75"
+       },
+       {
+           "title": "15.2.6通路断路短路-1原理", 
+           "desc": "",
+           "duration": "18:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=782593818&page=76"
+       },
+       {
+           "title": "15.2.6通路断路短路-2习题1", 
+           "desc": "",
+           "duration": "10:46",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=782836309&page=77"
+       },
+       {
+           "title": "15.2.6通路断路短路-3习题2", 
+           "desc": "",
+           "duration": "10:53",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=782836300&page=78"
+       },
+       {
+           "title": "15.2.6通路断路短路-4习题3", 
+           "desc": "",
+           "duration": "14:48",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=782836578&page=79"
+       },
+       {
+           "title": "15.2.6通路断路短路-5习题4", 
+           "desc": "",
+           "duration": "19:57",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=783563811&page=80"
+       },
+       {
+           "title": "15.3.1串联电路", 
+           "desc": "",
+           "duration": "08:34",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=789632904&page=81"
+       },
+       {
+           "title": "15.3.2并联电路-1原理", 
+           "desc": "",
+           "duration": "15:57",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=789632878&page=82"
+       },
+       {
+           "title": "15.3.2并联电路-2习题1", 
+           "desc": "",
+           "duration": "08:45",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=789679043&page=83"
+       },
+       {
+           "title": "15.3.2并联电路-3习题2", 
+           "desc": "",
+           "duration": "10:44",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=789679249&page=84"
+       },
+       {
+           "title": "15.3.2并联电路-4习题3", 
+           "desc": "",
+           "duration": "16:03",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=789679351&page=85"
+       },
+       {
+           "title": "15.3.2并联电路-5习题4", 
+           "desc": "",
+           "duration": "12:37",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=789891637&page=86"
+       },
+       {
+           "title": "15.3.2并联电路-6习题5", 
+           "desc": "",
+           "duration": "15:08",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=789891779&page=87"
+       },
+       {
+           "title": "15.3.3并联实物图的n种画法-1李姐", 
+           "desc": "",
+           "duration": "08:53",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=790516575&page=88"
+       },
+       {
+           "title": "15.3.3并联实物图的n种画法-2改错", 
+           "desc": "",
+           "duration": "05:18",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=790516768&page=89"
+       },
+       {
+           "title": "15.3.4并联实物图的n种画法PLUS-1李姐", 
+           "desc": "",
+           "duration": "09:13",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=790604556&page=90"
+       },
+       {
+           "title": "15.3.4并联实物图的n种画法PLUS-2改错", 
+           "desc": "",
+           "duration": "08:01",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=790604771&page=91"
+       },
+       {
+           "title": "15.3.4并联实物图画法练习1", 
+           "desc": "",
+           "duration": "11:20",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=790604870&page=92"
+       },
+       {
+           "title": "15.3.4并联实物图画法练习2", 
+           "desc": "",
+           "duration": "13:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=790605132&page=93"
+       },
+       {
+           "title": "15.3.5实物图电路图互相转化-1", 
+           "desc": "",
+           "duration": "10:44",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=791625571&page=94"
+       },
+       {
+           "title": "15.3.5实物图电路图互相转化-2", 
+           "desc": "",
+           "duration": "12:11",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=791625781&page=95"
+       },
+       {
+           "title": "15.3.5实物图电路图互相转化-3", 
+           "desc": "",
+           "duration": "07:01",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=791626134&page=96"
+       },
+       {
+           "title": "15.3.5实物图电路图互相转化-4", 
+           "desc": "",
+           "duration": "11:09",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=791626283&page=97"
+       },
+       {
+           "title": "15.3.6生活中的电路-1", 
+           "desc": "",
+           "duration": "18:15",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=792469282&page=98"
+       },
+       {
+           "title": "15.3.6生活中的电路-2", 
+           "desc": "",
+           "duration": "22:25",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=792469671&page=99"
+       },
+       {
+           "title": "15.3.6生活中的电路-3", 
+           "desc": "",
+           "duration": "17:27",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=792470439&page=100"
+       },
+       {
+           "title": "15.3.6生活中的电路-4", 
+           "desc": "",
+           "duration": "22:25",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=792501009&page=101"
+       },
+       {
+           "title": "15.3.7电路设计-1", 
+           "desc": "",
+           "duration": "17:24",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=794472338&page=102"
+       },
+       {
+           "title": "15.3.7电路设计-2", 
+           "desc": "",
+           "duration": "13:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=794472621&page=103"
+       },
+       {
+           "title": "15.3.8番外~节点法-1基本方法", 
+           "desc": "",
+           "duration": "14:09",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=794522698&page=104"
+       },
+       {
+           "title": "15.3.8番外~节点法-2短路情况", 
+           "desc": "",
+           "duration": "09:13",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=794523078&page=105"
+       },
+       {
+           "title": "15.3.8番外~节点法-3多字母情况", 
+           "desc": "",
+           "duration": "10:58",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=794523253&page=106"
+       },
+       {
+           "title": "15.4.1电流的强弱", 
+           "desc": "",
+           "duration": "11:11",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=798959657&page=107"
+       },
+       {
+           "title": "15.4.2电流表-1原理", 
+           "desc": "",
+           "duration": "23:44",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=799167859&page=108"
+       },
+       {
+           "title": "15.4.2电流表-2习题", 
+           "desc": "",
+           "duration": "14:37",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=799194915&page=109"
+       },
+       {
+           "title": "15.4.3电路图中电流表测谁", 
+           "desc": "",
+           "duration": "22:10",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=799256317&page=110"
+       },
+       {
+           "title": "15.4.4实物图中电流表测谁-1", 
+           "desc": "",
+           "duration": "08:40",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=799308211&page=111"
+       },
+       {
+           "title": "15.4.4实物图中电流表测谁-2", 
+           "desc": "",
+           "duration": "19:15",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=799308357&page=112"
+       },
+       {
+           "title": "15.4.5有电流表的实物图连接", 
+           "desc": "",
+           "duration": "14:45",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=799495831&page=113"
+       },
+       {
+           "title": "15.4.6有电流表的实物图改错-1", 
+           "desc": "",
+           "duration": "12:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=799538685&page=114"
+       },
+       {
+           "title": "15.4.6有电流表的实物图改错-2", 
+           "desc": "",
+           "duration": "20:36",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=799538933&page=115"
+       },
+       {
+           "title": "15.5.1串联电路电流的规律", 
+           "desc": "",
+           "duration": "17:25",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=807465211&page=116"
+       },
+       {
+           "title": "15.5.2并联电路电流的规律-1原理和基础习题", 
+           "desc": "",
+           "duration": "24:38",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=807522466&page=117"
+       },
+       {
+           "title": "15.5.2并联电路电流的规律-2一道题的演变", 
+           "desc": "",
+           "duration": "18:48",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=807561385&page=118"
+       },
+       {
+           "title": "15.5.2并联电路电流的规律-3稍复杂的题目", 
+           "desc": "",
+           "duration": "17:43",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=807911667&page=119"
+       },
+       {
+           "title": "15.5.2并联电路电流的规律-4复杂的题目", 
+           "desc": "",
+           "duration": "23:09",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=807934234&page=120"
+       },
+       {
+           "title": "15.5.3探究串并联电路电流的规律实验", 
+           "desc": "",
+           "duration": "21:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=808416384&page=121"
+       },
+       {
+           "title": "16.1.1电压", 
+           "desc": "",
+           "duration": "15:50",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=813992608&page=122"
+       },
+       {
+           "title": "16.1.2电压表-1原理", 
+           "desc": "",
+           "duration": "20:42",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=814032818&page=123"
+       },
+       {
+           "title": "16.1.2电压表-2习题", 
+           "desc": "",
+           "duration": "18:46",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=814064145&page=124"
+       },
+       {
+           "title": "16.1.3电路图中电压表测谁-1串联电路", 
+           "desc": "",
+           "duration": "28:06",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=814973458&page=125"
+       },
+       {
+           "title": "16.1.3电路图中电压表测谁-2并联电路", 
+           "desc": "",
+           "duration": "13:23",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=815002188&page=126"
+       },
+       {
+           "title": "16.1.3电路图中电压表测谁-3几个小练习", 
+           "desc": "",
+           "duration": "09:54",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=815033859&page=127"
+       },
+       {
+           "title": "16.1.4实物图中的电压表-1", 
+           "desc": "",
+           "duration": "20:43",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=817036633&page=128"
+       },
+       {
+           "title": "16.1.4实物图中的电压表-2", 
+           "desc": "",
+           "duration": "28:31",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=817073001&page=129"
+       },
+       {
+           "title": "16.1.5填电表的题", 
+           "desc": "",
+           "duration": "23:24",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=817753618&page=130"
+       },
+       {
+           "title": "16.2.1串联电路电压规律-1原理", 
+           "desc": "",
+           "duration": "11:17",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=826006275&page=131"
+       },
+       {
+           "title": "16.2.1串联电路电压规律-2习题1", 
+           "desc": "",
+           "duration": "13:06",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=826026332&page=132"
+       },
+       {
+           "title": "16.2.1串联电路电压规律-3习题2", 
+           "desc": "",
+           "duration": "16:16",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=826048663&page=133"
+       },
+       {
+           "title": "16.2.1串联电路电压规律-4习题3", 
+           "desc": "",
+           "duration": "14:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=826290296&page=134"
+       },
+       {
+           "title": "16.2.2并联电路电压规律-1原理", 
+           "desc": "",
+           "duration": "06:15",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=826245921&page=135"
+       },
+       {
+           "title": "16.2.2并联电路电压规律-2习题", 
+           "desc": "",
+           "duration": "09:59",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=826256560&page=136"
+       },
+       {
+           "title": "16.2.3串并联电路电压规律-练习1", 
+           "desc": "",
+           "duration": "17:16",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=826285757&page=137"
+       },
+       {
+           "title": "16.2.3串并联电路电压规律-练习2", 
+           "desc": "",
+           "duration": "15:06",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=826319003&page=138"
+       },
+       {
+           "title": "16.2.4电路故障(1)-1原理", 
+           "desc": "",
+           "duration": "16:44",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=827687910&page=139"
+       },
+       {
+           "title": "16.2.4电路故障(1)-2母题", 
+           "desc": "",
+           "duration": "11:26",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=827694864&page=140"
+       },
+       {
+           "title": "16.2.4电路故障(1)-3基础题1", 
+           "desc": "",
+           "duration": "17:33",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=827722297&page=141"
+       },
+       {
+           "title": "16.2.4电路故障(1)-4基础题2", 
+           "desc": "",
+           "duration": "14:08",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=827735772&page=142"
+       },
+       {
+           "title": "16.2.4电路故障(1)-5检测故障1", 
+           "desc": "",
+           "duration": "13:46",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=827762915&page=143"
+       },
+       {
+           "title": "16.2.4电路故障(1)-6检测故障2", 
+           "desc": "",
+           "duration": "12:16",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=827776866&page=144"
+       },
+       {
+           "title": "16.2.4电路故障(1)-7进阶题目", 
+           "desc": "",
+           "duration": "15:01",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=827850452&page=145"
+       },
+       {
+           "title": "16.3.1电阻", 
+           "desc": "",
+           "duration": "16:20",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=836314910&page=146"
+       },
+       {
+           "title": "16.3.2影响电阻大小的因素-1原理", 
+           "desc": "",
+           "duration": "21:14",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=836337572&page=147"
+       },
+       {
+           "title": "16.3.2影响电阻大小的因素-2习题1", 
+           "desc": "",
+           "duration": "10:51",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=836357049&page=148"
+       },
+       {
+           "title": "16.3.2影响电阻大小的因素-3习题2", 
+           "desc": "",
+           "duration": "12:14",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=836380577&page=149"
+       },
+       {
+           "title": "16.3.2影响电阻大小的因素-4习题3", 
+           "desc": "",
+           "duration": "11:39",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=836413034&page=150"
+       },
+       {
+           "title": "16.3.2影响电阻大小的因素-5习题4", 
+           "desc": "",
+           "duration": "24:44",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=837336197&page=151"
+       },
+       {
+           "title": "16.3.2影响电阻大小的因素-6习题5", 
+           "desc": "",
+           "duration": "16:04",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=837468995&page=152"
+       },
+       {
+           "title": "16.4.1滑动变阻器-1原理1", 
+           "desc": "",
+           "duration": "16:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=838275878&page=153"
+       },
+       {
+           "title": "16.4.1滑动变阻器-2原理2", 
+           "desc": "",
+           "duration": "15:53",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=838275877&page=154"
+       },
+       {
+           "title": "16.4.1滑动变阻器-3习题1", 
+           "desc": "",
+           "duration": "16:48",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=838295876&page=155"
+       },
+       {
+           "title": "16.4.1滑动变阻器-4习题2", 
+           "desc": "",
+           "duration": "20:04",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=838326634&page=156"
+       },
+       {
+           "title": "16.4.1滑动变阻器-5习题3", 
+           "desc": "",
+           "duration": "18:43",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=838522399&page=157"
+       },
+       {
+           "title": "16.4.2各种变阻器-1原理", 
+           "desc": "",
+           "duration": "13:26",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=838544497&page=158"
+       },
+       {
+           "title": "16.4.2各种变阻器-2习题", 
+           "desc": "",
+           "duration": "15:47",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=838568929&page=159"
+       },
+       {
+           "title": "16.4.3番外~滑动变阻器变态连法", 
+           "desc": "",
+           "duration": "20:41",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=838628367&page=160"
+       },
+       {
+           "title": "17.1.1探究电流与电压的关系-1原理", 
+           "desc": "",
+           "duration": "25:48",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=844089453&page=161"
+       },
+       {
+           "title": "17.1.1探究电流与电压的关系-2习题1", 
+           "desc": "",
+           "duration": "16:35",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=844751791&page=162"
+       },
+       {
+           "title": "17.1.1探究电流与电压的关系-3习题2", 
+           "desc": "",
+           "duration": "24:13",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=844776827&page=163"
+       },
+       {
+           "title": "17.1.2探究电流与电阻的关系-1原理", 
+           "desc": "",
+           "duration": "17:48",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=844817519&page=164"
+       },
+       {
+           "title": "17.1.2探究电流与电阻的关系-2习题", 
+           "desc": "",
+           "duration": "20:59",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=845087551&page=165"
+       },
+       {
+           "title": "17.1.3探究电流与电压、电阻关系习题", 
+           "desc": "",
+           "duration": "18:19",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=845350363&page=166"
+       },
+       {
+           "title": "17.2.1欧姆定律-1-原理", 
+           "desc": "",
+           "duration": "13:56",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=847480670&page=167"
+       },
+       {
+           "title": "17.2.1欧姆定律-2-最简单的题", 
+           "desc": "",
+           "duration": "15:18",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=847480790&page=168"
+       },
+       {
+           "title": "17.2.1欧姆定律-3-定律公式的理解", 
+           "desc": "",
+           "duration": "16:35",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=847480791&page=169"
+       },
+       {
+           "title": "17.2.1欧姆定律-4-串联电路基础计算", 
+           "desc": "",
+           "duration": "18:34",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=847481267&page=170"
+       },
+       {
+           "title": "17.2.1欧姆定律-5-并联电路基础计算", 
+           "desc": "",
+           "duration": "22:56",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=847481521&page=171"
+       },
+       {
+           "title": "17.2.2串并联电阻规律-1原理", 
+           "desc": "",
+           "duration": "21:42",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=851877474&page=172"
+       },
+       {
+           "title": "17.2.2串并联电阻规律-2习题1", 
+           "desc": "",
+           "duration": "12:40",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=851892081&page=173"
+       },
+       {
+           "title": "17.2.2串并联电阻规律-3习题2", 
+           "desc": "",
+           "duration": "12:58",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=851941466&page=174"
+       },
+       {
+           "title": "17.2.3分压分流规律-1-原理", 
+           "desc": "",
+           "duration": "10:47",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=854046782&page=175"
+       },
+       {
+           "title": "17.2.3分压分流规律-2-习题1", 
+           "desc": "",
+           "duration": "17:19",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=854064867&page=176"
+       },
+       {
+           "title": "17.2.3分压分流规律-3-习题2", 
+           "desc": "",
+           "duration": "20:26",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=854092172&page=177"
+       },
+       {
+           "title": "17.2.3分压分流规律-4-习题3", 
+           "desc": "",
+           "duration": "13:43",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=854109842&page=178"
+       },
+       {
+           "title": "17.2.4番外~填坑课-短路电表遗留问题解释", 
+           "desc": "",
+           "duration": "20:37",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=854490550&page=179"
+       },
+       {
+           "title": "17.2.5进阶题-1串并联稍复杂计算题", 
+           "desc": "",
+           "duration": "19:00",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=859575282&page=180"
+       },
+       {
+           "title": "17.2.5进阶题-2电路安全简单计算", 
+           "desc": "",
+           "duration": "23:45",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=859600723&page=181"
+       },
+       {
+           "title": "17.2.5进阶题-3电路测长度", 
+           "desc": "",
+           "duration": "18:08",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=859652880&page=182"
+       },
+       {
+           "title": "17.2.5进阶题-4总电阻计算plus", 
+           "desc": "",
+           "duration": "21:12",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=859700530&page=183"
+       },
+       {
+           "title": "17.2.5进阶题-5滑动变阻器滑动计算", 
+           "desc": "",
+           "duration": "19:26",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=860463136&page=184"
+       },
+       {
+           "title": "17.2.5进阶题-6开关切换计算1", 
+           "desc": "",
+           "duration": "17:27",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=860481850&page=185"
+       },
+       {
+           "title": "17.2.5进阶题-7开关切换计算2", 
+           "desc": "",
+           "duration": "08:06",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=860491478&page=186"
+       },
+       {
+           "title": "17.2.5进阶题-8开关切换计算3", 
+           "desc": "",
+           "duration": "22:42",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=860518680&page=187"
+       },
+       {
+           "title": "17.2.5进阶题-9开关切换计算4", 
+           "desc": "",
+           "duration": "18:44",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=860540443&page=188"
+       },
+       {
+           "title": "17.2.5进阶题-10开关切换计算5", 
+           "desc": "",
+           "duration": "22:29",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=860570300&page=189"
+       },
+       {
+           "title": "17.2.5进阶题-11开关切换变化1", 
+           "desc": "",
+           "duration": "08:21",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=861144656&page=190"
+       },
+       {
+           "title": "17.2.5进阶题-12开关切换变化2", 
+           "desc": "",
+           "duration": "15:14",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=861144657&page=191"
+       },
+       {
+           "title": "17.2.5进阶题-13比例计算plus1", 
+           "desc": "",
+           "duration": "10:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=861164264&page=192"
+       },
+       {
+           "title": "17.2.5进阶题-14比例计算plus2", 
+           "desc": "",
+           "duration": "16:45",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=861478229&page=193"
+       },
+       {
+           "title": "17.2.5进阶题-15比例计算plus3", 
+           "desc": "",
+           "duration": "11:45",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=861478317&page=194"
+       },
+       {
+           "title": "17.2.5进阶题-16基础图像计算1", 
+           "desc": "",
+           "duration": "14:32",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=861582319&page=195"
+       },
+       {
+           "title": "17.2.5进阶题-17基础图像计算2", 
+           "desc": "",
+           "duration": "14:34",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=874055667&page=196"
+       },
+       {
+           "title": "17.2.6电路故障(2)-需要计算的电路故障", 
+           "desc": "",
+           "duration": "14:28",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=855483917&bvid=BV1BL4y1w761&cid=874055666&page=197"
+       },
+       {
+           "title": "下册 17.3.1伏安法测电阻-1-原理1", 
+           "desc": "",
+           "duration": "16:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=866682476&page=2"
+       },
+       {
+           "title": "下册 17.3.1伏安法测电阻-2-原理2", 
+           "desc": "",
+           "duration": "14:50",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=866696857&page=3"
+       },
+       {
+           "title": "下册 17.3.1伏安法测电阻-3-习题1", 
+           "desc": "",
+           "duration": "19:13",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=866696819&page=4"
+       },
+       {
+           "title": "下册 17.3.1伏安法测电阻-4-习题2", 
+           "desc": "",
+           "duration": "19:42",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=866696820&page=5"
+       },
+       {
+           "title": "下册 17.3.1伏安法测电阻-5-习题3", 
+           "desc": "",
+           "duration": "20:26",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=866862715&page=6"
+       },
+       {
+           "title": "下册 17.3.1伏安法测电阻-6-内接与外接", 
+           "desc": "",
+           "duration": "09:49",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=866883169&page=7"
+       },
+       {
+           "title": "下册 17.3.2特殊方法测电阻-安阻法-1原理", 
+           "desc": "",
+           "duration": "19:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=868929371&page=8"
+       },
+       {
+           "title": "下册 17.3.2特殊方法测电阻-安阻法-2习题.", 
+           "desc": "",
+           "duration": "14:45",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=868948570&page=9"
+       },
+       {
+           "title": "下册 17.3.2特殊方法测电阻-伏阻法-原理与习题", 
+           "desc": "",
+           "duration": "17:10",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=868978972&page=10"
+       },
+       {
+           "title": "下册 17.3.2特殊方法测电阻-等效替代法-1原理", 
+           "desc": "",
+           "duration": "14:07",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=869042537&page=11"
+       },
+       {
+           "title": "下册 17.3.2特殊方法测电阻-等效替代法-2习题", 
+           "desc": "",
+           "duration": "10:07",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=869057824&page=12"
+       },
+       {
+           "title": "下册 17.3.2特殊方法测电阻-短路法用电流表", 
+           "desc": "",
+           "duration": "09:12",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=869467369&page=13"
+       },
+       {
+           "title": "下册 17.3.2特殊方法测电阻-短路法用电压表", 
+           "desc": "",
+           "duration": "10:43",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=869466997&page=14"
+       },
+       {
+           "title": "下册 17.3.2特殊方法测电阻-短路法习题1", 
+           "desc": "",
+           "duration": "09:48",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=871221798&page=15"
+       },
+       {
+           "title": "下册 17.3.2特殊方法测电阻-短路法习题2", 
+           "desc": "",
+           "duration": "11:03",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=871221797&page=16"
+       },
+       {
+           "title": "下册 17.3.2特殊方法测电阻-总结一下", 
+           "desc": "",
+           "duration": "21:36",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=871249755&page=17"
+       },
+       {
+           "title": "下册 17.3.2特殊方法测电阻-难一点的题1", 
+           "desc": "",
+           "duration": "26:18",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=871336011&page=18"
+       },
+       {
+           "title": "下册 17.3.2特殊方法测电阻-难一点的题2", 
+           "desc": "",
+           "duration": "29:58",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=871538994&page=19"
+       },
+       {
+           "title": "下册 17.3.3测电阻的题目再练习一下", 
+           "desc": "",
+           "duration": "20:31",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=871560496&page=20"
+       },
+       {
+           "title": "下册 17.4.1串联动态电路-1-原理", 
+           "desc": "",
+           "duration": "21:46",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=878348031&page=21"
+       },
+       {
+           "title": "下册 17.4.1串联动态电路-2-习题", 
+           "desc": "",
+           "duration": "23:09",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=878372642&page=22"
+       },
+       {
+           "title": "下册 17.4.1并联动态电路-1-原理", 
+           "desc": "",
+           "duration": "13:58",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=878408128&page=23"
+       },
+       {
+           "title": "下册 17.4.1并联动态电路-2-习题", 
+           "desc": "",
+           "duration": "13:37",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=890926288&page=24"
+       },
+       {
+           "title": "下册 17.4.1假动态电路", 
+           "desc": "",
+           "duration": "10:57",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=878739231&page=25"
+       },
+       {
+           "title": "下册 17.4.1动态电路应用", 
+           "desc": "",
+           "duration": "32:18",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=878766387&page=26"
+       },
+       {
+           "title": "下册 17.4.2动态电路计算-基础计算", 
+           "desc": "",
+           "duration": "27:47",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=883848377&page=27"
+       },
+       {
+           "title": "下册 17.4.2动态电路计算-基础计算plus", 
+           "desc": "",
+           "duration": "28:42",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=883888572&page=28"
+       },
+       {
+           "title": "下册 17.4.2动态电路计算-UI图像计算", 
+           "desc": "",
+           "duration": "44:23",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=884175398&page=29"
+       },
+       {
+           "title": "下册 17.4.2动态电路计算-其他图像计算", 
+           "desc": "",
+           "duration": "28:09",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=885907223&page=30"
+       },
+       {
+           "title": "下册 17.4.2动态电路计算-从数学角度看物理图像", 
+           "desc": "",
+           "duration": "21:07",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=886056738&page=31"
+       },
+       {
+           "title": "下册 17.4.3滑动变阻器范围-电压表测定值电阻", 
+           "desc": "",
+           "duration": "21:00",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=886802635&page=32"
+       },
+       {
+           "title": "下册 17.4.3滑动变阻器范围-电压表测滑变", 
+           "desc": "",
+           "duration": "21:44",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=886826150&page=33"
+       },
+       {
+           "title": "下册 17.4.3滑动变阻器范围-并联范围", 
+           "desc": "",
+           "duration": "09:32",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=887145493&page=34"
+       },
+       {
+           "title": "下册 17.4.3滑动变阻器范围-综合一下", 
+           "desc": "",
+           "duration": "24:41",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=887179232&page=35"
+       },
+       {
+           "title": "下册 17.4.4选择滑动变阻器规格-原理", 
+           "desc": "",
+           "duration": "27:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=887865598&page=36"
+       },
+       {
+           "title": "下册 17.4.4选择滑动变阻器规格-练习", 
+           "desc": "",
+           "duration": "17:04",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=887887056&page=37"
+       },
+       {
+           "title": "下册 17.4.5变化量计算", 
+           "desc": "",
+           "duration": "37:49",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=889135644&page=38"
+       },
+       {
+           "title": "下册 17.4.6实际应用计算1", 
+           "desc": "",
+           "duration": "24:24",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=891996980&page=39"
+       },
+       {
+           "title": "下册 17.4.6实际应用计算2", 
+           "desc": "",
+           "duration": "36:49",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=892044607&page=40"
+       },
+       {
+           "title": "下册 17.4.7混联电路计算", 
+           "desc": "",
+           "duration": "26:32",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=892327485&page=41"
+       },
+       {
+           "title": "下册 17.4.8多状态比例计算-1", 
+           "desc": "",
+           "duration": "30:09",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=894418821&page=42"
+       },
+       {
+           "title": "下册 17.4.8多状态比例计算-2", 
+           "desc": "",
+           "duration": "37:30",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=894418662&page=43"
+       },
+       {
+           "title": "下册 17.4.9实验中的计算-1-数据推算", 
+           "desc": "",
+           "duration": "32:24",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=896267034&page=44"
+       },
+       {
+           "title": "下册 17.4.9实验中的计算-2-分压问题", 
+           "desc": "",
+           "duration": "19:50",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=896330891&page=45"
+       },
+       {
+           "title": "下册 17.4.9实验中的计算-3-量程和精度和？？？", 
+           "desc": "",
+           "duration": "16:28",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=896398986&page=46"
+       },
+       {
+           "title": "下册 18.1.1电能", 
+           "desc": "",
+           "duration": "07:50",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=901376538&page=47"
+       },
+       {
+           "title": "下册 18.1.2电能的计量", 
+           "desc": "",
+           "duration": "31:25",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=901517524&page=48"
+       },
+       {
+           "title": "下册 18.1.3电功基本公式", 
+           "desc": "",
+           "duration": "24:28",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=901517379&page=49"
+       },
+       {
+           "title": "下册 18.1.3电功导出公式", 
+           "desc": "",
+           "duration": "23:24",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=901636137&page=50"
+       },
+       {
+           "title": "下册 18.1.3电功比例、开关、电池容量问题", 
+           "desc": "",
+           "duration": "28:16",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=901716434&page=51"
+       },
+       {
+           "title": "下册 18.1.3电功电能综合题", 
+           "desc": "",
+           "duration": "22:04",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=902416007&page=52"
+       },
+       {
+           "title": "下册 18.2.1电功率是啥", 
+           "desc": "",
+           "duration": "07:50",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=906855605&page=53"
+       },
+       {
+           "title": "下册 18.2.1电功率基本公式", 
+           "desc": "",
+           "duration": "26:17",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=906904296&page=54"
+       },
+       {
+           "title": "下册 18.2.1电功率又一个基本公式", 
+           "desc": "",
+           "duration": "15:44",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=907016293&page=55"
+       },
+       {
+           "title": "下册 18.2.1电功率导出公式", 
+           "desc": "",
+           "duration": "08:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=907028853&page=56"
+       },
+       {
+           "title": "下册 18.2.1背背公式吧！", 
+           "desc": "",
+           "duration": "15:32",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=907049444&page=57"
+       },
+       {
+           "title": "下册 18.2.1总功率和比例问题", 
+           "desc": "",
+           "duration": "19:44",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=907814268&page=58"
+       },
+       {
+           "title": "下册 18.2.2额定电压额定功率", 
+           "desc": "",
+           "duration": "19:11",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=907855774&page=59"
+       },
+       {
+           "title": "下册 18.2.2额定和实际问题", 
+           "desc": "",
+           "duration": "35:17",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=907927230&page=60"
+       },
+       {
+           "title": "下册 18.2.2小灯泡亮度问题", 
+           "desc": "",
+           "duration": "25:44",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=908503151&page=61"
+       },
+       {
+           "title": "下册 18.2.2小灯泡亮度和安全问题", 
+           "desc": "",
+           "duration": "17:23",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=908532654&page=62"
+       },
+       {
+           "title": "下册 18.3.1测量小灯泡的电功率-1-原理", 
+           "desc": "",
+           "duration": "12:30",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=915127582&page=63"
+       },
+       {
+           "title": "下册 18.3.1测量小灯泡的电功率-2-习题1", 
+           "desc": "",
+           "duration": "21:55",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=915204506&page=64"
+       },
+       {
+           "title": "下册 18.3.1测量小灯泡的电功率-3-习题2", 
+           "desc": "",
+           "duration": "12:40",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=915230287&page=65"
+       },
+       {
+           "title": "下册 18.3.1测量小灯泡的电功率-4-习题3", 
+           "desc": "",
+           "duration": "22:28",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=915268296&page=66"
+       },
+       {
+           "title": "下册 18.3.2特殊法测功率-安阻法-1原理", 
+           "desc": "",
+           "duration": "23:14",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=917713558&page=67"
+       },
+       {
+           "title": "下册 18.3.2特殊法测功率-安阻法-2习题", 
+           "desc": "",
+           "duration": "14:17",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=917733898&page=68"
+       },
+       {
+           "title": "下册 18.3.2特殊法测功率-伏阻法-1原理", 
+           "desc": "",
+           "duration": "12:13",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=917761246&page=69"
+       },
+       {
+           "title": "下册 18.3.2特殊法测功率-伏阻法-2习题", 
+           "desc": "",
+           "duration": "10:06",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=917777395&page=70"
+       },
+       {
+           "title": "下册 18.3.2特殊法测功率-等效替代法", 
+           "desc": "",
+           "duration": "13:47",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=917916474&page=71"
+       },
+       {
+           "title": "下册 18.3.2特殊法测功率-总结一下", 
+           "desc": "",
+           "duration": "20:49",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=917949632&page=72"
+       },
+       {
+           "title": "下册 18.3.2特殊法测功率-换路求阻法-电流表", 
+           "desc": "",
+           "duration": "23:54",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=918490930&page=73"
+       },
+       {
+           "title": "下册 18.3.2特殊法测功率-换路求阻法-电压表", 
+           "desc": "",
+           "duration": "18:53",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=918522767&page=74"
+       },
+       {
+           "title": "下册 18.3.2特殊法测功率-等效替代求阻法", 
+           "desc": "",
+           "duration": "21:48",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=918571935&page=75"
+       },
+       {
+           "title": "下册 18.4.1电流的热效应+焦耳定律", 
+           "desc": "",
+           "duration": "35:11",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=942305844&page=76"
+       },
+       {
+           "title": "下册 18.4.1焦耳定律-基础题", 
+           "desc": "",
+           "duration": "14:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=942369880&page=77"
+       },
+       {
+           "title": "下册 18.4.1焦耳定律-实验题", 
+           "desc": "",
+           "duration": "24:12",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=942427867&page=78"
+       },
+       {
+           "title": "下册 18.4.2理解焦耳定律-纯电阻非纯电阻计算", 
+           "desc": "",
+           "duration": "19:44",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=942715108&page=79"
+       },
+       {
+           "title": "下册 18.4.2理解焦耳定律-深入非纯电阻计算", 
+           "desc": "",
+           "duration": "19:38",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=942770159&page=80"
+       },
+       {
+           "title": "下册 18.4.2理解焦耳定律-比例计算", 
+           "desc": "",
+           "duration": "24:20",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=942880431&page=81"
+       },
+       {
+           "title": "下册 18.4.3挡位问题-原理", 
+           "desc": "",
+           "duration": "30:17",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=950357635&page=82"
+       },
+       {
+           "title": "下册 18.4.3挡位问题-串联", 
+           "desc": "",
+           "duration": "24:55",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=950410865&page=83"
+       },
+       {
+           "title": "下册 18.4.3挡位问题-并联", 
+           "desc": "",
+           "duration": "26:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=951667962&page=84"
+       },
+       {
+           "title": "下册 18.4.3挡位问题-多开关", 
+           "desc": "",
+           "duration": "15:49",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=951744711&page=85"
+       },
+       {
+           "title": "下册 18.4.3挡位问题-改进", 
+           "desc": "",
+           "duration": "19:59",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=951771744&page=86"
+       },
+       {
+           "title": "下册 18.4.3挡位问题-设计", 
+           "desc": "",
+           "duration": "17:14",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=951862362&page=87"
+       },
+       {
+           "title": "下册 18.4.4电热综合", 
+           "desc": "",
+           "duration": "35:51",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=952410512&page=88"
+       },
+       {
+           "title": "下册 19.1.1家庭电路组成-原理", 
+           "desc": "",
+           "duration": "33:47",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=960052679&page=89"
+       },
+       {
+           "title": "下册 19.1.1家庭电路组成-习题", 
+           "desc": "",
+           "duration": "15:09",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=961548458&page=90"
+       },
+       {
+           "title": "下册 19.1.1家庭电路电流过大的原因-原理", 
+           "desc": "",
+           "duration": "25:54",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=961598965&page=91"
+       },
+       {
+           "title": "下册 19.1.1家庭电路电流过大的原因-习题", 
+           "desc": "",
+           "duration": "22:21",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=962217954&page=92"
+       },
+       {
+           "title": "下册 19.1.1安全用电-原理", 
+           "desc": "",
+           "duration": "13:21",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=962218015&page=93"
+       },
+       {
+           "title": "下册 19.1.1安全用电-习题", 
+           "desc": "",
+           "duration": "13:43",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=962217955&page=94"
+       },
+       {
+           "title": "下册 19.1.2家庭电路作图", 
+           "desc": "",
+           "duration": "36:12",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=962598090&page=95"
+       },
+       {
+           "title": "下册 19.1.3家庭电路故障-原理", 
+           "desc": "",
+           "duration": "32:17",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=963654348&page=96"
+       },
+       {
+           "title": "下册 19.1.3家庭电路故障-习题-短路、检测灯", 
+           "desc": "",
+           "duration": "24:10",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=963969496&page=97"
+       },
+       {
+           "title": "下册 19.1.3家庭电路故障-习题-零线断", 
+           "desc": "",
+           "duration": "24:53",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=964109335&page=98"
+       },
+       {
+           "title": "下册 20.1.1磁体磁极-原理", 
+           "desc": "",
+           "duration": "13:19",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=981669397&page=99"
+       },
+       {
+           "title": "下册 20.1.1磁体磁极-习题1", 
+           "desc": "",
+           "duration": "13:47",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=981669027&page=100"
+       },
+       {
+           "title": "下册 20.1.1磁体磁极-习题2", 
+           "desc": "",
+           "duration": "21:59",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=981711175&page=101"
+       },
+       {
+           "title": "下册 20.1.1磁场磁感线-原理", 
+           "desc": "",
+           "duration": "24:26",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=984384912&page=102"
+       },
+       {
+           "title": "下册 20.1.1磁场磁感线-习题", 
+           "desc": "",
+           "duration": "12:13",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=984414965&page=103"
+       },
+       {
+           "title": "下册 20.1.1地磁场", 
+           "desc": "",
+           "duration": "18:40",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=984461642&page=104"
+       },
+       {
+           "title": "下册 20.2.1奥斯特实验", 
+           "desc": "",
+           "duration": "20:19",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=986773021&page=105"
+       },
+       {
+           "title": "下册 20.2.1通电螺线管的磁场", 
+           "desc": "",
+           "duration": "16:34",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=987860611&page=106"
+       },
+       {
+           "title": "下册 20.2.1安培定则-原理", 
+           "desc": "",
+           "duration": "28:49",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=987909071&page=107"
+       },
+       {
+           "title": "下册 20.2.1安培定则-习题1", 
+           "desc": "",
+           "duration": "13:59",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=988670465&page=108"
+       },
+       {
+           "title": "下册 20.2.1安培定则-习题2", 
+           "desc": "",
+           "duration": "11:09",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=988711968&page=109"
+       },
+       {
+           "title": "下册 20.2.1番外-通电直导线的磁场", 
+           "desc": "",
+           "duration": "16:47",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=988760772&page=110"
+       },
+       {
+           "title": "下册 20.3.1电磁铁-原理", 
+           "desc": "",
+           "duration": "20:16",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=990162560&page=111"
+       },
+       {
+           "title": "下册 20.3.1电磁铁-习题1", 
+           "desc": "",
+           "duration": "22:05",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=991281542&page=112"
+       },
+       {
+           "title": "下册 20.3.1电磁铁-习题2", 
+           "desc": "",
+           "duration": "10:31",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=992290535&page=113"
+       },
+       {
+           "title": "下册 20.3.1电磁继电器-原理", 
+           "desc": "",
+           "duration": "18:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=991371496&page=114"
+       },
+       {
+           "title": "下册 20.3.1电磁继电器-习题1", 
+           "desc": "",
+           "duration": "21:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=991426404&page=115"
+       },
+       {
+           "title": "下册 20.3.1电磁继电器-习题2", 
+           "desc": "",
+           "duration": "12:35",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=991473308&page=116"
+       },
+       {
+           "title": "下册 20.4.1通电导线在磁场中受力-原理", 
+           "desc": "",
+           "duration": "19:59",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1000548606&page=117"
+       },
+       {
+           "title": "下册 20.4.1通电导线在磁场中受力-习题", 
+           "desc": "",
+           "duration": "10:00",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1000567391&page=118"
+       },
+       {
+           "title": "下册 20.4.1电动机原理-原理", 
+           "desc": "",
+           "duration": "27:56",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1000634134&page=119"
+       },
+       {
+           "title": "下册 20.4.1电动机原理-习题", 
+           "desc": "",
+           "duration": "26:14",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1001753633&page=120"
+       },
+       {
+           "title": "下册 20.4.1电动机原理的应用", 
+           "desc": "",
+           "duration": "16:40",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1001801949&page=121"
+       },
+       {
+           "title": "下册 20.4.1番外-左手定则", 
+           "desc": "",
+           "duration": "12:06",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1001826328&page=122"
+       },
+       {
+           "title": "下册 20.5.1电磁感应-原理", 
+           "desc": "",
+           "duration": "23:25",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1008607556&page=123"
+       },
+       {
+           "title": "下册 20.5.1电磁感应-习题", 
+           "desc": "",
+           "duration": "17:16",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1008587363&page=124"
+       },
+       {
+           "title": "下册 20.5.1发电机原理-原理", 
+           "desc": "",
+           "duration": "21:13",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1008637420&page=125"
+       },
+       {
+           "title": "下册 20.5.1发电机原理-习题", 
+           "desc": "",
+           "duration": "16:34",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1008664176&page=126"
+       },
+       {
+           "title": "下册 20.5.1电磁感应的应用", 
+           "desc": "",
+           "duration": "22:44",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1009014234&page=127"
+       },
+       {
+           "title": "下册 20.5.1电磁综合练习", 
+           "desc": "",
+           "duration": "09:03",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1009034662&page=128"
+       },
+       {
+           "title": "下册 21.1.1现代顺风耳-电话", 
+           "desc": "",
+           "duration": "24:07",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1028762759&page=129"
+       },
+       {
+           "title": "下册 21.2.1电磁波的海洋", 
+           "desc": "",
+           "duration": "31:50",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1029197935&page=130"
+       },
+       {
+           "title": "下册 21.3.1广播电视和移动通信", 
+           "desc": "",
+           "duration": "10:28",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1031182042&page=131"
+       },
+       {
+           "title": "下册 21.4.1越来越宽的信息之路", 
+           "desc": "",
+           "duration": "24:59",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1031252430&page=132"
+       },
+       {
+           "title": "下册 22.1.1能源", 
+           "desc": "",
+           "duration": "12:31",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1037387061&page=133"
+       },
+       {
+           "title": "下册 22.2.1核能", 
+           "desc": "",
+           "duration": "15:38",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1037525116&page=134"
+       },
+       {
+           "title": "下册 22.3.1太阳能", 
+           "desc": "",
+           "duration": "13:25",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1037526111&page=135"
+       },
+       {
+           "title": "下册 22.4.1能源与可持续发展", 
+           "desc": "",
+           "duration": "23:10",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1043954993&page=136"
+       },
+       {
+           "title": "下册 Not the end", 
+           "desc": "",
+           "duration": "02:15",
+           "img": "https://i2.hdslb.com/bfs/archive/3d08e4938794ee84bce411f98130ab37d7f7858b.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=816708509&bvid=BV1CG4y1n7Eg&cid=1043960190&page=137"
+       }
+   ]
+}

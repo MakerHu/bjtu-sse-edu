@@ -1,0 +1,590 @@
+{
+   "title": "初二 - 地理",
+   "desc": "",
+   "duration": "21:20:17",
+   "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+   "url": "https://www.bilibili.com/video/BV1yV411k7ry/",
+   "episode": [
+       {
+           "title": "1.优越的地理位置", 
+           "desc": "",
+           "duration": "19:53",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192269278&page=1"
+       },
+       {
+           "title": "2.海陆兼备的大国", 
+           "desc": "",
+           "duration": "21:48",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192269525&page=2"
+       },
+       {
+           "title": "3.行政区划（一）", 
+           "desc": "",
+           "duration": "23:15",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192269775&page=3"
+       },
+       {
+           "title": "4.行政区划（二）", 
+           "desc": "",
+           "duration": "16:41",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192270001&page=4"
+       },
+       {
+           "title": "5.世界上人口最多的国家", 
+           "desc": "",
+           "duration": "17:42",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192270196&page=5"
+       },
+       {
+           "title": "6.人口东多西少", 
+           "desc": "",
+           "duration": "21:17",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192270374&page=6"
+       },
+       {
+           "title": "7.中华民族大家庭", 
+           "desc": "",
+           "duration": "14:42",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192270599&page=7"
+       },
+       {
+           "title": "8.民族分布特点", 
+           "desc": "",
+           "duration": "18:29",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192270796&page=8"
+       },
+       {
+           "title": "9.地形类型多样、山区面积广大---地形、地势", 
+           "desc": "",
+           "duration": "13:22",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192271001&page=9"
+       },
+       {
+           "title": "10.地形类型多样，山区面积广大——主要山脉", 
+           "desc": "",
+           "duration": "14:20",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192271160&page=10"
+       },
+       {
+           "title": "11.地形类型多样，山区面积广大——高原", 
+           "desc": "",
+           "duration": "18:51",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192271714&page=11"
+       },
+       {
+           "title": "12.地形类型多样，山区面积广大——盆地", 
+           "desc": "",
+           "duration": "12:44",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192271926&page=12"
+       },
+       {
+           "title": "13.地形类型多样，山区面积广大——丘陵", 
+           "desc": "",
+           "duration": "14:09",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192272074&page=13"
+       },
+       {
+           "title": "14.地形类型多样，山区面积广大——平原", 
+           "desc": "",
+           "duration": "16:55",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192272243&page=14"
+       },
+       {
+           "title": "15.地形类型多样、山区面积广大---山区", 
+           "desc": "",
+           "duration": "13:40",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192272425&page=15"
+       },
+       {
+           "title": "16.地势东高西低，呈阶梯状分布", 
+           "desc": "",
+           "duration": "17:58",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192272575&page=16"
+       },
+       {
+           "title": "17.冬季南北温差大，夏季普遍温度高", 
+           "desc": "",
+           "duration": "23:40",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192272805&page=17"
+       },
+       {
+           "title": "18.东西干湿差异显著（一）", 
+           "desc": "",
+           "duration": "24:50",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192273057&page=18"
+       },
+       {
+           "title": "19.东西干湿差异显著（二）", 
+           "desc": "",
+           "duration": "18:15",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192273352&page=19"
+       },
+       {
+           "title": "20.我国气候的主要特征", 
+           "desc": "",
+           "duration": "22:28",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192273561&page=20"
+       },
+       {
+           "title": "21.影响我国气候的主要因素", 
+           "desc": "",
+           "duration": "18:36",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192273800&page=21"
+       },
+       {
+           "title": "22.以外河流为主(一)", 
+           "desc": "",
+           "duration": "20:16",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192274166&page=22"
+       },
+       {
+           "title": "23.以河流为主（二）", 
+           "desc": "",
+           "duration": "18:42",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192274388&page=23"
+       },
+       {
+           "title": "24.长江的开发与治理（一）", 
+           "desc": "",
+           "duration": "10:23",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192274599&page=24"
+       },
+       {
+           "title": "25.长江的开发与治理（二）", 
+           "desc": "",
+           "duration": "11:21",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192274746&page=25"
+       },
+       {
+           "title": "26.黄河的开发和治理", 
+           "desc": "",
+           "duration": "11:56",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192274889&page=26"
+       },
+       {
+           "title": "27.常见的自然灾害", 
+           "desc": "",
+           "duration": "13:29",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192275042&page=27"
+       },
+       {
+           "title": "28.我国自然灾害频发", 
+           "desc": "",
+           "duration": "10:50",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192275197&page=28"
+       },
+       {
+           "title": "29.防灾减灾", 
+           "desc": "",
+           "duration": "16:12",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192275312&page=29"
+       },
+       {
+           "title": "30.可再生资源和非可再生资源", 
+           "desc": "",
+           "duration": "14:58",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192275487&page=30"
+       },
+       {
+           "title": "31.总量丰富，人均不足", 
+           "desc": "",
+           "duration": "14:10",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192275633&page=31"
+       },
+       {
+           "title": "32.类型齐全，耕地比重小", 
+           "desc": "",
+           "duration": "09:09",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192275769&page=32"
+       },
+       {
+           "title": "33.我国土地资源利用的特点", 
+           "desc": "",
+           "duration": "16:17",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192275860&page=33"
+       },
+       {
+           "title": "34.地区分布不均", 
+           "desc": "",
+           "duration": "16:08",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192276034&page=34"
+       },
+       {
+           "title": "35.合理利用每一寸土地", 
+           "desc": "",
+           "duration": "14:15",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192276184&page=35"
+       },
+       {
+           "title": "36.时空分布不均", 
+           "desc": "",
+           "duration": "15:44",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192276961&page=36"
+       },
+       {
+           "title": "37.合理利用和保护水资源", 
+           "desc": "",
+           "duration": "14:05",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192277100&page=37"
+       },
+       {
+           "title": "38.南水北调", 
+           "desc": "",
+           "duration": "15:24",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192277243&page=38"
+       },
+       {
+           "title": "39.交通运输方式的选择", 
+           "desc": "",
+           "duration": "25:31",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192277409&page=39"
+       },
+       {
+           "title": "40.我国铁路干线的分布", 
+           "desc": "",
+           "duration": "18:34",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192277672&page=40"
+       },
+       {
+           "title": "41.农业及其重要性", 
+           "desc": "",
+           "duration": "12:00",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192277855&page=41"
+       },
+       {
+           "title": "42.我国农业的地区分布", 
+           "desc": "",
+           "duration": "19:27",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192278115&page=42"
+       },
+       {
+           "title": "43.发展农业要因地制宜", 
+           "desc": "",
+           "duration": "19:57",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192278301&page=43"
+       },
+       {
+           "title": "44.走科技强农之路", 
+           "desc": "",
+           "duration": "12:11",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192278516&page=44"
+       },
+       {
+           "title": "45.工业及其重要性", 
+           "desc": "",
+           "duration": "13:22",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192278640&page=45"
+       },
+       {
+           "title": "46.我国工业的分布", 
+           "desc": "",
+           "duration": "11:02",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192278761&page=46"
+       },
+       {
+           "title": "47.我国四大工业基地", 
+           "desc": "",
+           "duration": "16:42",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192278877&page=47"
+       },
+       {
+           "title": "48.蓬勃发展的高新技术产业", 
+           "desc": "",
+           "duration": "13:19",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=192279044&page=48"
+       },
+       {
+           "title": "【下册】1.中国的地理差异01", 
+           "desc": "",
+           "duration": "19:22",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480257039&page=49"
+       },
+       {
+           "title": "【下册】2.中国的地理差异02", 
+           "desc": "",
+           "duration": "15:24",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480257692&page=50"
+       },
+       {
+           "title": "【下册】3.中国的地理差异03", 
+           "desc": "",
+           "duration": "15:25",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480258294&page=51"
+       },
+       {
+           "title": "【下册】4.中国的地理差异04", 
+           "desc": "",
+           "duration": "24:36",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480258635&page=52"
+       },
+       {
+           "title": "【下册】5.北方地区-自然特征与农业01", 
+           "desc": "",
+           "duration": "20:05",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480259586&page=53"
+       },
+       {
+           "title": "【下册】6.北方地区-自然特征与农业02", 
+           "desc": "",
+           "duration": "12:36",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480260100&page=54"
+       },
+       {
+           "title": "【下册】7.“白山黑水”-东北三省01", 
+           "desc": "",
+           "duration": "13:38",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480260418&page=55"
+       },
+       {
+           "title": "【下册】8.“白山黑水”-东北三省02", 
+           "desc": "",
+           "duration": "12:53",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480260911&page=56"
+       },
+       {
+           "title": "【下册】9.“白山黑水”-东北三省03", 
+           "desc": "",
+           "duration": "13:28",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480261207&page=57"
+       },
+       {
+           "title": "【下册】10.“白山黑水”-东北三省04", 
+           "desc": "",
+           "duration": "15:26",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480261734&page=58"
+       },
+       {
+           "title": "【下册】12.黄土高原02", 
+           "desc": "",
+           "duration": "13:54",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480262324&page=59"
+       },
+       {
+           "title": "【下册】13.黄土高原03", 
+           "desc": "",
+           "duration": "15:56",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480263092&page=60"
+       },
+       {
+           "title": "【下册】14.黄土高原04", 
+           "desc": "",
+           "duration": "11:52",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480263632&page=61"
+       },
+       {
+           "title": "【下册】15.北京01", 
+           "desc": "",
+           "duration": "13:04",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480264150&page=62"
+       },
+       {
+           "title": "【下册】16.北京02", 
+           "desc": "",
+           "duration": "09:33",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480264451&page=63"
+       },
+       {
+           "title": "【下册】17.北京03", 
+           "desc": "",
+           "duration": "13:11",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480264685&page=64"
+       },
+       {
+           "title": "【下册】18.南方地区-自然特征与农业01", 
+           "desc": "",
+           "duration": "13:08",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480265200&page=65"
+       },
+       {
+           "title": "【下册】19.南方地区-自然特征与农业02", 
+           "desc": "",
+           "duration": "13:23",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480265496&page=66"
+       },
+       {
+           "title": "【下册】20.南方地区-自然特征与农业03", 
+           "desc": "",
+           "duration": "14:06",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480266015&page=67"
+       },
+       {
+           "title": "【下册】21.长江三角洲地区01", 
+           "desc": "",
+           "duration": "16:53",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480266364&page=68"
+       },
+       {
+           "title": "【下册】22.长江三角洲地区02", 
+           "desc": "",
+           "duration": "11:07",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480267028&page=69"
+       },
+       {
+           "title": "【下册】23.长江三角洲地区03", 
+           "desc": "",
+           "duration": "07:47",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480267296&page=70"
+       },
+       {
+           "title": "【下册】24.香港和澳门01", 
+           "desc": "",
+           "duration": "13:40",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480267641&page=71"
+       },
+       {
+           "title": "【下册】25.香港和澳门02", 
+           "desc": "",
+           "duration": "14:24",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480267973&page=72"
+       },
+       {
+           "title": "【下册】26.台湾01", 
+           "desc": "",
+           "duration": "14:35",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480268568&page=73"
+       },
+       {
+           "title": "【下册】27.台湾02", 
+           "desc": "",
+           "duration": "16:26",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480269017&page=74"
+       },
+       {
+           "title": "【下册】28.台湾03", 
+           "desc": "",
+           "duration": "13:19",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480269405&page=75"
+       },
+       {
+           "title": "【下册】29.西北地区-自然特征与农业01", 
+           "desc": "",
+           "duration": "14:27",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480269913&page=76"
+       },
+       {
+           "title": "【下册】30.西北地区-自然特征与农业02", 
+           "desc": "",
+           "duration": "11:41",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480270325&page=77"
+       },
+       {
+           "title": "【下册】31.塔里木盆地01", 
+           "desc": "",
+           "duration": "12:02",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480270838&page=78"
+       },
+       {
+           "title": "【下册】32.塔里木盆地02", 
+           "desc": "",
+           "duration": "13:35",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480271117&page=79"
+       },
+       {
+           "title": "【下册】33.青藏地区-自然特征与农业01", 
+           "desc": "",
+           "duration": "13:38",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480272396&page=80"
+       },
+       {
+           "title": "【下册】34.青藏地区-自然特征与农业02", 
+           "desc": "",
+           "duration": "12:51",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480272675&page=81"
+       },
+       {
+           "title": "【下册】35.三江源地区01", 
+           "desc": "",
+           "duration": "12:55",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480273139&page=82"
+       },
+       {
+           "title": "【下册】36.中国在世界中01", 
+           "desc": "",
+           "duration": "10:58",
+           "img": "https://i1.hdslb.com/bfs/archive/911b8eb1ca0c509fb2d0368b7918061072a6489f.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=413171108&bvid=BV11K411K7fK&cid=480271896&page=83"
+       }
+   ]
+}

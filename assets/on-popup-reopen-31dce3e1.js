@@ -1,0 +1,1 @@
+import{O as a,b as O}from"./index-a7cc648c.js";const o="van-hairline",p=`${o}--bottom`,E=`${o}--top-bottom`,_=`${o}-unset--top-bottom`,e="van-haptics-feedback",B=5,T=Symbol();function P(s){const t=a(T,null);t&&O(t,n=>{n&&s()})}export{_ as B,e as H,T as P,B as T,E as a,p as b,P as o};

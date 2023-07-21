@@ -1,0 +1,947 @@
+{
+   "title": "初一 - 数学",
+   "desc": "",
+   "duration": "63:00:39",
+   "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+   "url": "https://www.bilibili.com/video/BV1954y1C7pn/",
+   "episode": [
+       {
+           "title": "上册 1 正数与负数(一)", 
+           "desc": "",
+           "duration": "21:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=235834843&page=1"
+       },
+       {
+           "title": "上册 2 正数与负数(二)", 
+           "desc": "",
+           "duration": "23:47",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=235834990&page=2"
+       },
+       {
+           "title": "上册 3 有理数", 
+           "desc": "",
+           "duration": "23:57",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=235835165&page=3"
+       },
+       {
+           "title": "上册 4 数轴(一)", 
+           "desc": "",
+           "duration": "24:17",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=235835298&page=4"
+       },
+       {
+           "title": "上册 5 数轴(二)", 
+           "desc": "",
+           "duration": "24:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=235835437&page=5"
+       },
+       {
+           "title": "上册 6 相反数", 
+           "desc": "",
+           "duration": "23:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=235835566&page=6"
+       },
+       {
+           "title": "上册 7 绝对值(一)", 
+           "desc": "",
+           "duration": "23:12",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=235835752&page=7"
+       },
+       {
+           "title": "上册 8 绝对值(二)", 
+           "desc": "",
+           "duration": "22:57",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=235835910&page=8"
+       },
+       {
+           "title": "上册 9 有理数的加法(一)", 
+           "desc": "",
+           "duration": "23:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=235836050&page=9"
+       },
+       {
+           "title": "上册 10 有理数的加法(二)", 
+           "desc": "",
+           "duration": "22:27",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=235836240&page=10"
+       },
+       {
+           "title": "上册 11 有理数的减法(一)", 
+           "desc": "",
+           "duration": "22:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=235836565&page=11"
+       },
+       {
+           "title": "上册 12 有理数的减法(二)", 
+           "desc": "",
+           "duration": "23:07",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=235836882&page=12"
+       },
+       {
+           "title": "上册 13 有理数的乘法(一)", 
+           "desc": "",
+           "duration": "23:57",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=237503150&page=13"
+       },
+       {
+           "title": "上册 14 有理数的乘法(二)", 
+           "desc": "",
+           "duration": "24:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=237503571&page=14"
+       },
+       {
+           "title": "上册 15 有理数的乘法(三)", 
+           "desc": "",
+           "duration": "23:17",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=237504419&page=15"
+       },
+       {
+           "title": "上册 16 有理数的除法(一)", 
+           "desc": "",
+           "duration": "22:12",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=238132999&page=16"
+       },
+       {
+           "title": "上册 17 有理数的除法(二)", 
+           "desc": "",
+           "duration": "23:42",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=238133732&page=17"
+       },
+       {
+           "title": "上册 18 有理数的乘方(一)", 
+           "desc": "",
+           "duration": "24:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=238858561&page=18"
+       },
+       {
+           "title": "上册 19 有理数的乘方(二)", 
+           "desc": "",
+           "duration": "20:37",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=238859422&page=19"
+       },
+       {
+           "title": "上册 20 有理数的混合运算(一)", 
+           "desc": "",
+           "duration": "22:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=239848217&page=20"
+       },
+       {
+           "title": "上册 21 有理数的混合运算(二)", 
+           "desc": "",
+           "duration": "23:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=239848375&page=21"
+       },
+       {
+           "title": "上册 22 科学计数法与近似数", 
+           "desc": "",
+           "duration": "21:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=241987984&page=22"
+       },
+       {
+           "title": "上册 23 小结复习（一）", 
+           "desc": "",
+           "duration": "23:37",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=241988323&page=23"
+       },
+       {
+           "title": "上册 24 小结复习（二）", 
+           "desc": "",
+           "duration": "23:12",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=244797764&page=24"
+       },
+       {
+           "title": "上册 25 小结复习（三）", 
+           "desc": "",
+           "duration": "24:57",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=244798106&page=25"
+       },
+       {
+           "title": "上册 26 整式（一）", 
+           "desc": "",
+           "duration": "23:27",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=244798773&page=26"
+       },
+       {
+           "title": "上册 27 整式（二）", 
+           "desc": "",
+           "duration": "21:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=247303386&page=27"
+       },
+       {
+           "title": "上册 28 整式（三）", 
+           "desc": "",
+           "duration": "23:37",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=247303528&page=28"
+       },
+       {
+           "title": "上册 29 整式（四）", 
+           "desc": "",
+           "duration": "24:07",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=247303711&page=29"
+       },
+       {
+           "title": "上册 30 整式的加减（一）", 
+           "desc": "",
+           "duration": "24:47",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=247303949&page=30"
+       },
+       {
+           "title": "上册 31 整式的加减（二）", 
+           "desc": "",
+           "duration": "24:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=247304187&page=31"
+       },
+       {
+           "title": "上册 32 整式的加减（三）", 
+           "desc": "",
+           "duration": "22:17",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=249651148&page=32"
+       },
+       {
+           "title": "上册 33 整式的加减（四）", 
+           "desc": "",
+           "duration": "23:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=249651324&page=33"
+       },
+       {
+           "title": "上册 34 整式的加减（五）", 
+           "desc": "",
+           "duration": "23:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=249651473&page=34"
+       },
+       {
+           "title": "上册 35 月历中的数学问题", 
+           "desc": "",
+           "duration": "23:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=249651641&page=35"
+       },
+       {
+           "title": "上册 36 小结复习（一）", 
+           "desc": "",
+           "duration": "23:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=249651824&page=36"
+       },
+       {
+           "title": "上册 37 小结复习（二）", 
+           "desc": "",
+           "duration": "23:12",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=251883277&page=37"
+       },
+       {
+           "title": "上册 38 一元一次方程（一）", 
+           "desc": "",
+           "duration": "24:07",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=251882266&page=38"
+       },
+       {
+           "title": "上册 39 一元一次方程（二）", 
+           "desc": "",
+           "duration": "24:57",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=251882467&page=39"
+       },
+       {
+           "title": "上册 40 等式性质（一）", 
+           "desc": "",
+           "duration": "22:37",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=251882639&page=40"
+       },
+       {
+           "title": "上册 41 等式性质（二）", 
+           "desc": "",
+           "duration": "22:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=251882782&page=41"
+       },
+       {
+           "title": "上册 42 解一元一次方程（一）（1）", 
+           "desc": "",
+           "duration": "23:57",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=254068822&page=42"
+       },
+       {
+           "title": "上册 43 解一元一次方程（一）（2）", 
+           "desc": "",
+           "duration": "22:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=254068967&page=43"
+       },
+       {
+           "title": "上册 44 解一元一次方程（一）（3）", 
+           "desc": "",
+           "duration": "22:37",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=254069112&page=44"
+       },
+       {
+           "title": "上册 45 解一元一次方程（一）（4）", 
+           "desc": "",
+           "duration": "22:37",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=254069238&page=45"
+       },
+       {
+           "title": "上册 46 解一元一次方程（二）（1）", 
+           "desc": "",
+           "duration": "24:12",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=254069461&page=46"
+       },
+       {
+           "title": "上册 47 解一元一次方程（二）（2）", 
+           "desc": "",
+           "duration": "23:07",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=256399547&page=47"
+       },
+       {
+           "title": "上册 48 解一元一次方程（二）（3）", 
+           "desc": "",
+           "duration": "22:57",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=256400176&page=48"
+       },
+       {
+           "title": "上册 49 解一元一次方程（二）（4）", 
+           "desc": "",
+           "duration": "24:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=256400632&page=49"
+       },
+       {
+           "title": "上册 50 解一元一次方程（二）（5）", 
+           "desc": "",
+           "duration": "22:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=256401303&page=50"
+       },
+       {
+           "title": "上册 51 解一元一次方程（二）（6）", 
+           "desc": "",
+           "duration": "22:57",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=256402335&page=51"
+       },
+       {
+           "title": "上册 52 实际问题与一元一次方程（一）", 
+           "desc": "",
+           "duration": "24:12",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=258839902&page=52"
+       },
+       {
+           "title": "上册 53 实际问题与一元一次方程（二）", 
+           "desc": "",
+           "duration": "22:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=258840223&page=53"
+       },
+       {
+           "title": "上册 54 实际问题与一元一次方程（三）", 
+           "desc": "",
+           "duration": "23:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=258840451&page=54"
+       },
+       {
+           "title": "上册 55 实际问题与一元一次方程（四）", 
+           "desc": "",
+           "duration": "24:32",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=258840944&page=55"
+       },
+       {
+           "title": "上册 56 实际问题与一元一次方程（五）", 
+           "desc": "",
+           "duration": "22:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=258841613&page=56"
+       },
+       {
+           "title": "上册 57 实际问题与一元一次方程（六）", 
+           "desc": "",
+           "duration": "23:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=261537690&page=57"
+       },
+       {
+           "title": "上册 58 实际问题与一元一次方程（七）", 
+           "desc": "",
+           "duration": "20:12",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=261537777&page=58"
+       },
+       {
+           "title": "上册 59 实际问题与一元一次方程（八）", 
+           "desc": "",
+           "duration": "22:47",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=261537873&page=59"
+       },
+       {
+           "title": "上册 60 木杆与重物实验问题", 
+           "desc": "",
+           "duration": "22:32",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=261537972&page=60"
+       },
+       {
+           "title": "上册 61 小结复习（一）", 
+           "desc": "",
+           "duration": "24:37",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=261538068&page=61"
+       },
+       {
+           "title": "上册 62 小结复习（二）", 
+           "desc": "",
+           "duration": "24:07",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=263877066&page=62"
+       },
+       {
+           "title": "上册 63 小结复习（三）", 
+           "desc": "",
+           "duration": "24:12",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=263877641&page=63"
+       },
+       {
+           "title": "上册 64 几何图形（一）", 
+           "desc": "",
+           "duration": "22:17",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=263878369&page=64"
+       },
+       {
+           "title": "上册 65 几何图形（二）", 
+           "desc": "",
+           "duration": "22:22",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=263878522&page=65"
+       },
+       {
+           "title": "上册 66 几何图形（三）", 
+           "desc": "",
+           "duration": "24:42",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=263878693&page=66"
+       },
+       {
+           "title": "上册 67 几何图形（四）", 
+           "desc": "",
+           "duration": "23:17",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=266540799&page=67"
+       },
+       {
+           "title": "上册 68 直线、射线、线段（一）", 
+           "desc": "",
+           "duration": "21:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=266540987&page=68"
+       },
+       {
+           "title": "上册 69 直线、射线、线段（二）", 
+           "desc": "",
+           "duration": "21:47",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=266541159&page=69"
+       },
+       {
+           "title": "上册 70 直线、射线、线段（三）", 
+           "desc": "",
+           "duration": "23:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=266541341&page=70"
+       },
+       {
+           "title": "上册 71 直线、射线、线段（四）", 
+           "desc": "",
+           "duration": "23:27",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=266541577&page=71"
+       },
+       {
+           "title": "上册 72 角（一）", 
+           "desc": "",
+           "duration": "23:42",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=269287191&page=72"
+       },
+       {
+           "title": "上册 73 角（二）", 
+           "desc": "",
+           "duration": "23:02",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=269287579&page=73"
+       },
+       {
+           "title": "上册 74 角（三）", 
+           "desc": "",
+           "duration": "22:52",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=269288210&page=74"
+       },
+       {
+           "title": "上册 75 角（四）", 
+           "desc": "",
+           "duration": "23:57",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=269288551&page=75"
+       },
+       {
+           "title": "上册 76 角（五）", 
+           "desc": "",
+           "duration": "23:27",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=269289611&page=76"
+       },
+       {
+           "title": "上册 77 设计制作长方体形状的包装纸盒", 
+           "desc": "",
+           "duration": "23:47",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=271867967&page=77"
+       },
+       {
+           "title": "上册 78 五角星问题", 
+           "desc": "",
+           "duration": "21:37",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=271868136&page=78"
+       },
+       {
+           "title": "上册 79 小结复习", 
+           "desc": "",
+           "duration": "24:17",
+           "img": "https://i2.hdslb.com/bfs/archive/3d3e0b4bf6b17ad86d2ab77d2f3e59aa489baf3d.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=842095083&bvid=BV1954y1C7pn&cid=271868280&page=79"
+       },
+       {
+           "title": "下册 5.1.1 相交线及相关知识", 
+           "desc": "",
+           "duration": "38:11",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313977199&page=1"
+       },
+       {
+           "title": "下册 5.1.2 垂线的概念与性质", 
+           "desc": "",
+           "duration": "34:31",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313977273&page=2"
+       },
+       {
+           "title": "下册 5.1.3 同位角、内错角、同旁内角的概念", 
+           "desc": "",
+           "duration": "36:01",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313977343&page=3"
+       },
+       {
+           "title": "下册 5.2.1 平行线的概念与平行公理及其推论", 
+           "desc": "",
+           "duration": "37:51",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313977512&page=4"
+       },
+       {
+           "title": "下册 5.2.2 平行线的判定", 
+           "desc": "",
+           "duration": "36:06",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313977582&page=5"
+       },
+       {
+           "title": "下册 5.2.3 平行线的判定的应用", 
+           "desc": "",
+           "duration": "36:46",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313977650&page=6"
+       },
+       {
+           "title": "下册 5.3.1 平行线的性质", 
+           "desc": "",
+           "duration": "35:56",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313977786&page=7"
+       },
+       {
+           "title": "下册 5.3.2 平行线的性质的应用", 
+           "desc": "",
+           "duration": "36:31",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313977868&page=8"
+       },
+       {
+           "title": "下册 5.3.3 命题、定理、证明", 
+           "desc": "",
+           "duration": "32:56",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313977932&page=9"
+       },
+       {
+           "title": "下册 5.4.1 平移的概念与性质", 
+           "desc": "",
+           "duration": "37:01",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313978066&page=10"
+       },
+       {
+           "title": "下册 5.4.2 平移的画图与应用", 
+           "desc": "",
+           "duration": "35:16",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313978133&page=11"
+       },
+       {
+           "title": "下册 5.4.3 与相交线与平行线有关的计算与证明", 
+           "desc": "",
+           "duration": "38:11",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313978205&page=12"
+       },
+       {
+           "title": "下册 5.4.4 与平行线有关的辅助线问题", 
+           "desc": "",
+           "duration": "33:26",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313978259&page=13"
+       },
+       {
+           "title": "下册 5.4.5 相交线与平行线复习", 
+           "desc": "",
+           "duration": "34:16",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313978310&page=14"
+       },
+       {
+           "title": "下册 6.1.1 算术平方根的定义", 
+           "desc": "",
+           "duration": "33:06",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313978458&page=15"
+       },
+       {
+           "title": "下册 6.1.2 平方根的定义及性质", 
+           "desc": "",
+           "duration": "32:11",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313978525&page=16"
+       },
+       {
+           "title": "下册 6.1.3 平方根的综合练习", 
+           "desc": "",
+           "duration": "35:41",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313978592&page=17"
+       },
+       {
+           "title": "下册 6.1.4 根号2有多大_", 
+           "desc": "",
+           "duration": "36:06",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313978758&page=18"
+       },
+       {
+           "title": "下册 6.2.1 立方根的概念", 
+           "desc": "",
+           "duration": "36:41",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313978825&page=19"
+       },
+       {
+           "title": "下册 6.2.2 立方根的性质", 
+           "desc": "",
+           "duration": "37:31",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313978939&page=20"
+       },
+       {
+           "title": "下册 6.3.1 实数的概念", 
+           "desc": "",
+           "duration": "35:31",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313979042&page=21"
+       },
+       {
+           "title": "下册 6.3.2 实数的运算", 
+           "desc": "",
+           "duration": "36:16",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313979099&page=22"
+       },
+       {
+           "title": "下册 6.3.3 实数的知识结构梳理", 
+           "desc": "",
+           "duration": "38:01",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313979281&page=23"
+       },
+       {
+           "title": "下册 6.3.4 实数的综合练习", 
+           "desc": "",
+           "duration": "34:11",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313979372&page=24"
+       },
+       {
+           "title": "下册 7.1.1 平面直角坐标系", 
+           "desc": "",
+           "duration": "32:26",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313979438&page=25"
+       },
+       {
+           "title": "下册 7.2.1 用坐标表示地理位置", 
+           "desc": "",
+           "duration": "34:26",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313979483&page=26"
+       },
+       {
+           "title": "下册 8.1.1 二元一次方程组的概念", 
+           "desc": "",
+           "duration": "33:36",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313979553&page=27"
+       },
+       {
+           "title": "下册 8.2.1 代入消元法解二元一次方程组", 
+           "desc": "",
+           "duration": "35:56",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313979632&page=28"
+       },
+       {
+           "title": "下册 8.2.2 加减消元法解二元一次方程组", 
+           "desc": "",
+           "duration": "33:41",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313979687&page=29"
+       },
+       {
+           "title": "下册 8.2.3 选择适当方法解二元一次方程组", 
+           "desc": "",
+           "duration": "37:46",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313979828&page=30"
+       },
+       {
+           "title": "下册 8.2.4 消元解二元一次方程组的灵活运用", 
+           "desc": "",
+           "duration": "33:46",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313979893&page=31"
+       },
+       {
+           "title": "下册 8.3.1 实际问题与二元一次方程组（第一课时）", 
+           "desc": "",
+           "duration": "34:31",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313979953&page=32"
+       },
+       {
+           "title": "下册 8.3.2 实际问题与二元一次方程组（第二课时）", 
+           "desc": "",
+           "duration": "34:02",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313980096&page=33"
+       },
+       {
+           "title": "下册 8.3.3 实际问题与二元一次方程组（第三课时）", 
+           "desc": "",
+           "duration": "31:56",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313980156&page=34"
+       },
+       {
+           "title": "下册 8.3.4 实际问题与二元一次方程组（第四课时）", 
+           "desc": "",
+           "duration": "34:51",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313980224&page=35"
+       },
+       {
+           "title": "下册 8.4.1 三元一次方程组概念及解法", 
+           "desc": "",
+           "duration": "35:01",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313980380&page=36"
+       },
+       {
+           "title": "下册 8.4.2 消去适当未知元解三元一次方程组", 
+           "desc": "",
+           "duration": "36:46",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313980431&page=37"
+       },
+       {
+           "title": "下册 8.4.3 含参二元一次方程组问题探究", 
+           "desc": "",
+           "duration": "36:31",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313980497&page=38"
+       },
+       {
+           "title": "下册 8.4.4 二元一次方程组全章复习", 
+           "desc": "",
+           "duration": "37:11",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313980631&page=39"
+       },
+       {
+           "title": "下册 9.1.1 不等式及其解集", 
+           "desc": "",
+           "duration": "39:31",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313980700&page=40"
+       },
+       {
+           "title": "下册 9.1.2 不等式的性质（第一课时）", 
+           "desc": "",
+           "duration": "34:16",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313980767&page=41"
+       },
+       {
+           "title": "下册 9.1.3 不等式的性质（第二课时）", 
+           "desc": "",
+           "duration": "33:51",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313980951&page=42"
+       },
+       {
+           "title": "下册 9.2.1 一元一次不等式及其解法", 
+           "desc": "",
+           "duration": "35:26",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313981032&page=43"
+       },
+       {
+           "title": "下册 9.2.2 一元一次不等式解法综合运用", 
+           "desc": "",
+           "duration": "36:31",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313981095&page=44"
+       },
+       {
+           "title": "下册 9.2.3 实际问题与一元一次不等式（第一课时）", 
+           "desc": "",
+           "duration": "33:36",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313981165&page=45"
+       },
+       {
+           "title": "下册 9.2.4 实际问题与一元一次不等式（第二课时）", 
+           "desc": "",
+           "duration": "35:31",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313981211&page=46"
+       },
+       {
+           "title": "下册 9.3.1 一元一次不等式组及其解法", 
+           "desc": "",
+           "duration": "37:41",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313981347&page=47"
+       },
+       {
+           "title": "下册 9.3.2 一元一次不等式组解法综合运用", 
+           "desc": "",
+           "duration": "34:51",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313981411&page=48"
+       },
+       {
+           "title": "下册 9.3.3 不等式与不等式组复习（第一课时）", 
+           "desc": "",
+           "duration": "34:36",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313981453&page=49"
+       },
+       {
+           "title": "下册 9.3.4 不等式与不等式组复习（第二课时）", 
+           "desc": "",
+           "duration": "33:26",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313981506&page=50"
+       },
+       {
+           "title": "下册 9.3.5 有序数对", 
+           "desc": "",
+           "duration": "33:26",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313981564&page=51"
+       },
+       {
+           "title": "下册 10.1.1 统计调查（第一课时）", 
+           "desc": "",
+           "duration": "32:41",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313981673&page=52"
+       },
+       {
+           "title": "下册 10.1.2 统计调查（第二课时）", 
+           "desc": "",
+           "duration": "35:36",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313981721&page=53"
+       },
+       {
+           "title": "下册 10.2.1 直方图（第一课时）", 
+           "desc": "",
+           "duration": "36:26",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313981773&page=54"
+       },
+       {
+           "title": "下册 10.2.2 直方图（第二课时）", 
+           "desc": "",
+           "duration": "35:41",
+           "img": "https://i1.hdslb.com/bfs/archive/ccc5adbad060f4ef2bba49d72853e8a3c1e49229.jpg@672w_378h_1c_!web-search-common-cover.webp",
+           "url": "//player.bilibili.com/player.html?aid=417176719&bvid=BV1XV411Y72z&cid=313981906&page=55"
+       }
+   ]
+}
