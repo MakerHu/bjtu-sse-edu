@@ -22,10 +22,10 @@
                 积跬步至千里，积小流成江海
             </span> -->
             <van-image class="card-img" :src="sloganImg">
-                    <template v-slot:loading>
-                        <van-loading type="spinner" size="20" />
-                    </template>
-                </van-image>
+                <template v-slot:loading>
+                    <van-loading type="spinner" size="20" />
+                </template>
+            </van-image>
             <!-- <van-image class="home-logo" :src="emblem">
             <template v-slot:loading>
                 <van-loading type="spinner" size="20" />
@@ -84,8 +84,14 @@
 
         <div class="sys-desc">
             <div class="sys-desc-title">关于我们</div>
+            <p>
+                欢迎来到“步留云海”！
+            </p>
             <p class="sys-desc-content">
-
+                我们是北京交通大学软件学院研究生暑期社会实践团，为内蒙古科左后旗的中小学生们量身打造了一个全面、丰富的学习资源平台“步留云海”。在这里，你可以找到丰富多样的学习资源，包括从小学一年级到初中三年级课内各科的知识点、教材讲解，同时也提供了各种拓展学习资源，如优秀纪录片、学习经验分享等。希望你们可以在这里尽情探索，享受成长的喜悦；展翅高飞，追求知识的无尽辽阔。
+            </p>
+            <p class="sys-desc-content">
+                让我们携手前行，让知识的海洋无边界，为梦想努力，点燃未来的希望！
             </p>
         </div>
     </van-list>
@@ -294,7 +300,8 @@ onMounted(() => {
 }
 
 .sys-desc-content {
-    font-size: small;
+    text-indent: 2em;
+    /* 两个字符的缩进，em是相对于当前字体尺寸的单位 */
 }
 
 .dailyQuote {
