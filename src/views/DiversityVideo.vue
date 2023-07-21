@@ -5,7 +5,7 @@
 
     <div class="video-page-container">
         <div class="video-container">
-            <iframe class="video" :src="currentVideo.episode[selectedValue].url" scrolling="no" border="0" frameborder="no"
+            <iframe class="video" :src="currentVideo.episode[data.mSelectedValues[0]].url" scrolling="no" border="0" frameborder="no"
                 framespacing="0" allowfullscreen="true"> </iframe>
         </div>
 
@@ -13,15 +13,15 @@
             <div class="msg-panel">
                 <div class="course-title"><van-icon name="orders-o" />
                     {{ currentVideo.title }}
-                    <van-divider v-if="currentVideo.episode[selectedValue].title" vertical
+                    <van-divider v-if="currentVideo.episode[data.mSelectedValues[0]].title" vertical
                         :style="{ borderColor: '#000000' }" />
-                    {{ currentVideo.episode[selectedValue].title }}
+                    {{ currentVideo.episode[data.mSelectedValues[0]].title }}
                 </div>
-                <p class="course-desc">{{ currentVideo.episode[selectedValue].desc }}</p>
+                <p class="course-desc">{{ currentVideo.episode[data.mSelectedValues[0]].desc }}</p>
             </div>
 
             <div class="msg-panel" v-if="currentVideo.episode.length > 1">
-                <van-picker :columns="currentVideo.episode" :columns-field-names="customFieldName" title="选集"
+                <van-picker :columns="currentVideo.episode" :columns-field-names="customFieldName" title="选集" v-model="data.selected"
                     :visible-option-num="selectionSize" @change="onChange" @confirm="onConfirm" @cancel="onCancel">
                     <template #confirm>
                         <van-icon v-show="isChange" name="success" />
@@ -45,14 +45,13 @@
 </template>
 
 <script setup>
-import { ref, reactive, onMounted, computed } from 'vue'
+import { ref, reactive, onMounted, computed, nextTick } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { useStore } from 'vuex'
 
 const route = useRoute()
 const router = useRouter()
 const store = useStore()
-
 
 const loading = ref(false)
 const finished = ref(true)
@@ -66,15 +65,14 @@ const anchors = [
 ]
 
 const data = reactive({
-    baseMsg: {}
+    mSelectedValues: [0],
+    selected: [0]
 })
 
 const customFieldName = {
     text: 'title',
     value: 'index',
 }
-
-const selectedValue = ref(0)
 
 const activePage = computed({
     get() {
@@ -107,7 +105,7 @@ const onChange = ({ selectedValues }) => {
 }
 
 const onConfirm = ({ selectedValues }) => {
-    selectedValue.value = selectedValues[0]
+    data.mSelectedValues = selectedValues
     isChange.value = false
 }
 
@@ -119,6 +117,10 @@ onMounted(() => {
     currentVideo.value.episode.forEach((item, index) => {
         item['index'] = index
     })
+    
+    
+    data.selected = [route.query.episode_num ? route.query.episode_num-1:0]
+    data.mSelectedValues[0] = route.query.episode_num ? route.query.episode_num-1:0
 })
 </script>
 

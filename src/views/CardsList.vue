@@ -82,7 +82,12 @@ const onLoad = () => {
 
 const onCardClick = (item) => {
     currentVideo.value = item
-    router.push('/video')
+    router.push({
+        path: "/video",
+        query: {
+            episode_num: 1
+        }
+    })
 }
 
 onMounted(() => {

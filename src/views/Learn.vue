@@ -118,7 +118,7 @@ const onCardClick = (index) => {
     router.push({
         path: "/course",
         query: {
-            episode_num: index
+            episode_num: index+1
         }
     })
 }

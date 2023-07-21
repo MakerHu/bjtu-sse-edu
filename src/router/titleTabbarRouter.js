@@ -10,7 +10,7 @@ const titleTabbarRouter =
     children: [
         {
             path: 'home',
-            meta: { title: '步流云海' },
+            meta: { title: '科左后旗学习小助手' },
             component: () => import('@/views/Home.vue')
         },
         {
